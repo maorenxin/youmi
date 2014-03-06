@@ -1,0 +1,1284 @@
+id	"package"	count	"name"	"category"	"size"	"image"	"tags"	version	youmi_category
+1	"com.tencent.mm"	2046036	"微信"	"社交网络"	"23.26M"	"http://img.wdjimg.com/mms/icon/v1/3/bd/5295ac6a9c6d51e8285690bdbe1b1bd3_256_256.png"	"社交网络 通信聊天 即时通讯 社交 微信 照片 排行 文字 腾讯 飞机大战"	1	8
+2	"com.qihoo360.mobilesafe"	1221287	"360手机卫士"	"其它"	"13.15M"	"http://img.wdjimg.com/mms/icon/v1/9/43/f9c96cd391fb14f0c936c1166ff3c439_256_256.png"	"安全"	1	19
+3	"com.UCMobile"	1159647	"UC浏览器"	"新闻资讯"	"12.38M"	"http://img.wdjimg.com/mms/icon/v1/a/5f/2fc8afed32938550693c79136f5b15fa_256_256.png"	"新闻资讯 浏览器"	1	17
+4	"com.qzone"	1123824	"QQ空间"	"社交网络"	"8.72M"	"http://img.wdjimg.com/mms/icon/v1/2/a2/1e4c0b7cac55f694e716f3b26784aa22_256_256.png"	"社交网络 交友 论坛 空间 互动 好友 照片 动态 腾讯"	1	8
+5	"com.sina.weibo"	1096873	"新浪微博"	"社交网络"	"17.23M"	"http://img.wdjimg.com/mms/icon/v1/e/49/b91822e4adc0540a15b321ed7587d49e_256_256.png"	"社交网络 微博 新浪"	1	8
+6	"com.baidu.BaiduMap"	1049976	"百度地图"	"出行必用"	"12.88M"	"http://img.wdjimg.com/mms/icon/v1/7/48/d2c98435b7a6e1b67887d4418f4fe487_256_256.png"	"出行必用 百度"	1	22
+7	"com.kugou.android"	992823	"酷狗音乐"	"影音图像"	"7.84M"	"http://img.wdjimg.com/mms/icon/v1/8/ce/5f9a602b49f09795c7edc47b381fece8_256_256.png"	"影音图像 音乐 完美 解码 专业 高清"	1	9
+8	"com.wandoujia.phoenix2"	939090	"豌豆荚"	"常用工具"	"6.5M"	"http://static.yingyonghui.com/icon/72/1376921.png"	NULL	3	14
+9	"com.tencent.mtt"	885753	"QQ浏览器"	"新闻资讯"	"10.63M"	"http://img.wdjimg.com/mms/icon/v1/d/0c/5c31bfd2983db7a5ace85eaf2da490cd_256_256.png"	"新闻资讯 浏览器 书签 腾讯"	1	17
+10	"com.taobao.taobao"	862892	"淘宝"	"网上购物"	"21.24M"	"http://img.wdjimg.com/mms/icon/v1/9/1c/b96a64e8b75c04df572d73b8430b01c9_256_256.png"	"网上购物 商城 物流 淘宝 宝贝 购物 二维码"	1	21
+11	"com.tencent.qqpimsecure"	810189	"腾讯手机管家"	"性能优化"	"9.27M"	"http://img.wdjimg.com/mms/icon/v1/f/6f/f6de19ffef43edf03b8d8e556d9316ff_256_256.png"	"性能优化 安全 管家 智能 清理 性能 腾讯"	1	14
+12	"com.youku.phone"	741198	"优酷"	"影音图像"	"14.15M"	"http://img.wdjimg.com/mms/icon/v1/3/2d/dc14dd1e40b8e561eae91584432262d3_256_256.png"	"影音图像 播放器 视频 高清 娱乐"	1	9
+13	"com.baidu.searchbox"	694989	"百度"	"新闻资讯"	"6.02M"	"http://img.wdjimg.com/mms/icon/v1/a/31/e5043783a4afb94699dac5c594fe131a_256_256.png"	"新闻资讯 搜索 浏览器 百度 二维码 热点"	1	17
+14	"com.baidu.appsearch"	557614	"百度手机助手"	"其它"	"5.21M"	"http://img.wdjimg.com/mms/icon/v1/4/23/9f8f63bc8c799b6464ea349db299c234_256_256.png"	"其它 百度 便捷 助手 使命"	1	14
+15	"com.wochacha"	521957	"我查查"	"便捷生活"	"10.61M"	"http://img.wdjimg.com/mms/icon/v1/b/5e/d09c0cc7f1a808c2ee6fcc3ed61d25eb_256_256.png"	"便捷生活 网上购物 比价"	1	14
+16	"com.eg.android.AlipayGphone"	506236	"支付宝钱包"	"金融理财"	"21.1M"	"http://img.wdjimg.com/mms/icon/v1/5/9f/d056243f3440b848c2c2fd508f2d99f5_256_256.png"	"金融理财 支付 支付宝 钱包 转账 基金 阿里巴巴"	1	18
+17	"com.jingdong.app.mall"	499039	"京东"	"网上购物"	"8.01M"	"http://img.wdjimg.com/mms/icon/v1/f/f6/96fa1bd96846ebefb92a67465624ff6f_256_256.png"	"网上购物 商城"	1	21
+18	"com.halfbrick.fruitninjafree"	494751	"水果忍者免费版"	"休闲益智"	"18.83M"	"http://img.wdjimg.com/mms/icon/v1/0/2f/507dfe7882925257d57aadb5838d72f0_256_256.png"	"休闲益智"	1	4
+19	"com.qihoo360.mobilesafe.opti.powerctl"	484540	"360省电王"	"其它"	"2.95M"	"http://img.wdjimg.com/mms/icon/v1/1/6c/d10924f72b64236e5b811e53318f86c1_256_256.png"	"省电"	1	14
+20	"org.cocos2dx.FishGame"	469712	"捕鱼达人"	"休闲益智"	"37.73M"	"http://img.wdjimg.com/mms/icon/v1/f/78/033ad9b5e8ca7481fcec57fee79df78f_256_256.png"	"休闲益智 捕鱼 捕鱼达人 风靡 团队 全球 养成 游戏 钓鱼 单机"	1	4
+21	"com.tencent.qqgame"	461022	"QQ游戏"	"休闲益智"	"4.53M"	"http://img.wdjimg.com/mms/icon/v1/a/de/f0b981a41e7095cfeeb23284d74addea_256_256.png"	"休闲益智"	1	4
+22	"cn.kuwo.player"	447275	"酷我音乐"	"影音图像"	"5.35M"	"http://img.wdjimg.com/mms/icon/v1/1/85/b4c67e44c4430a36ba7d954b3c21c851_256_256.png"	"影音图像 音乐 歌曲"	1	9
+23	"com.baidu.video"	441271	"百度视频"	"影音图像"	"17.34M"	"http://img.wdjimg.com/mms/icon/v1/a/81/826a6efd55aa60a6e8ca259a2bfba81a_256_256.png"	"影音图像 播放器 视频 百度 无线 视频播放器"	1	9
+24	"com.hiapk.marketpho"	437743	"安卓市场"	"其它"	"2.69M"	"http://img.wdjimg.com/mms/icon/v1/b/03/5ab861f604d9ba75b043a9b08871a03b_256_256.png"	"其它"	1	14
+25	"cn.goapk.market"	428660	"安智市场"	"常用工具"	"2.22M"	"http://img.wdjimg.com/mms/icon/v1/b/d8/fd2ca57c2c417873b5dc37dc39bbfd8b_256_256.png"	"常用工具 安卓手机 第三方"	1	14
+26	"com.renren.mobile.android"	424181	"人人"	"社交网络"	"17.81M"	"http://img.wdjimg.com/mms/icon/v1/2/26/d9dcac2ffb2f48c42d9da8d64ba21262_256_256.png"	"社交网络 交友 人人 校内"	1	8
+27	"com.baidu.input"	416862	"百度手机输入法"	"常用工具"	"6.7M"	"http://img.wdjimg.com/mms/icon/v1/e/a0/0f643352b7fe3ce3073b33911d7efa0e_256_256.png"	"常用工具 输入法"	1	14
+28	"com.miui.home"	404923	"小米百变锁屏"	"美化手机"	"2.45M"	"http://img.wdjimg.com/mms/icon/v1/8/a4/eecc821d7224927b04b748e520871a48_256_256.png"	"美化手机 锁屏"	1	12
+29	"org.cocos2dx.FishingJoy2"	396718	"捕鱼达人2"	"休闲益智"	"50.7M"	"http://img.wdjimg.com/mms/icon/v1/8/19/65a0cbe348a07f28ee4ed57c28064198_256_256.png"	"休闲益智"	1	4
+30	"com.tuan800.tao800"	388922	"折800"	"网上购物"	"3.2M"	"http://img.wdjimg.com/mms/icon/v1/c/f3/7285821ad1892f936be5d984eae15f3c_256_256.png"	"网上购物"	1	20
+31	"com.autonavi.minimap"	381333	"高德地图"	"出行必用"	"14.74M"	"http://img.wdjimg.com/mms/icon/v1/a/7b/987467749ad05d36d8a9012fe6d0c7ba_256_256.png"	"出行必用 地图 导航"	1	22
+32	"com.rovio.angrybirds"	368151	"Angry Birds"	"休闲益智"	"43.75M"	"http://img.wdjimg.com/mms/icon/v1/6/4a/8a227bb9832060295b87a07d30bd24a6_256_256.png"	"休闲益智 小鸟 愤怒的小鸟 单机"	1	4
+33	"com.dragon.android.pandaspace"	351949	"91助手"	"常用工具"	"8.39M"	"http://img.wdjimg.com/mms/icon/v1/6/c3/f2b2452533b148b321da4a99997d2c36_256_256.png"	"常用工具"	1	14
+34	"com.xiaomi.channel"	332077	"米聊"	"通信聊天"	"14.55M"	"http://img.wdjimg.com/mms/icon/v1/5/1d/fe5a680ad0fb6c1a23bed7fa864811d5_256_256.png"	"通信聊天 社交网络 即时通讯"	1	16
+35	"com.sohu.newsclient"	326278	"搜狐新闻"	"新闻资讯"	"5.92M"	"http://img.wdjimg.com/mms/icon/v1/8/b8/dfb4b6b8608d819ef50c086373fdbb88_256_256.png"	"新闻资讯 新闻 搜狐 直播 实时"	1	17
+36	"com.baidu.browser.apps"	317033	"百度手机浏览器"	"常用工具"	"5.55M"	"http://img.wdjimg.com/mms/icon/v1/f/20/2d4932f4632d905d46306b8045b3c20f_256_256.png"	"常用工具 浏览器 百度"	1	14
+37	"com.qq.reader"	309115	"QQ阅读（qqreader）"	"阅读学习"	"4496k"	"http://lh6.ggpht.com/QOvbN0NwQ5N1WS8B1j8YCBcKn6nGmy3_Rj5KA5_8Y-HhcBKfDBAVpHkSBwDP0V1brVeY73mjxBx-qZqhQw8d_Z8"	"85"	5	10
+38	"com.infinit.wostore.ui"	307872	"沃商店"	"便捷生活"	"6.4M"	"http://img.wdjimg.com/mms/icon/v1/7/74/12fa05c73219bd4f66ecd20918ede747_256_256.png"	"便捷生活"	1	14
+39	"com.storm.smart"	302272	"暴风影音"	"影音图像"	"10.62M"	"http://img.wdjimg.com/mms/icon/v1/f/22/5f6fab3911fd6c9b6289cc161b14f22f_256_256.png"	"影音图像 播放器 视频 暴风影音 影片 采集"	1	9
+40	"com.dianping.v1"	296608	"大众点评"	"便捷生活"	"12.07M"	"http://img.wdjimg.com/mms/icon/v1/d/88/284be9818c96d58b3dab8aeb0df1a88d_256_256.png"	"便捷生活 团购"	1	15
+41	"com.changba"	290056	"唱吧"	"影音图像"	"11.65M"	"http://img.wdjimg.com/mms/icon/v1/9/79/8fad5c0a7be7cbff4b6c517cf4165799_256_256.png"	"影音图像 动态 曲目 分类 歌星"	1	8
+42	"com.tencent.WBlog"	283187	"腾讯微博"	"社交网络"	"7.68M"	"http://img.wdjimg.com/mms/icon/v1/4/d8/d4710d962d0910278b0036b4d30a4d84_256_256.png"	"社交网络 微博 照片 享受 穿越 腾讯"	1	8
+43	"com.aspire.mm"	272168	"MM商场"	"常用工具"	"5.63M"	"http://img.wdjimg.com/mms/icon/v1/1/52/37f737f4bd93c1f722cb99538f2e0521_256_256.png"	"常用工具"	1	14
+44	"cn.emagsoftware.gamehall"	264441	"中国移动游戏大厅"	"常用工具"	"3.6M"	"http://static.yingyonghui.com/icon/72/1315809.png"	"其它"	3	14
+45	"com.netease.newsreader.activity"	263807	"网易新闻"	"新闻资讯"	"7.85M"	"http://img.wdjimg.com/mms/icon/v1/f/87/65e6c9793d93f0b96ce9c3dd096c487f_256_256.png"	"新闻资讯 新闻 精品 网易"	1	17
+46	"com.ijinshan.kbatterydoctor"	263085	"金山电池医生"	"性能优化"	"4.32M"	"http://img.wdjimg.com/mms/icon/v1/b/04/60395a1c8523acc57a4a7a9e307be04b_256_256.png"	"性能优化 省电 硬件 安卓手机 智能 专业 待机时间 金山"	1	14
+47	"com.tencent.android.qqdownloader"	261652	"应用宝"	"其它"	"1.59M"	"http://img.wdjimg.com/mms/icon/v1/6/6a/33ac16a3df28682f38f83936b4d5e6a6_256_256.png"	"其它"	1	14
+48	"com.shuqi.controller"	260920	"书旗免费小说"	"阅读学习"	"3.64M"	"http://img.wdjimg.com/mms/icon/v1/c/0d/b01c3d42bceb9052f0aaf9aaec4ca0dc_256_256.png"	"阅读学习 免费小说 书籍 便捷 读书"	1	10
+49	"com.zjh.cmge"	258715	"赌神炸金花"	"休闲益智"	"11.4M"	"http://static.yingyonghui.com/icon/72/1378077.png"	NULL	3	4
+50	"com.tuan800.android"	251680	"团购大全"	"便捷生活"	"5.71M"	"http://img.wdjimg.com/mms/icon/v1/8/45/050caffa61cf9760df92e8d1b9965458_256_256.png"	"便捷生活 团购 团购网 城市 快捷 分类"	1	20
+51	"com.ophone.reader.ui"	251625	"和阅读"	"阅读学习"	"5.55M"	"http://img.wdjimg.com/mms/icon/v1/d/a5/6b1055148a1cc190e19236dcb63d3a5d_256_256.png"	"阅读学习 听书 图书 互动 形态"	1	10
+52	"com.tmall.wireless"	249924	"天猫"	"便捷生活"	"9.63M"	"http://img.wdjimg.com/mms/icon/v1/5/52/c9470a6927a3ce1c3d64869a33b51525_256_256.png"	"便捷生活 商城"	1	21
+53	"com.oupeng.mini.android"	237303	"欧朋浏览器"	"常用工具"	"2.45M"	"http://img.wdjimg.com/mms/icon/v1/3/a2/e7d4510960c9f19de6c95e4edf125a23_256_256.png"	"常用工具"	1	14
+54	"com.unicom.android.game"	231316	"沃游戏"	"休闲益智"	"1.58M"	"http://img.wdjimg.com/mms/icon/v1/d/c7/79ca196eaf01b596f549166d0fc98c7d_256_256.png"	"休闲益智"	1	4
+55	"com.meilishuo"	224121	"美丽说"	"网上购物"	"5.42M"	"http://img.wdjimg.com/mms/icon/v1/8/c4/12a3fee44257ffef1af9d5526f963c48_256_256.png"	"网上购物 导购"	1	20
+56	"com.immomo.momo"	221086	"陌陌"	"社交网络"	"8.98M"	"http://img.wdjimg.com/mms/icon/v1/9/aa/427c9386c1721880ab4e3704068aeaa9_256_256.png"	"社交网络 交友"	1	8
+57	"com.cmcc.mobilevideo"	212730	"和视频"	"影音图像"	"5.42M"	"http://img.wdjimg.com/mms/icon/v1/6/77/9d2133a069313310a2bdf00092002776_256_256.png"	"影音图像"	1	9
+58	"jp.naver.line.android"	212558	"LINE·连我"	"通信聊天"	"21.16M"	"http://img.wdjimg.com/mms/icon/v1/d/57/c948884d9ee75028951282818a35957d_256_256.png"	"通信聊天 社交网络 即时通讯 贴图 Line 连我"	1	16
+59	"com.duomi.android"	212144	"多米音乐"	"影音图像"	"5.56M"	"http://img.wdjimg.com/mms/icon/v1/c/3d/6e38e52e7491f7ede0af5727e1d943dc_256_256.png"	"影音图像 音乐 压力 数据线"	1	9
+60	"com.tadu.android"	204137	"塔读小说"	"阅读学习"	"3.44M"	"http://img.wdjimg.com/mms/icon/v1/b/e6/fd6818d4d3c1d70b19ebebd9cb168e6b_256_256.png"	"阅读学习 小说 文学 方案 布局 外观"	1	10
+61	"com.Qunar"	200454	"去哪儿旅行"	"出行必用"	"13M"	"http://img.wdjimg.com/mms/icon/v1/4/83/0cbcd68809a4011c4af9a346081d1834_256_256.png"	"出行必用 机票"	1	22
+62	"cn.etouch.ecalendar"	195953	"中华万年历"	"便捷生活"	"4.64M"	"http://img.wdjimg.com/mms/icon/v1/e/cc/6d60bb88c3e13d727b42209a0ec09cce_256_256.png"	"便捷生活 日历 万年历 中华"	1	15
+63	"cmccwm.mobilemusic"	191083	"咪咕音乐"	"影音图像"	"7.67M"	"http://img.wdjimg.com/mms/icon/v1/c/c9/93d288c5fec24da6c1bd7aa3f8775c9c_256_256.png"	"影音图像 音乐 无线 歌曲"	1	9
+64	"com.devuni.flashlight"	179491	"手电筒 - Tiny Flashlight Ⓡ"	"常用工具"	"因设备而异"	"https://lh5.ggpht.com/4_-A8zC_-lzo1USVbGgq1lVMlS0jNUPFOR-n5dj1QsRS-O2vZOLEjRLy8c_0zdU3ELQD=w300-rw"	"4.6"	2	14
+65	"com.oplay.android"	173835	"偶玩游戏"	"休闲益智"	"3M"	"http://img.wdjimg.com/mms/icon/v1/3/6b/edf2782b37453b61576d512ec587e6b3_256_256.png"	"休闲益智"	1	4
+66	"sina.mobile.tianqitong"	173634	"天气通"	"便捷生活"	"8.39M"	"http://img.wdjimg.com/mms/icon/v1/5/09/ef19c9d70b51c2e25b26da6261b7d095_256_256.png"	"便捷生活 天气 预警 城市"	1	15
+67	"com.sankuai.meituan"	168319	"美团团购"	"网上购物"	"3.86M"	"http://img.wdjimg.com/mms/icon/v1/d/5e/c66e729c108ffc4c9c1fcbc2d98f15ed_256_256.png"	"网上购物 团购 电影 便捷 享受"	1	20
+68	"com.uc.browser"	166385	"UC浏览器-小体积版"	"新闻资讯"	"2.59M"	"http://img.wdjimg.com/mms/icon/v1/6/14/7bf85b1d99f955f41730cff2b9b59146_256_256.png"	"新闻资讯 浏览器"	1	17
+69	"com.pplive.androidphone"	165138	"PPTV聚力"	"影音图像"	"12.39M"	"http://img.wdjimg.com/mms/icon/v1/c/68/ec2f06c9035f0d75c2bf84b9c15c968c_256_256.png"	"影音图像 视频 电视 看电影 高清 搜狐"	1	9
+70	"com.qihoo.browser"	164323	"360浏览器"	"其它"	"2.53M"	"http://img.wdjimg.com/mms/icon/v1/c/20/35f4ed69ff93bfcd5b15808b2736a20c_256_256.png"	"浏览器 收藏夹 开发 同步 360"	1	14
+71	"com.geili.koudai"	163953	"口袋购物"	"便捷生活"	"3.05M"	"http://img.wdjimg.com/mms/icon/v1/7/3b/8eec980a6b85e2f8294341b5d2ec03b7_256_256.png"	"便捷生活 购物 达人 口袋 女生 智能"	1	21
+72	"com.eshore.ezone"	161388	"天翼空间客户端"	"常用工具"	"5.5M"	"http://static.yingyonghui.com/icon/72/1375027.png"	"网上购物"	3	14
+73	"cn.ninegame.gamemanager"	161238	"九游游戏中心"	"常用工具"	"1.04M"	"http://img.wdjimg.com/mms/icon/v1/0/95/9d075efd08b75d94320620149876d950_256_256.png"	"常用工具 全部软件 安卓手机 神器 完善"	1	14
+74	"com.aiyou.mhsj"	158124	"梦幻神界"	"角色扮演"	"82.86M"	"http://img.wdjimg.com/mms/icon/v1/8/e4/2c1119e177b5dd9aed6235300a09fe48_256_256.png"	"角色扮演 回合制 乐趣 手动 策略 宠物"	1	6
+75	"com.baihe"	155934	"百合婚恋"	"社交网络"	"6.61M"	"http://img.wdjimg.com/mms/icon/v1/a/35/ece5864912c23eaa3b794a086f02035a_256_256.png"	"社交网络 婚恋"	1	8
+76	"com.ting.mp3.android"	154357	"百度音乐"	"影音图像"	"5.7M"	"http://img.wdjimg.com/mms/icon/v1/a/af/82aa3fa559e023b65588e637079aeafa_256_256.png"	"影音图像 音乐 百度"	1	9
+77	"com.snda.youni"	152809	"Youni有你"	"常用工具"	"14.33M"	"http://img.wdjimg.com/mms/icon/v1/d/3f/0876658f776716f90cc48df57b3d93fd_256_256.png"	"常用工具 通信聊天 即时通讯"	1	14
+78	"com.baidu.hao123"	144213	"hao123上网导航"	"新闻资讯"	"6.48M"	"http://img.wdjimg.com/mms/icon/v1/0/ed/3cf54eb8cb6eaa4dfcc6a01eb78bfed0_256_256.png"	"新闻资讯 搜索 hao123 智能 天气预报"	1	17
+79	"com.tudou.android"	142722	"土豆"	"影音图像"	"11.63M"	"http://img.wdjimg.com/mms/icon/v1/8/35/278ccfb418de3fb38f81b8c905d8c358_256_256.png"	"影音图像"	1	9
+80	"com.baidu.tieba"	141026	"百度贴吧"	"社交网络"	"12.76M"	"http://img.wdjimg.com/mms/icon/v1/d/bc/b80f60704484004d9387eaa8e38bcbcd_256_256.png"	"社交网络 论坛 贴吧 社交 百度"	1	8
+81	"com.philzhu.www.ddz"	135827	"单机斗地主"	"休闲益智"	"20.24M"	"http://img.wdjimg.com/mms/icon/v1/0/bd/68d58dfe873727ddaf9980e458314bd0_256_256.png"	"休闲益智"	1	4
+82	"com.egame"	135485	"爱游戏"	"休闲益智"	"1.86M"	"http://img.wdjimg.com/mms/icon/v1/f/07/3977132d9fa6405eaf617350b156707f_256_256.png"	"休闲益智 动作竞技 射击冒险 常用工具 便捷生活 休闲 娱乐 棋牌 益智"	1	4
+83	"com.gau.go.launcherex"	130719	"GO桌面"	"美化手机"	"13.71M"	"http://img.wdjimg.com/mms/icon/v1/d/b5/96323e1c2e4f53aa8b2690effb659b5d_256_256.png"	"美化手机 桌面 go桌面 扫描 个性 动态壁纸 动态主题桌面"	1	12
+84	"com.lectek.android.ecp"	130475	"翼聊"	"通信聊天"	"7.87M"	"http://img.wdjimg.com/mms/icon/v1/c/49/ff9d7ddc51d5a659b11f3ab9efe9a49c_256_256.png"	"通信聊天 短信"	1	16
+85	"com.nd.android.pandahome2"	128588	"91桌面"	"美化手机"	"11.01M"	"http://img.wdjimg.com/mms/icon/v1/5/28/56bab510acea166277b703c31b330285_256_256.png"	"美化手机 桌面 人性化 风格 管家 设计 动态壁纸 动态主题桌面"	1	12
+86	"com.boyaa.lordland.sina"	126664	"博雅斗地主"	"休闲益智"	"10.78M"	"http://img.wdjimg.com/mms/icon/v1/3/1f/e566add708ca3284e4f22a00d33d91f3_256_256.png"	"休闲益智 博雅 斗地主 免费扑克游戏 棋牌"	1	4
+87	"cn.jj"	126534	"JJ斗地主"	"休闲益智"	"10.99M"	"http://img.wdjimg.com/mms/icon/v1/8/48/d2f129f3da5e603b5d02f6562c992488_256_256.png"	"休闲益智 斗地主 jj 棋牌"	1	4
+88	"com.huawei.appmarket"	121774	"智汇云应用市场"	"其它"	"4.48M"	"http://img.wdjimg.com/mms/icon/v1/1/69/ae3b7713529d7b518923ed835b868691_256_256.png"	"其它"	1	14
+89	"com.dewmobile.kuaiya"	121309	"快牙"	"常用工具"	"4.17M"	"http://img.wdjimg.com/mms/icon/v1/7/67/f9c1e1cb1a65dfa154e4c18d5302d677_256_256.png"	"常用工具 文件"	1	14
+90	"com.baidu.netdisk"	118727	"百度云"	"常用工具"	"6.75M"	"http://img.wdjimg.com/mms/icon/v1/2/b7/04edbaaa42b43638ad03461ebc10fb72_256_256.png"	"常用工具 存储 视频 备份 百度 照片"	1	14
+91	"com.netease.pris"	114300	"网易云阅读"	"阅读学习"	"10.76M"	"http://img.wdjimg.com/mms/icon/v1/e/89/bba54831458518d5ee27f857deafd89e_256_256.png"	"阅读学习 杂志 感觉 图书 网易"	1	10
+92	"com.rovio.angrybirdsspace.ads"	114082	"愤怒的小鸟太空版 Angry Birds Space"	"休闲益智"	"48.41M"	"http://img.wdjimg.com/mms/icon/v1/9/7a/a68696064a621a3db36100f1ed7997a9_256_256.png"	"休闲益智 愤怒的小鸟 星系 太空 萌系游戏"	1	4
+93	"com.ifeng.news2"	113518	"凤凰新闻"	"新闻资讯"	"3.93M"	"http://img.wdjimg.com/mms/icon/v1/f/9e/2b8dc32f66658c0b0e147d739e5719ef_256_256.png"	"新闻资讯 新闻"	1	17
+94	"com.corp21cn.mail189"	112838	"189邮箱"	"通信聊天"	"4.6M"	"http://img.wdjimg.com/mms/icon/v1/a/bb/6d1caca97a568bf7b72a68e329445bba_256_256.png"	"通信聊天 邮箱"	1	16
+95	"com.ss.android.article.news"	108351	"今日头条"	"阅读学习"	"6.01M"	"http://img.wdjimg.com/mms/icon/v1/3/20/6a612d75af741d21f9e52626b166a203_256_256.png"	"阅读学习 新闻 头条 新闻咨询 互动 媒体 兴趣"	1	10
+96	"com.fone.player"	105354	"100tv"	"影音图像"	"8.92M"	"http://img.wdjimg.com/mms/icon/v1/b/7f/c9571bfa94ac075eb98030d1078767fb_256_256.png"	"影音图像 播放器 电影 电视剧 视频播放器"	1	9
+97	"com.igg.castleclash_cn_igg"	103563	"城堡争霸"	"经营策略"	"43.78M"	"http://img.wdjimg.com/mms/icon/v1/8/3c/427c8fef327e7719745d223200a153c8_256_256.png"	"经营策略"	1	1
+98	"com.yinhan.hunter.umi"	102641	"时空猎人-格斗之王手游"	"动作竞技"	"58.95M"	"http://lh6.ggpht.com/XZj-7EzYP-9iPMx0UQhvnnDnoiGI2WSjPT-lbA-_Iqd-5TumCxSysajOqSOC5A57lbWBuanznIvRdeEcOV-GJmw"	"动作竞技 网游 猎人 格斗 横版动作 大型游戏 即时RPG 欧美"	5	5
+99	"com.fhzjh.cmge"	102418	"富豪炸金花"	"休闲益智"	"3.5M"	"http://static.yingyonghui.com/icon/72/1337753.png"	NULL	3	4
+100	"com.cleanmaster.mguard_cn"	102115	"猎豹清理大师（原金山清理大师）"	"性能优化"	"6.28M"	"http://img.wdjimg.com/mms/icon/v1/6/6e/ed315a426dd49fe0d330ce65a487b6e6_256_256.png"	"性能优化 优化 清理 金山 猎豹"	1	14
+101	"com.nd.android.pandareader"	100208	"91熊猫看书"	"阅读学习"	"8.01M"	"http://img.wdjimg.com/mms/icon/v1/4/82/33d8af40874ed326d816e920268d4824_256_256.png"	"阅读学习 小说 电子书 图书"	1	10
+102	"com.sg.sledog"	100044	"搜狗号码通"	"常用工具"	"2.76M"	"http://img.wdjimg.com/mms/icon/v1/8/2d/8c5b35e582a66291b4f2c9fec7d3b2d8_256_256.png"	"常用工具 通信聊天 通讯录"	1	14
+103	"com.tx.wxol"	90769	"武侠"	"角色扮演"	"29.36M"	"http://img.wdjimg.com/mms/icon/v1/6/f6/e05fdee9002eeb192c703f48eded2f66_256_256.png"	"角色扮演 武侠 卡牌"	1	6
+104	"com.npc.shenjiang"	89960	"神将传奇OL"	"角色扮演"	"56.88M"	"http://img.wdjimg.com/mms/icon/v1/a/92/f10b38a03874ddf925fa3504d2ade92a_256_256.png"	"角色扮演 传奇 多彩 引擎 电影 即时RPG"	1	6
+105	"ctrip.android.view"	89072	"携程旅行"	"出行必用"	"12.03M"	"http://img.wdjimg.com/mms/icon/v1/9/16/cea504a9cc85347e3397c00c34dd1169_256_256.png"	"出行必用 导航 旅游 机票 酒店"	1	22
+106	"com.mogujie"	89006	"蘑菇街"	"便捷生活"	"5.16M"	"http://img.wdjimg.com/mms/icon/v1/f/94/f1b5b2cf6c21f46dc59204aae573394f_256_256.png"	"便捷生活"	1	20
+107	"com.galapagossoft.trial"	88697	"Trial Xtreme摩托"	"体育竞速"	"22.29M"	"http://img.wdjimg.com/mms/icon/v1/9/ef/f40d08bee9582fafcf738a43d90f8ef9_256_256.png"	"体育竞速 动作竞技 摩托车 旅程 惊险 演出 单机"	1	7
+108	"com.kaixin001.activity"	86730	"开心网"	"社交网络"	"10.49M"	"http://img.wdjimg.com/mms/icon/v1/6/c4/d73e0ce22f47c7720d54a70faa3e9c46_256_256.png"	"社交网络"	1	8
+109	"com.yingyonghui.market"	86673	"应用汇"	"其它"	"3.75M"	"http://img.wdjimg.com/mms/icon/v1/9/49/a9ce2eb739caa4f9c90feacd1aa3d499_256_256.png"	"其它"	1	14
+110	"com.unicom.zworeader.ui"	84909	"沃阅读"	"阅读学习"	"5.73M"	"http://img.wdjimg.com/mms/icon/v1/b/91/44f719747b5af6a4cf0d49c7d95b991b_256_256.png"	"阅读学习 机构 图书 客户"	1	10
+111	"com.sogou.appmall"	84587	"搜狗市场"	"常用工具"	"2.37M"	"http://img.wdjimg.com/mms/icon/v1/c/54/e901b1ba1034e60c49a96e10469bf54c_256_256.png"	"常用工具 新闻资讯"	1	14
+112	"com.yx"	82207	"有信"	"通信聊天"	"5.16M"	"http://img.wdjimg.com/mms/icon/v1/f/75/aae9df83128c2c60adf6b2d597d5f75f_256_256.png"	"通信聊天 电话"	1	16
+113	"com.baidu.wenku"	82142	"百度文库"	"阅读学习"	"4.71M"	"http://img.wdjimg.com/mms/icon/v1/6/0a/389e7c02ff8fc378448ec587ade680a6_256_256.png"	"阅读学习"	1	10
+114	"com.ruide.lzzh.cmge"	81947	"龙之召唤"	"经营策略"	"162.87M"	"http://img.wdjimg.com/mms/icon/v1/7/7f/35aa0e53a07ad573648816bc2991e7f7_256_256.png"	"经营策略 角色扮演 休闲益智"	1	1
+115	"com.lasun.mobile.client.activity"	81798	"天翼手机"	"便捷生活"	"11.43M"	"http://img.wdjimg.com/mms/icon/v1/0/f4/4a9dcf8e1e9ce62b7a8c679eec541f40_256_256.png"	"便捷生活"	1	16
+116	"com.duoku.coolreader"	80414	"百度多酷书城"	"阅读学习"	"3.31M"	"http://img.wdjimg.com/mms/icon/v1/f/b1/b197cd3ca72d15efd080e573ef6c6b1f_256_256.png"	"阅读学习 听书 小说 电子书 书城 图书 搜索引擎 穿越 百度"	1	10
+117	"com.kascend.video"	79777	"开迅视频"	"影音图像"	"8.66M"	"http://img.wdjimg.com/mms/icon/v1/a/2d/0a6a76d8889243f978078e3f9db7f2da_256_256.png"	"影音图像 播放器 视频 语音 电影 视频播放器"	1	9
+118	"com.lectek.android.sfreader"	79077	"天翼阅读"	"阅读学习"	"6.15M"	"http://img.wdjimg.com/mms/icon/v1/e/94/436ce7de71cec77c48cb83153694394e_256_256.png"	"阅读学习 小说 漫画 电子书 书籍 互动"	1	10
+119	"cn.mbga.portal"	78162	"梦宝谷游戏中心"	"角色扮演"	"7.03M"	"http://img.wdjimg.com/mms/icon/v1/d/78/96bf8082bebc81228f2b73b923cce78d_256_256.png"	"角色扮演 中心 社区 日本 互联网 休闲"	1	6
+120	"com.tigerknows"	78041	"老虎地图"	"出行必用"	"3.91M"	"http://img.wdjimg.com/mms/icon/v1/e/42/55bb2820b361efa2777686bdee57742e_256_256.png"	"出行必用 地图 宝典 娱乐 交通"	1	22
+121	"com.baidu.news"	77175	"百度新闻"	"新闻资讯"	"5.48M"	"http://img.wdjimg.com/mms/icon/v1/e/77/82894de58b5cba64cfa7b188f929177e_256_256.png"	"新闻资讯 新闻"	1	17
+122	"cn.com.tiros.android.navidog"	75755	"导航犬"	"出行必用"	"16.69M"	"http://img.wdjimg.com/mms/icon/v1/b/66/d6943b3b5ffa14589bdd1f270b40a66b_256_256.png"	"出行必用 导航 图像 语音 交通 标志 监控"	1	22
+123	"com.miui.mihome2"	75637	"小米桌面"	"美化手机"	"6.41M"	"http://img.wdjimg.com/mms/icon/v1/6/56/1289cc3a34d61303ad26b1db888eb566_256_256.png"	"美化手机 主题 桌面 小米 风格 个性 完美 单调 动态壁纸 动态主题桌面"	1	12
+124	"com.vancl.activity"	74705	"凡客诚品vancl"	"便捷生活"	"4.11M"	"http://img.wdjimg.com/mms/icon/v1/c/d2/61398983d3e439f504156d6b99507d2c_256_256.png"	"便捷生活 商城"	1	21
+125	"com.dangdang.buy2"	74603	"当当网"	"便捷生活"	"6.48M"	"http://img.wdjimg.com/mms/icon/v1/8/36/f77fac3d969c87cc84d05996a1ac0368_256_256.png"	"便捷生活 商城"	1	21
+126	"com.mykj.game.ddz"	74318	"赢话费斗地主"	"休闲益智"	"7.22M"	"http://img.wdjimg.com/mms/icon/v1/c/c6/253f93e98ae7f94ae5381f8cdfc02c6c_256_256.png"	"休闲益智"	1	4
+127	"com.gale.sanguokill.hd"	73773	"三国KILL"	"经营策略"	"42.78M"	"http://img.wdjimg.com/mms/icon/v1/1/86/4b9225ba1c02aaf7077402c8f42ea861_256_256.png"	"经营策略 三国 蓝牙"	1	1
+128	"com.ganji.android"	70421	"赶集生活"	"便捷生活"	"6.31M"	"http://img.wdjimg.com/mms/icon/v1/7/c6/e520a7cc72b13794fccce02080976c67_256_256.png"	"便捷生活 买卖 房子 找工作 感觉"	1	15
+129	"com.tencent.qqphonebook"	70197	"QQ通讯录——最快最智能的通讯录"	"常用工具"	"9.09M"	"http://img.wdjimg.com/mms/icon/v1/e/bd/3e821f918925a0466cadb9015e76abde_256_256.png"	"常用工具 通信聊天 通讯录"	1	14
+130	"com.blovestorm"	69591	"来电通"	"常用工具"	"6.05M"	"http://img.wdjimg.com/mms/icon/v1/b/24/2995757378d308e79df086c9ed67f24b_256_256.png"	"常用工具 通信聊天 电话"	1	14
+131	"bdmobile.android.app"	67493	"掌上百度"	"新闻资讯"	"2.99M"	"http://img.wdjimg.com/mms/icon/v1/1/d3/593d939f93b347ee7b6f563deb681d31_256_256.png"	"新闻资讯 新闻 百度"	1	17
+132	"com.sogou.map.android.maps"	67120	"搜狗地图"	"出行必用"	"13.41M"	"http://img.wdjimg.com/mms/icon/v1/5/aa/f8bc8c9e244ff8dd2edb8e412ec6aaa5_256_256.png"	"出行必用 地图 导航 共享 路线 搜狐 搜狗"	1	22
+133	"com.ifeng.newvideo"	66716	"凤凰视频"	"影音图像"	"11.45M"	"http://img.wdjimg.com/mms/icon/v1/b/4c/5fbfebe925f0c197084b48f2e5f184cb_256_256.png"	"影音图像 视频 预定 凤凰卫视 电影"	1	9
+134	"com.xpg.mizone"	66121	"脉萌大本营"	"休闲益智"	"22.54M"	"http://img.wdjimg.com/mms/icon/v1/8/b4/fccacf24dddbe84ea92019ace94cdb48_256_256.png"	"休闲益智 体育竞速 便捷生活"	1	4
+135	"com.flightmanager.view"	65840	"航班管家"	"出行必用"	"7.38M"	"http://img.wdjimg.com/mms/icon/v1/a/7a/3c5bf0c4abc64b11491b2de56aba27aa_256_256.png"	"出行必用 便捷生活 机票"	1	22
+136	"com.feelingtouch.NinjaRun"	65065	"忍者突袭 Ninja Rush"	"动作竞技"	"3.69M"	"http://img.wdjimg.com/mms/icon/v1/7/9a/5362b483f1df577286c538547ab079a7_256_256.png"	"动作竞技 忍者 风格 好玩的 组合 单机"	1	5
+137	"com.mas.wawagame.BDDKlord"	64871	"多酷斗地主"	"休闲益智"	"3.91M"	"http://img.wdjimg.com/mms/icon/v1/b/e1/e1150144db06e5646daa6ccacb5e0e1b_256_256.png"	"休闲益智"	1	4
+138	"com.meitu.meiyancamera"	64362	"美颜相机"	"影音图像"	"16.72M"	"http://img.wdjimg.com/mms/icon/v1/0/a4/ed60426f000fc5396a2deeff70fa1a40_256_256.png"	"影音图像 相机 传统 完美 团队 女生 定制"	1	12
+139	"com.lk.arthur"	63282	"王者之剑"	"动作竞技"	"63.99M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-12-18073954-_1387366794553_4846.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	5
+140	"com.nuomi"	62691	"糯米团购"	"网上购物"	"5.05M"	"http://img.wdjimg.com/mms/icon/v1/c/41/57f6251a2126eb42713b508edad9841c_256_256.png"	"网上购物 团购"	1	20
+141	"com.tencent.map"	60548	"腾讯地图"	"出行必用"	"10.33M"	"http://img.wdjimg.com/mms/icon/v1/1/38/13ba35f73cf0e57e58f841369834a381_256_256.png"	"出行必用 腾讯 街景 离线 定位"	1	22
+142	"cn.mama.activity"	60538	"妈妈圈"	"育儿母婴"	"5.56M"	"http://img.wdjimg.com/mms/icon/v1/4/12/c45e94f9cd65d490417c42007ac4d124_256_256.png"	"育儿母婴 育儿"	1	13
+143	"com.square_enix.million_cn"	58795	"百万亚瑟王"	"角色扮演"	"23.94M"	"http://img.wdjimg.com/mms/icon/v1/2/64/c8e5598d3002f9a0cb76f6521ffe2642_256_256.png"	"角色扮演 卡牌 动漫 回合RPG"	1	6
+144	"com.bf.win"	58615	"抢话费斗地主"	"休闲益智"	"11.95M"	"http://img.wdjimg.com/mms/icon/v1/6/93/d1a8f7f2b472560a8070a9039d812936_256_256.png"	"休闲益智 斗地主 玩转"	1	4
+145	"com.nqmobile.antivirus20"	58128	"网秦安全"	"性能优化"	"6.5M"	"http://img.wdjimg.com/mms/icon/v1/9/45/0a97116101946a4a614ca0798e95c459_256_256.png"	"性能优化 安全 保护 安全软件"	1	19
+146	"com.yh.h.cmge"	57143	"热血骑士团(皇家联盟)"	"模拟养成"	"60.48M"	"http://img.wdjimg.com/mms/icon/v1/b/b4/c4f87bc682d1c68d70464197c3c46b4b_256_256.png"	"模拟养成 休闲益智"	1	3
+147	"com.tencent.zebra"	57119	"水印相机"	"影音图像"	"17.18M"	"http://img.wdjimg.com/mms/icon/v1/c/84/6f10c5ddb6f6e3160522d3872d5c484c_256_256.png"	"影音图像 相机 水印 腾讯"	1	12
+148	"com.dianping.t"	56585	"点评团"	"网上购物"	"4.38M"	"http://img.wdjimg.com/mms/icon/v1/9/e2/dd1708797dc39194d9d9b944e4fa2e29_256_256.png"	"网上购物 团购 美食 电影 点评 消费 大众"	1	20
+149	"com.peopleClients.views"	55988	"人民新闻"	"新闻资讯"	"2.28M"	"http://img.wdjimg.com/mms/icon/v1/2/da/4f3ba2091e1b027fd094fbebc49bfda2_256_256.png"	"新闻资讯 新闻 人民 交流 互动"	1	17
+150	"com.baidu.baidulife"	55489	"百度团购"	"便捷生活"	"12.16M"	"http://img.wdjimg.com/mms/icon/v1/0/6c/454fbb5fac965e800195cbbbb643d6c0_256_256.png"	"便捷生活 团购 百度"	1	20
+151	"com.nusDSClient"	55429	"龙印"	"动作竞技"	"40.02M"	"http://img.wdjimg.com/mms/icon/v1/d/a5/356d09da0a38a4076760f63c4dc89a5d_256_256.png"	"动作竞技 江湖 武侠 人物 战斗"	1	5
+152	"com.realarcade.DOJ"	55371	"涂鸦跳跃者"	"休闲益智"	"11.81M"	"http://img.wdjimg.com/mms/icon/v1/0/3f/8d5abcc229ecda7fd481004ac52ff3f0_256_256.png"	"休闲益智 动作竞技 射击冒险 风格 涂鸦 享受 弹簧"	1	4
+153	"com.yoyomusic"	54926	"优优音乐"	"影音图像"	"1.8M"	"http://img.wdjimg.com/mms/icon/v1/3/1f/1365a86af2bb4e852a82e4d5678631f3_256_256.png"	"影音图像"	1	9
+154	"com.youdao.note"	54744	"有道云笔记"	"办公软件"	"18.83M"	"http://img.wdjimg.com/mms/icon/v1/4/7e/2c1d040abd61a6c4c1d5bce8851de7e4_256_256.png"	"办公软件 笔记 有道 备份 电脑 网易"	1	11
+155	"com.bf.sgs"	53204	"三国杀online（五周年专版）"	"休闲益智"	"34.7M"	"http://img.wdjimg.com/mms/icon/v1/5/75/bc2153090925ba5db3795bf300a81755_256_256.png"	"休闲益智 卡牌 游戏 三国 单机"	1	4
+156	"cn.emoney.level2"	52163	"益盟操盘手"	"金融理财"	"3.22M"	"http://img.wdjimg.com/mms/icon/v1/e/3c/69e86593463c8ddde1c451f0cf8063ce_256_256.png"	"金融理财 股票"	1	18
+157	"com.tencent.pengyou"	51908	"朋友网"	"社交网络"	"7.05M"	"http://img.wdjimg.com/mms/icon/v1/5/05/3e24f4d253a5e117143b7adc3fc1f055_256_256.png"	"社交网络 交友 好友 动态 密友 声波 腾讯"	1	8
+158	"com.gamelogic"	51240	"钢铁游侠"	"休闲益智"	"60.5M"	"http://img.wdjimg.com/mms/icon/v1/2/69/3c629f16f5ebed8a3695e8fad1891692_256_256.png"	"休闲益智"	1	4
+159	"com.anguanjia.safe"	51128	"安全管家"	"性能优化"	"7.89M"	"http://img.wdjimg.com/mms/icon/v1/2/51/14ecdcf3d1dde5c48163c4b777c17512_256_256.png"	"性能优化 安全"	1	14
+160	"com.gome.eshopnew"	51104	"国美在线"	"网上购物"	"6.87M"	"http://img.wdjimg.com/mms/icon/v1/6/3e/aed19833f709610bf0d573fcf35963e6_256_256.png"	"网上购物"	1	21
+161	"com.DreamHeaven.MocaWorldAiBeiWei"	50573	"摩卡世界3D(进击的精灵)"	"动作竞技"	"63.17M"	"http://img2.sjpic.91rb.com/soft/2013/10/22/01dbc787a28f4848826bce1fdaf68275/icon_8ca8aa02af514eec954367053ebe53a3_65.png"	"动作竞技 网游"	4	5
+162	"org.cocos2dx.froyoPublish"	50072	"烽火战神"	"角色扮演"	"47.29M"	"http://img.wdjimg.com/mms/icon/v1/6/30/a67f455546b16297971891d15ce95306_256_256.png"	"角色扮演"	1	6
+163	"com.dp.android.elong"	49430	"艺龙旅行"	"出行必用"	"5.48M"	"http://img.wdjimg.com/mms/icon/v1/1/fa/fa9c066e2148db0d6c9bf4f6f5f72fa1_256_256.png"	"出行必用 便捷生活 旅游 机票 酒店"	1	22
+164	"cn.fcSanGuo.umipay"	49238	"喵将传"	"经营策略"	"87.29M"	"http://img.wdjimg.com/mms/icon/v1/b/46/044979c6ac1ae4ccb3c7c13b5f73d46b_256_256.png"	"经营策略 模拟养成"	1	1
+165	"com.lenovo.safecenter"	48799	"乐安全"	"性能优化"	"8.04M"	"http://img.wdjimg.com/mms/icon/v1/0/a6/1ec50c0c16a1bde471f30ad95032ea60_256_256.png"	"性能优化 安全 流量 拦截 杀毒 流量监控 联想"	1	14
+166	"com.byread.reader"	48201	"百阅"	"阅读学习"	"6.05M"	"http://img.wdjimg.com/mms/icon/v1/9/b3/00574e2e873b5216069c1971b4c8cb39_256_256.png"	"阅读学习 电子书"	1	10
+167	"com.lbe.security"	48082	"LBE安全大师（免ROOT）"	"常用工具"	"4.6M"	"https://lh6.ggpht.com/DHOo8LcW9stgTOujvYv7RjhbP4o2JSVm3J-bcpjvPzTJAhOddQKOowfs9pFgYIX1Pg=w300-rw"	"4.1"	2	14
+168	"com.ijinshan.mguard"	47727	"金山手机卫士"	"性能优化"	"4.02M"	"http://img.wdjimg.com/mms/icon/v1/8/89/40c163db0e9765e645a3c6519ae71898_256_256.png"	"性能优化 安全 拦截 省钱 金山"	1	19
+169	"com.lashou.groupurchasing"	47710	"拉手团购"	"网上购物"	"5.44M"	"http://img.wdjimg.com/mms/icon/v1/4/fe/15e9b6a94184a360142ec87fed377fe4_256_256.png"	"网上购物 团购"	1	20
+170	"com.wacai365"	47166	"挖财"	"金融理财"	"5.14M"	"http://img.wdjimg.com/mms/icon/v1/c/e6/c41debea8f943cb4246ff45c70127e6c_256_256.png"	"金融理财 记账"	1	18
+171	"com.yongche.taxi"	47004	"打车小秘"	"便捷生活"	"3.73M"	"http://img.wdjimg.com/mms/icon/v1/6/9c/8803eb199aabbabe0dd876c7d11399c6_256_256.png"	"便捷生活 打车 都市 出租车"	1	15
+172	"cn.Oleaster.zjs"	46810	"醉江山"	"经营策略"	"19.96M"	"http://img.wdjimg.com/mms/icon/v1/9/60/60596b959584f62cb64517f6f6e45609_256_256.png"	"经营策略 三国 江山 乱世 吕布 名将"	1	1
+173	"com.youyuan.yyhl"	46728	"有缘相亲"	"社交网络"	"2.56M"	"http://img.wdjimg.com/mms/icon/v1/8/89/d0b447408a27c738f2c3172114b5e898_256_256.png"	"社交网络"	1	8
+174	"com.wlanplus.chang"	46538	"畅无线"	"常用工具"	"861.76K"	"http://img.wdjimg.com/mms/icon/v1/8/d8/18218d87a734deab29dac616254f6d88_256_256.png"	"常用工具 流量"	1	14
+175	"air.com.uuzu.mjhapk.cw"	46461	"萌江湖"	"角色扮演"	"55.44M"	"http://lh5.ggpht.com/OvRQuesfKKedijiYk8zPsJReHVlb-yh03LxUlLL7q2PJ9PDvGyFDNAfmDWW3TFFiOEx3q8XH0HnqHI-8qhN89Dc"	"角色扮演 网游 回合RPG 萌系游戏 卡牌 武侠"	1	6
+176	"cn.fangcun"	46339	"怪物联盟"	"角色扮演"	"56.85M"	"http://img.wdjimg.com/mms/icon/v1/2/53/df1ba1ea85548b1c0d4f459203a25532_256_256.png"	"角色扮演"	1	6
+177	"com.hummingbird.zhaoqin.ssjjsy"	46033	"猎艳江湖"	"休闲益智"	"60.57M"	"http://img.wdjimg.com/mms/icon/v1/a/ec/f15f91833f2feb9fb69205079d986eca_256_256.png"	"休闲益智"	1	4
+178	"com.ting.mp3.qianqian.android"	45745	"千千静听百度音乐版"	"影音图像"	"5.22M"	"http://img.wdjimg.com/mms/icon/v1/4/9f/988401db2d09cabfb0bf51c2a1dd19f4_256_256.png"	"影音图像 音乐 百度 静听 歌曲"	1	9
+179	"com.leixun.taofen8"	45250	"淘粉吧"	"网上购物"	"3.4M"	"https://lh3.ggpht.com/ld1Roys7ULO2GhsVECFMRrlM9lFnsDLCO6SYwEI6A7PcRuEv6YH0uybeMby3THCs7Q=w300-rw"	"淘宝省钱必备神器)超越美丽说、蘑菇街"	2	20
+180	"com.mango.sanguo15.owan"	44848	"雄霸天下"	"模拟养成"	"49.73M"	"http://img.wdjimg.com/mms/icon/v1/0/56/d0ebf0c3a373465c721ba3f255d1f560_256_256.png"	"模拟养成"	1	3
+181	"me.mizhuan"	43876	"手机赚钱-米赚"	"生活时尚"	"2.8M"	"https://lh5.ggpht.com/BnIyAiVvnC-a641iALHzIzdRSb4RPgwoSrwZjj2q4vO_huOvyAx4W2dEYmaSkOZyL7w=w300-rw"	"4.7"	2	18
+182	"com.anjuke.android.app"	43763	"安居客"	"便捷生活"	"8.39M"	"http://img.wdjimg.com/mms/icon/v1/d/72/e0543551e8df467e36a11f216f2f572d_256_256.png"	"便捷生活"	1	15
+183	"com.dxzjh.cmge"	43608	"赌侠炸金花"	"休闲游戏"	"13.05M"	"http://img6.sjpic.91rb.com/soft/2013/9/30/018b7f0f9c0a4a81965456084e363e5c/icon_d3f163e092ff47a8860259533c420544_65.png"	NULL	4	4
+184	"com.android.hjsanguo"	43333	"叫我猛将(不删档内测)"	"策略游戏"	"76.9M"	"http://static.yingyonghui.com/icon/72/1375186.png"	NULL	3	1
+185	"cn.com.kaixingocard.mobileclient"	43187	"购开心"	"便捷生活"	"5.82M"	"http://img.wdjimg.com/mms/icon/v1/4/d0/9e799be7c41819f6500525ba205e5d04_256_256.png"	"便捷生活 点数 通路 享受 透过"	1	15
+186	"com.bodong.dianjinbibei"	43016	"装机必备"	"常用工具"	"977.73K"	"http://img.wdjimg.com/mms/icon/v1/a/38/b8767e020a8aed6f6943a4c92be8538a_256_256.png"	"常用工具"	1	14
+187	"com.kandian.vodapp"	42569	"快手看片"	"影音图像"	"17.14M"	"http://img.wdjimg.com/mms/icon/v1/3/16/e13b2fab1f4aecdcc83eef3c8451d163_256_256.png"	"影音图像 视频 电视 电影 高清 动漫"	1	9
+188	"com.baidu.movie"	42267	"百度电影"	"影音图像"	"9.38M"	"http://img.wdjimg.com/mms/icon/v1/d/9c/9a2d3624ebf194de02b0f365701b09cd_256_256.png"	"影音图像 电影"	1	9
+189	"com.android.GameLua.longyin"	42231	"兄弟萌（又名：大话水浒）"	"经营策略"	"35.13M"	"http://img.wdjimg.com/mms/icon/v1/e/b5/b02fdc760591bbd803e5d3a65e874b5e_256_256.png"	"经营策略 历史 卡牌"	1	1
+190	"com.yek.lafaso"	42203	"乐蜂网"	"便捷生活"	"7.53M"	"http://img.wdjimg.com/mms/icon/v1/f/a6/9ff4d1fbfe74620d587a11df8e9d0a6f_256_256.png"	"便捷生活 商品 便捷 美容"	1	21
+191	"com.moxiu.launcher"	42011	"魔秀桌面"	"美化手机"	"4.72M"	"http://img.wdjimg.com/mms/icon/v1/3/a1/a28c738450e61fa04ec243d604967a13_256_256.png"	"美化手机 主题 桌面 魔秀 精品 工具 动态壁纸 动态主题"	1	12
+192	"com.lenovo.anyshare"	41823	"茄子快传"	"办公软件"	"3.78M"	"http://img.wdjimg.com/mms/icon/v1/8/cd/793397687ff30c8510fc954ee068bcd8_256_256.png"	"办公软件 文件 工具 传输 联想"	1	11
+193	"air.com.game.sg3android"	41654	"指尖三国"	"休闲益智"	"30.33M"	"http://img.wdjimg.com/mms/icon/v1/a/4d/585bc205a5686bf01cc7ac0ea657f4da_256_256.png"	"休闲益智 三国"	1	4
+194	"com.mappn.gfan"	41152	"机锋市场"	"常用工具"	"2.38M"	"http://img.wdjimg.com/mms/icon/v1/0/ef/3ccf71a304123e05a5f2fb016d592ef0_256_256.png"	"常用工具 市场 编辑 中文"	1	14
+195	"cn.Longmaster.PhonePlus.Activity"	41089	"phone+(蜂加)"	"通信聊天"	"14.25M"	"http://img.wdjimg.com/mms/icon/v1/8/0b/2d6318bccab53f2cfa149301df9a40b8_256_256.png"	"通信聊天"	1	16
+196	"com.boyaa.sina"	41033	"博雅德州扑克"	"休闲益智"	"11.37M"	"http://img.wdjimg.com/mms/icon/v1/1/48/92fddda54c9fae40ed1d8c2d17bee481_256_256.png"	"休闲益智 德州 棋牌 扑克 火爆 扑克游戏"	1	4
+197	"com.haowan123.qinmeiren.ssjj"	40852	"秦美人"	"角色扮演"	"116.43M"	"http://img.wdjimg.com/mms/icon/v1/3/f8/5f5ccd618bd2c639d0cbb463dd6cdf83_256_256.png"	"角色扮演"	1	6
+198	"com.diguayouxi"	40544	"当乐游戏中心"	"常用工具"	"2.91M"	"http://img.wdjimg.com/mms/icon/v1/1/70/43306fbfb58f0a8dd7a2613f8ea13701_256_256.png"	"常用工具"	1	14
+199	"com.chinamobile.cmccwifi"	40443	"随e行WLAN"	"常用工具"	"4.28M"	"http://img.wdjimg.com/mms/icon/v1/a/7e/8dd5a030764c68ad6304e354c57dd7ea_256_256.png"	"常用工具 热点 无线 互联网 完美"	1	14
+200	"com.eshore.efilm"	39152	"院线通电影票"	"便捷生活"	"3.4M"	"http://img.wdjimg.com/mms/icon/v1/d/bc/4959a6533814d8d38f4fc1ab4bba5bcd_256_256.png"	"便捷生活 票务 影院 预订 电影"	1	15
+201	"com.hj.nce"	38787	"新概念英语"	"阅读学习"	"7.01M"	"http://img.wdjimg.com/mms/icon/v1/c/39/7c29ac7faa94760464d6eab0aef3139c_256_256.png"	"阅读学习 英语 学习 教程 单词 题目"	1	10
+202	"com.sangcall"	38555	"3G网络电话"	"通信聊天"	"3.53M"	"http://img.wdjimg.com/mms/icon/v1/3/c9/17cba56b237d1d94366ee8f06dc38c93_256_256.png"	"通信聊天 电话 省钱 通话 3g手机 漫游"	1	16
+203	"ch.smalltech.ledflashlight.pro"	38540	"Flashlight+"	"便捷生活"	"2.52M"	"http://img.wdjimg.com/mms/icon/v1/1/30/177ce2e20786ccad19d29271be3c3301_256_256.png"	"便捷生活 手电筒 市场 设计 闪光灯"	1	15
+204	"com.myzaker.ZAKER_Phone"	38129	"ZAKER"	"新闻资讯"	"6.36M"	"http://img.wdjimg.com/mms/icon/v1/8/fa/4ff0eb32b22099ec941a8a3ce464efa8_256_256.png"	"新闻资讯 新闻 杂志 阅读 社交 美图 头条"	1	17
+205	"com.qidian.QDReader"	37939	"起点读书"	"阅读学习"	"3.74M"	"http://img.wdjimg.com/mms/icon/v1/7/fa/ad8926ec5820e9904ce0e3d978f80fa7_256_256.png"	"阅读学习 小说 电子书"	1	10
+206	"com.pip.mzcity"	37562	"龙斗士：女神来了"	"街机和动作游戏"	"39M"	"https://lh6.ggpht.com/DKwGX_JBFxOyMBP3pdmLnnTqdJD3e9P8rkW5_AWX4lc0EuMqvrbWP4AQXl2H3CYsyF_n=w300-rw"	"4.2"	2	1
+207	"com.dolphin.browser.cn"	37055	"海豚浏览器"	"Communication"	NULL	"http://lh6.ggpht.com/VwmRrBsNEyoSioHCWHL04Q5Pdc68Q63qZPE_K0gbA6D3AHZJhH5a5r2Uf9SCPDDtRly0vkdHMC9PuTTr7nas2msi"	NULL	5	14
+208	"com.snda.cloudary"	37006	"云中书城"	"阅读学习"	"4.48M"	"http://img.wdjimg.com/mms/icon/v1/a/8e/1ceced80c8a3e72b8b7b14d5129fd8ea_256_256.png"	"阅读学习 书城 云中 盛大 阅读器 安卓市场"	1	10
+209	"com.dns.umpay"	36960	"银信宝"	"金融理财"	"9.58M"	"http://img.wdjimg.com/mms/icon/v1/5/8e/10f890f9774066d961614712086708e5_256_256.png"	"金融理财 快捷 合作 金融"	1	18
+210	"com.ddmap.android.privilege"	36900	"丁丁优惠"	"便捷生活"	"6.69M"	"http://img.wdjimg.com/mms/icon/v1/5/7a/0d5b1bdc2520a4af83a22ddea3f467a5_256_256.png"	"便捷生活"	1	20
+211	"com.jm.android.jumei"	36782	"聚美优品"	"便捷生活"	"6.35M"	"http://img.wdjimg.com/mms/icon/v1/3/a8/7eeeda74a47c11d316dced4c3acdaa83_256_256.png"	"便捷生活 商城 购物 化妆品"	1	21
+212	"com.job.android"	36713	"前程无忧51job"	"社交网络"	"6.88M"	"http://img.wdjimg.com/mms/icon/v1/1/25/72f60a544b3f70bc4aaf6a8067909251_256_256.png"	"社交网络 简历 人事 企业"	1	8
+213	"com.tencent.movieticket"	36614	"QQ电影票"	"便捷生活"	"2.5M"	"http://img.wdjimg.com/mms/icon/v1/8/aa/5086b4904bcfc8172c106982af46eaa8_256_256.png"	"便捷生活 星级 影响力 品质 影院 电子 腾讯"	1	15
+214	"com.yinhan.hunter.yh"	36415	"时空猎人"	NULL	NULL	NULL	NULL	0	5
+215	"com.pip.nitian"	36331	"逆天仙魔录(诛仙手游版)"	"街机和动作游戏"	"27M"	"https://lh5.ggpht.com/ExQb9g1iL_kj8R2DYj2WEelDUhYAZb7YPjLWpVDZxKwEYulDzsnJVhB_D1klyjaXQk8=w300-rw"	"3.4"	2	6
+216	"com.mas.wawagame.lord320"	35893	"蛙蛙斗地主"	"休闲益智"	"4.78M"	"http://img.wdjimg.com/mms/icon/v1/5/d3/799059713d56381019a54f48481a9d35_256_256.png"	"休闲益智 斗地主 棋牌游戏 任务"	1	4
+217	"com.yilegame.BloodyBomb.gc"	35669	"妖姬三国"	NULL	NULL	NULL	NULL	0	1
+218	"cn.ecook"	35401	"网上厨房"	"便捷生活"	"2.37M"	"http://img.wdjimg.com/mms/icon/v1/5/19/1dce5e59f392c1e9a127ca733a66d195_256_256.png"	"便捷生活 美食"	1	15
+219	"com.coolplay.ddz.cmge"	35115	"赌神斗地主"	"休闲益智"	"4.44M"	"http://img.wdjimg.com/mms/icon/v1/5/dc/c72990532969a9992004c85e85a16dc5_256_256.png"	"休闲益智"	1	4
+220	"com.achievo.vipshop"	34814	"唯品会"	"便捷生活"	"8.39M"	"http://img.wdjimg.com/mms/icon/v1/7/96/e98b09b105a7da422893f3eab43c8967_256_256.png"	"便捷生活 商城 购物 折扣"	1	21
+221	"com.anjuke.android.xinfang"	34691	"安居客新房"	"便捷生活"	"4.04M"	"http://img.wdjimg.com/mms/icon/v1/7/f4/add3feb6604aa21bb15c1437517eef47_256_256.png"	"便捷生活 路线 全国"	1	15
+222	"com.cmcc.mobilevideochc"	34152	"互动电视－视讯影音"	"影音图像"	"2.05M"	"http://img.wdjimg.com/mms/icon/v1/6/77/28200b5ebe0faa8aece92dbfeed5f776_256_256.png"	"影音图像"	1	9
+223	"com.jiayuan"	34021	"世纪佳缘"	"社交网络"	"8.1M"	"http://img.wdjimg.com/mms/icon/v1/3/ec/7d88b6a0ffd3ed6ea757df7c5b3f2ec3_256_256.png"	"社交网络 婚恋"	1	8
+224	"com.mas.wawagame.jjlord3TH"	33817	"真人斗地主"	"纸牌游戏"	"4.8M"	"https://lh5.ggpht.com/TAgoI71Gf-gyPMSmdGsG_pDpkkcpuoIgwELy_o28INWgHCQjxeV5VGFx3M-m6TDq5wA=w300-rw"	"4.3"	2	4
+225	"com.douguo.recipe"	33713	"豆果美食"	"便捷生活"	"7.17M"	"http://img.wdjimg.com/mms/icon/v1/0/8f/69c12009838aa65b792a1d69c43508f0_256_256.png"	"便捷生活 美食 菜谱"	1	15
+226	"com.netease.cloudmusic"	33651	"网易云音乐"	"影音图像"	"7.86M"	"http://img.wdjimg.com/mms/icon/v1/c/a8/b60047a4961e40843c0e257597324a8c_256_256.png"	"影音图像 音乐 电台 网易"	1	9
+227	"com.openet.hotel.view"	33506	"快捷酒店管家"	"便捷生活"	"3.68M"	"http://img.wdjimg.com/mms/icon/v1/1/76/f7e58b047e4ae2875cee40da4491e761_256_256.png"	"便捷生活 酒店"	1	22
+228	"air.com.lingdong.Tribe.ouwan"	33428	"部落联盟"	"经营策略"	"45.37M"	"http://img.wdjimg.com/mms/icon/v1/3/00/10c0cfc2752db8573aa4e53b14ea8003_256_256.png"	"经营策略"	1	1
+229	"cn.jj.lordhl"	33396	"JJ欢乐斗地主"	"休闲益智"	"11.06M"	"http://img.wdjimg.com/mms/icon/v1/8/1b/495b6d0f6cd30f4d0880e091557a21b8_256_256.png"	"休闲益智 欢乐斗地主 棋牌 笔记本电脑 奖品 节奏"	1	4
+230	"com.lottestarphoto.init"	33327	"明星爱为你"	"影音图像"	"16.28M"	"http://img.wdjimg.com/mms/icon/v1/5/47/38c2aea9dbf4ba930c2de7f72cb74475_256_256.png"	"影音图像"	1	12
+231	"com.zzcm.yyassistant.client.home"	33321	"YY语音助理"	"常用工具"	"2.46M"	"http://img.wdjimg.com/mms/icon/v1/8/7f/0631c9e4d489d3d9e02be4a02aa6e7f8_256_256.png"	"常用工具 助理 语音 工具 消息"	1	14
+232	"com.halfbrick.fruitninjapib"	33315	"穿靴子的猫"	"动作竞技"	"31.62M"	"http://img.wdjimg.com/mms/icon/v1/e/85/fd4dd179337addd5bfe7beb51a43a85e_256_256.png"	"动作竞技"	1	5
+233	"com.ts.zys"	32804	"快速问医生"	"便捷生活"	"8.41M"	"http://img.wdjimg.com/mms/icon/v1/4/5e/3e32574553b5a8a3a7bc7303de51d5e4_256_256.png"	"便捷生活"	1	15
+234	"com.baidu.tieba_mini"	32345	"百度贴吧简版"	"社交网络"	"1.9M"	"http://img.wdjimg.com/mms/icon/v1/3/89/7dce37083d6236c0132e7d83ef28e893_256_256.png"	"社交网络"	1	8
+235	"com.thestore.main"	32142	"1号店"	"网上购物"	"7.71M"	"http://img.wdjimg.com/mms/icon/v1/d/0a/6eaefa0437a1460c528848e98059c0ad_256_256.png"	"网上购物 商城"	1	21
+236	"com.quanleimu.activity"	32098	"百姓网"	"便捷生活"	"3.53M"	"http://img.wdjimg.com/mms/icon/v1/5/f8/cdad30a28d9794956548f19a6f41ff85_256_256.png"	"便捷生活"	1	15
+237	"com.netease.huatian"	31923	"网易花田"	"社交网络"	"8.44M"	"http://img.wdjimg.com/mms/icon/v1/b/fb/7eae444ffdb51cb179fb088233a66fbb_256_256.png"	"社交网络 交流 照片 单身男女 头像 工具 网易"	1	8
+238	"com.galeapp.deskpet"	31920	"桌面精灵"	"经营策略"	"14M"	"http://img.wdjimg.com/mms/icon/v1/a/a5/4ccdea9c1eace7b60e7c29fcf56bfa5a_256_256.png"	"经营策略 角色扮演 休闲益智 模拟养成 精灵 清洁 喂养 宠物"	1	1
+239	"shaft.android"	31796	"明珠轩辕"	"角色扮演"	"7.4M"	"http://static.yingyonghui.com/icon/72/1342207.png"	NULL	3	6
+240	"com.leju.platform"	31763	"口袋乐居"	"便捷生活"	"9M"	"http://img.wdjimg.com/mms/icon/v1/9/e4/0bd61db94f440958cd21c57e5f9e0e49_256_256.png"	"便捷生活"	1	15
+241	"com.yinhan.hunter.uc"	31737	"时空猎人"	"街机和动作游戏"	"46M"	"https://lh5.ggpht.com/u7IX8ybt3qlj-gYlVm6ydXqPUs_PZ2FwydKBj4hS39n8hBB0xHR_qYUEx9JnjvbcL8I=w300-rw"	"4.1"	2	5
+242	"com.cn21.ecloud"	31618	"天翼云"	"办公软件"	"6.08M"	"http://img.wdjimg.com/mms/icon/v1/5/08/3a654b7525d74bd134e968ca84524085_256_256.png"	"办公软件 备份 空间"	1	11
+243	"com.vikings.kingdoms"	31237	"七圣争霸"	"经营策略"	"9.99M"	"http://img.wdjimg.com/mms/icon/v1/5/ea/56013cbf74abebb6ae8176647b9f4ea5_256_256.png"	"经营策略"	1	1
+244	"com.anysoft.tyyd"	31235	"氧气听书"	"阅读学习"	"1.81M"	"http://img.wdjimg.com/mms/icon/v1/6/0d/b4e0a0de13dc93922d2ef72a966c00d6_256_256.png"	"阅读学习 听书 专业 文学"	1	10
+245	"com.ucweb.h5gameclient"	31077	"九游棋牌大厅"	"休闲益智"	"7.86M"	"http://img.wdjimg.com/mms/icon/v1/5/99/2fe1c4fcb14499d1f2ee0cb326e4b995_256_256.png"	"休闲益智"	1	4
+246	"com.show.android.beauty"	30483	"美眉直播"	"社交网络"	"6.81M"	"http://img.wdjimg.com/mms/icon/v1/c/13/80b77275da7c48f73c610b7448f5413c_256_256.png"	"社交网络"	1	8
+247	"com.sankuai.movie"	30325	"猫眼电影"	"便捷生活"	"2.96M"	"http://img.wdjimg.com/mms/icon/v1/7/97/6e0e3d72a804d0aafa9db7a79482a977_256_256.png"	"便捷生活 电影 影院 选座 购票"	1	15
+248	"com.android.FSAndroid"	30160	"封神天下"	"角色扮演"	"51.43M"	"http://img.wdjimg.com/mms/icon/v1/3/59/41959382593815cd330b693aaeea5593_256_256.png"	"角色扮演 卡牌"	1	6
+249	"com.douwan.tianxun.wuxia"	29998	"香帅传奇"	"休闲益智"	"26.49M"	"http://img.wdjimg.com/mms/icon/v1/3/4e/50deac92fc335a309599aeda5c6044e3_256_256.png"	"休闲益智 网络模拟"	1	4
+250	"com.hjwordgames"	29938	"开心词场"	"阅读学习"	"5.95M"	"http://img.wdjimg.com/mms/icon/v1/d/52/ecee80ec545d8bd90270e91e5a7ee52d_256_256.png"	"阅读学习 英语 单词 日语 韩语 教育"	1	10
+251	"com.ismaker.android.simsimi"	29787	"simsimi"	"休闲益智"	"1.7M"	"http://img.wdjimg.com/mms/icon/v1/2/31/ac61b547f84dfd07bddcbf5b73d9a312_256_256.png"	"休闲益智 对话 卖萌 智能 传统 游戏 单机"	1	4
+252	"com.uu"	29743	"UU电话"	"通信聊天"	"3.96M"	"http://img.wdjimg.com/mms/icon/v1/5/09/14687d011083dc84036fc68dc3c80095_256_256.png"	"通信聊天 交友 电话"	1	16
+253	"com.baidu.voiceassistant"	29512	"百度语音助手"	"便捷生活"	"11.95M"	"http://img.wdjimg.com/mms/icon/v1/7/55/b09812d27e4178e5c74baf3cc23df557_256_256.png"	"便捷生活 常用工具 模拟养成 社交网络 股票 百度"	1	15
+254	"com.zeptolab.ctrexperiments.google.paid"	29480	"割绳子-实验室版"	"休闲益智"	"21.3M"	"http://img.wdjimg.com/mms/icon/v1/0/68/9921de974550bf4405ce88ce1ab77680_256_256.png"	"休闲益智 实验室 割绳子 设计 怪物 科学家"	1	4
+255	"com.scienvo.activity"	28472	"在路上"	"社交网络"	"7.31M"	"http://img.wdjimg.com/mms/icon/v1/2/0b/f73cec9c0c626b49468dbb91b9f940b2_256_256.png"	"社交网络 旅游 旅行 照片 离线"	1	8
+256	"com.klnnxb.cmge"	28433	"快乐牛牛"	"休闲益智"	"13.2M"	"http://img.wdjimg.com/mms/icon/v1/1/16/90da2240272bb1350b84c2730f69c161_256_256.png"	"休闲益智"	1	4
+257	"com.snda.tt"	28209	"通通电话"	"通信聊天"	"7.38M"	"http://img.wdjimg.com/mms/icon/v1/3/c8/fbbb4124ff52c6e3fdc59513139c1c83_256_256.png"	"通信聊天 电话"	1	16
+258	"com.jwmj.sy4399"	28123	"猎艳三国"	"角色扮演"	"77.55M"	"http://img.wdjimg.com/mms/icon/v1/1/18/a78829b8ade7a92c0cf0e4d4493e2181_256_256.png"	"角色扮演"	1	6
+259	"com.sina.news"	27858	"新浪新闻"	"新闻资讯"	"4.7M"	"http://img.wdjimg.com/mms/icon/v1/e/92/cf7353f8a66e2399709c0af9f65d892e_256_256.png"	"新闻资讯 新闻 头条 新浪"	1	17
+260	"com.sgkp.sy4399"	27302	"我大哥叫刘备"	"角色扮演"	"30.32M"	"http://img.wdjimg.com/mms/icon/v1/c/34/dc8d11bdbf72800822fba01042e9234c_256_256.png"	"角色扮演"	1	6
+261	"jb.activity.mbook"	27236	"GGBook看书"	"阅读学习"	"1.97M"	"http://img.wdjimg.com/mms/icon/v1/1/b6/314b79d1a7b390327adc1a2e0dc6fb61_256_256.png"	"阅读学习 电子书 看书"	1	10
+262	"com.ys.youshow"	27233	"悠秀"	"影音图像"	"7.01M"	"http://img.wdjimg.com/mms/icon/v1/2/87/c651dd6b1cd4c7b799cb4341b795b872_256_256.png"	"影音图像 通信聊天"	1	8
+263	"com.mx.browser"	27172	"傲游云浏览器"	"常用工具"	"5.56M"	"http://img.wdjimg.com/mms/icon/v1/f/5f/b9216f3af7152a2e1756ce0f3c8965ff_256_256.png"	"常用工具"	1	14
+264	"com.skymobi.opensky.androidho"	26501	"逗斗竞技"	"休闲益智"	"4.24M"	"http://img.wdjimg.com/mms/icon/v1/f/71/be6588559c73a8d2308facc6e28c471f_256_256.png"	"休闲益智 竞技 武器 战斗 寂寞 战友"	1	4
+265	"com.lingan.seeyou"	26454	"美柚"	"育儿母婴"	"14.06M"	"http://img.wdjimg.com/mms/icon/v1/7/20/87d739ead18892edae5decfd1ab42207_256_256.png"	"育儿母婴 健康 日历 女生 女性 助手 减肥 月经"	1	13
+266	"com.mymoney.sms"	26376	"卡牛信用卡管家"	"金融理财"	"4.31M"	"http://img.wdjimg.com/mms/icon/v1/5/5e/6c737071d93d3aaf7b77b233a6bd95e5_256_256.png"	"金融理财 记账"	1	18
+267	"com.aiyou.mczxn"	26020	"明朝时代2"	"经营策略"	"40.74M"	"http://img.wdjimg.com/mms/icon/v1/8/e2/55eecb4b8a8b2d886553dee1a38eae28_256_256.png"	"经营策略 剧情 刺激 历史 策略 大明王朝 策略游戏"	1	1
+268	"com.chunfen.brand5"	25698	"今日半价"	"便捷生活"	"1.56M"	"http://img.wdjimg.com/mms/icon/v1/2/b3/f55a54e137b1150bcc13999972136b32_256_256.png"	"便捷生活 正品 旗舰店 名牌 年轻人"	1	20
+269	"com.fridgecat.android.atilt"	25591	"重力球迷宫"	"休闲益智"	"2.6M"	"http://img.wdjimg.com/mms/icon/v1/f/b6/1de0ac77775f007a8d26e84c99e61b6f_256_256.png"	"休闲益智 动作竞技 迷宫 重力 三维 写实"	1	4
+270	"net.iaround"	25585	"遇见"	"社交网络"	"13.17M"	"http://img.wdjimg.com/mms/icon/v1/6/27/0f52b25c072b5c17339839d4b9bb0276_256_256.png"	"社交网络 交友"	1	8
+271	"com.tencent.nmrq"	25515	"QQ部落守卫战"	"经营策略"	"22.01M"	"http://img.wdjimg.com/mms/icon/v1/5/50/5a688dde6f5120ed7e5288a2a00d5505_256_256.png"	"经营策略 部落 守卫 战争 空间"	1	1
+272	"com.autonavi.cmccmap"	25507	"和地图"	"出行必用"	"11.5M"	"http://img.wdjimg.com/mms/icon/v1/8/c7/9540bae1f68301362325981b7e0a5c78_256_256.png"	"出行必用"	1	22
+273	"com.qihoo.video"	25457	"360影视大全"	"影音图像"	"12.4M"	"http://img.wdjimg.com/mms/icon/v1/c/18/361a4ae34b4644a5f789001ba5e8c18c_256_256.png"	"影音图像"	1	9
+274	"com.iflytek.womusicclient"	25431	"沃音乐"	"影音图像"	"4.27M"	"http://img.wdjimg.com/mms/icon/v1/c/f2/42c9b91b0bf7805fe723a3ed67dd7f2c_256_256.png"	"影音图像 语音 高效"	1	9
+275	"cn.com.pcauto.android.browser"	25357	"太平洋汽车网"	"新闻资讯"	"5.95M"	"http://img.wdjimg.com/mms/icon/v1/1/33/706d4474fc1283bc992c19874527a331_256_256.png"	"新闻资讯 太平洋 品质 精品 集成"	1	17
+276	"com.hoodinn.venus"	25120	"抬杠"	"社交网络"	"15.87M"	"http://img.wdjimg.com/mms/icon/v1/a/9b/c03e5e7f255b76106ebdacb9fb5149ba_256_256.png"	"社交网络 口才 激情 情绪 声音"	1	8
+277	"com.feinno.felio"	25111	"飞聊"	"通信聊天"	"7.41M"	"http://img.wdjimg.com/mms/icon/v1/6/ed/575d24747ea443e968f68bbf62c4aed6_256_256.png"	"通信聊天 即时通讯"	1	16
+278	"com.kandian.hdtogoapp"	24893	"快手下载"	"影音图像"	"16.49M"	"http://img.wdjimg.com/mms/icon/v1/e/f0/1c44ec214f238c93a9dd65fa8f08cf0e_256_256.png"	"影音图像 视频 高清 困扰"	1	14
+279	"cn.relian99"	24860	"热恋"	"社交网络"	"1.76M"	"http://img.wdjimg.com/mms/icon/v1/8/ad/f39e1c76c3589c96ae54b53e3c903ad8_256_256.png"	"社交网络"	1	8
+280	"com.yinhan.hunter.uc.sp"	24660	"狩猎者联盟"	"角色扮演"	"58.46M"	"http://img.wdjimg.com/mms/icon/v1/a/0b/5db6126ed78cc9fd5fb1f6d77dd920ba_256_256.png"	"角色扮演"	1	6
+281	"com.dft.hb.app"	24649	"掌上宝电话"	"便捷生活"	"5.73M"	"http://img.wdjimg.com/mms/icon/v1/9/3c/579ceece14362bae13948a39155583c9_256_256.png"	"便捷生活 电话"	1	16
+282	"com.locojoy.punchbox.immt_a_chs"	24599	"我叫MT Online"	"角色扮演"	"100.3M"	"http://static.yingyonghui.com/icon/72/1378627.png"	NULL	3	6
+283	"com.SmartPoint.app"	24469	"智点调查"	"社交网络"	"1.64M"	"http://img.wdjimg.com/mms/icon/v1/1/ed/238dcb405238ed02eff9c834cb253ed1_256_256.png"	"社交网络 调查 会员 机会 互联网 抽奖"	1	8
+284	"com.androidemu.nes"	24439	"超任模拟器"	"模拟养成"	"300.09K"	"http://img.wdjimg.com/mms/icon/v1/7/5f/f25021cc0777e7273b95aee8e15155f7_256_256.png"	"模拟养成 经营策略 常用工具 便捷生活 休闲益智 网络模拟 魂斗罗 模拟器 游戏机"	1	3
+285	"com.gamebox.kingHD"	24363	"帝王·三国 高清版"	"经营策略"	"42.89M"	"http://img.wdjimg.com/mms/icon/v1/6/5c/ae2f765c39d50e24b5a2a1c2c565e5c6_256_256.png"	"经营策略 三国 高清 帝王 攻城"	1	1
+286	"com.sj4399.HeroCards"	24356	"谁的乱世"	"角色扮演"	"48.6M"	"http://img.wdjimg.com/mms/icon/v1/7/c4/8d2f13b1b794fc121541bb48ae31ac47_256_256.png"	"角色扮演"	1	6
+287	"game.com.zjdpdk"	24340	"紫金岛跑得快"	"休闲益智"	"14.39M"	"http://img.wdjimg.com/mms/icon/v1/0/f5/98782b187f55a3bcc4d9a29dd7f9af50_256_256.png"	"休闲益智"	1	4
+288	"com.Moco"	24218	"真心话大冒险"	"便捷生活"	"1.43M"	"http://img.wdjimg.com/mms/icon/v1/1/87/a65e7e107a5e991527fec142b183c871_256_256.png"	"便捷生活 真心话 大冒险 题目 喝酒 恶作剧"	1	4
+289	"com.jingwei.card"	23810	"经纬名片通"	"办公软件"	"7.96M"	"http://img.wdjimg.com/mms/icon/v1/8/ab/9d7dfc149cb9d100e786292497c01ab8_256_256.png"	"办公软件 名片"	1	11
+290	"com.easou.plus"	23416	"宜搜+"	"阅读学习"	"4.41M"	"http://img.wdjimg.com/mms/icon/v1/a/e8/3ad893f3589118e6548b0daa25e2ce8a_256_256.png"	"阅读学习"	1	10
+291	"com.zhangdan.app"	23389	"51信用卡管家"	"金融理财"	"5.85M"	"http://img.wdjimg.com/mms/icon/v1/7/d8/2b8eec7fca6d1627a1c796388d9b3d87_256_256.png"	"金融理财 银行 信用卡 管家 交易"	1	18
+292	"com.mango.sanguo15.douwan"	23359	"风云天下OL"	"模拟养成"	"24.02M"	"http://img.wdjimg.com/mms/icon/v1/c/cc/5b01521d597d1fab20e176a5da4c6ccc_256_256.png"	"模拟养成 休闲益智 网络模拟 风云 三国 剧情 国王"	1	3
+293	"com.dxdn.cmge"	23311	"赌侠斗牛"	"休闲益智"	"13.7M"	"http://img.wdjimg.com/mms/icon/v1/1/d7/f010b985b3076d824cfed16d44a03d71_256_256.png"	"休闲益智"	1	4
+294	"wenhr.Mcdonalds"	22648	"麦当劳优惠券完美版"	"便捷生活"	"896.83K"	"http://img.wdjimg.com/mms/icon/v1/8/8a/fdccfce901009d4ea0bee994daf858a8_256_256.png"	"便捷生活 生活 广州 南京 麦当劳 金币"	1	20
+295	"com.pinidea.ios.sxd"	22605	"神仙道4.2全新高清资料片"	"角色扮演"	"68.31M"	"http://img.wdjimg.com/mms/icon/v1/e/a6/7fa265ed9b0d746ad5a10a48e5b30a6e_256_256.png"	"角色扮演 神仙 横版动作 回合RPG 大型游戏"	1	6
+296	"com.dayingjia.stock.activity"	22547	"华股财经手机炒股票软件"	"金融理财"	"1.76M"	"http://img.wdjimg.com/mms/icon/v1/3/ac/b5e535eb73dfde26e52e3bc9b1d55ac3_256_256.png"	"金融理财 股票"	1	18
+297	"com.wangzhi.MaMaHelp"	22148	"辣妈帮"	"育儿母婴"	"12.71M"	"http://img.wdjimg.com/mms/icon/v1/1/28/519560a98dae26a762316357c5d96281_256_256.png"	"育儿母婴 育儿 妈妈 宝宝 事业"	1	13
+298	"com.mango.sanguo15.douwan.cmge"	21884	"纵横天下"	"经营策略"	"24.91M"	"http://img.wdjimg.com/mms/icon/v1/0/b7/cdc4c224c27472e6dee2a1205992fb70_256_256.png"	"经营策略 风云 武将 兵种 三国演义 搭配 策略游戏"	1	1
+299	"com.gamebox.king"	21796	"帝王三国"	"经营策略"	"12.8M"	"http://img.wdjimg.com/mms/icon/v1/6/c6/0e8efc8c831819c29d90487f101c8c66_256_256.png"	"经营策略 国家 策略 战争 火爆"	1	1
+300	"com.anjuke.android.haozu"	21748	"租房"	"便捷生活"	"2.99M"	"http://img.wdjimg.com/mms/icon/v1/8/99/b11957db19f277d410854cc3a8200998_256_256.png"	"便捷生活"	1	15
+301	"cn.ffcs.wisdom.city"	21727	"爱城市"	"便捷生活"	"5.8M"	"http://img.wdjimg.com/mms/icon/v1/8/73/9a678c7412d6f536d3b1feb47f856738_256_256.png"	"便捷生活 常用工具 新闻资讯 城市 资讯 周边 娱乐"	1	15
+302	"com.womai"	21284	"中粮我买网"	"便捷生活"	"3M"	"http://img.wdjimg.com/mms/icon/v1/3/5d/c1e19bbe1ca538e29171066ea18be5d3_256_256.png"	"便捷生活 购物 扫描"	1	21
+303	"com.wx.wjjh.cmge"	21279	"问剑江湖"	"角色扮演"	"26.02M"	"http://img.wdjimg.com/mms/icon/v1/6/23/e8b5b48c556d5a940ad20154c038f236_256_256.png"	"角色扮演 动作竞技"	1	6
+304	"cn.am321.android.am321"	21087	"公信卫士"	"性能优化"	"7.44M"	"http://img.wdjimg.com/mms/icon/v1/4/61/95459df74c9a6131d9110900fcae3614_256_256.png"	"性能优化 屏蔽 卫士 实用"	1	19
+305	"com.aceway.dhstore"	20803	"大汉u视界"	"站外应用"	"762.9K"	"http://static.yingyonghui.com/icon/72/1235149.png"	NULL	3	14
+306	"com.hytc.sg"	20681	"幻想三国OL"	"角色扮演"	"2.74M"	"http://img.wdjimg.com/mms/icon/v1/d/9b/0e589c904055eed8a59c02e20b78b9bd_256_256.png"	"角色扮演 幻想三国 刺激 微小 回合RPG"	1	6
+307	"air.com.dinglu.daxiazhuan"	20383	"大侠传"	"角色扮演"	"30.53M"	"http://img.wdjimg.com/mms/icon/v1/1/0c/d823de439b82311857fbdbd85f2230c1_256_256.png"	"角色扮演"	1	6
+308	"com.cndw.zhy.zfb"	20128	"主公我要"	"模拟养成"	"44.82M"	"http://img.wdjimg.com/mms/icon/v1/c/85/a3bf29abb197f2d65cb83f46b6f0d85c_256_256.png"	"模拟养成"	1	3
+309	"com.moogame.xianbian.umi"	19848	"仙变"	NULL	NULL	NULL	NULL	0	6
+310	"com.renren.and10102"	19833	"血滴子圣诞版"	"经营策略"	"65.57M"	"http://img.wdjimg.com/mms/icon/v1/4/09/a30e7ae93d102f99a6ec80907a7f3094_256_256.png"	"经营策略 模拟养成 休闲益智 电影 人生 武侠 青春 兄弟"	1	1
+311	"com.lakala.android"	19684	"拉卡拉"	"金融理财"	"6.74M"	"http://img.wdjimg.com/mms/icon/v1/e/94/968a248b3a4740d3fcf29a1efbdbf94e_256_256.png"	"金融理财 银行 转账 汇款 信用卡 充值"	1	18
+312	"com.pip.android"	19142	"明珠三国"	"角色扮演"	"6.44M"	"http://img.wdjimg.com/mms/icon/v1/d/74/8ee1cb717e70bd248326ed068822774d_256_256.png"	"角色扮演 即时RPG 历史"	1	6
+313	"com.cvtt.yh95013"	18657	"95013云号"	"社交网络"	"6M"	"http://img.wdjimg.com/mms/icon/v1/b/01/2032e7cd18144cdf660d2be5f12ec01b_256_256.png"	"社交网络 短信 全球 保护 语音 留言 手机号码"	1	8
+314	"com.bilin.huijiao.activity"	18536	"比邻"	"社交网络"	"7.74M"	"http://img.wdjimg.com/mms/icon/v1/3/6a/1a217aae888ea807ee191ab543f2b6a3_256_256.png"	"社交网络"	1	8
+315	"com.wzlottery"	18528	"玩赚彩票"	"金融理财"	"6.85M"	"http://img.wdjimg.com/mms/icon/v1/0/df/d8ebc7efb858c399646792df72cf7df0_256_256.png"	"金融理财 新闻资讯 彩票 数据库 交流 合作"	1	18
+316	"com.kuxun.scliang.huoche"	17913	"超级火车票"	"出行必用"	"8.84M"	"http://img.wdjimg.com/mms/icon/v1/b/7a/9d6cf7551416a8ec4e618323505ff7ab_256_256.png"	"出行必用 火车"	1	22
+317	"com.youai.dreamonepiece.platform.sy4399"	17897	"梦想海贼王 送路飞"	"Cards &amp; Casino"	NULL	"http://lh4.ggpht.com/CQIVZhEB6rI5v2PEgehfAHuy70rTNppJqC1pWCSnHhW9u_ASsefF8s_An2WoOvs6wg63TlT-gcxTSiIHO7VUdA"	NULL	5	6
+318	"com.mango.sanguo15.ywsg"	17880	"三国志"	"经营策略"	"48.41M"	"http://img.wdjimg.com/mms/icon/v1/f/b4/241eb818404f4dbfc955e755eb60db4f_256_256.png"	"经营策略 角色扮演"	1	1
+319	"org.cocos2dx.tests"	17537	"忘仙ol"	"角色扮演"	"6.28M"	"http://img.wdjimg.com/mms/icon/v1/2/3d/6c51d0ff0d6a42b75bff70976fb933d2_256_256.png"	"角色扮演 仙境 化身 鬼魅 爱情 法术"	1	6
+320	"com.taobao.etao"	17422	"一淘"	"便捷生活"	"6.37M"	"http://img.wdjimg.com/mms/icon/v1/0/b0/4ff237c20eb27b27dd68641cfffb8b00_256_256.png"	"便捷生活"	1	20
+321	"j2ab.android.appstar"	17419	"叮叮堂"	"常用工具"	"45.43M"	"http://img.wdjimg.com/mms/icon/v1/d/af/feaffdb293af4730498f7aa543dcdafd_256_256.png"	"常用工具 叮叮 钻戒 爱情 休闲 桃花 休闲竞技"	1	14
+322	"com.itings.myradio"	17314	"考拉FM"	"影音图像"	"4.92M"	"http://img.wdjimg.com/mms/icon/v1/b/c9/6020990a24e622586e10fe4430636c9b_256_256.png"	"影音图像 收音机"	1	9
+323	"com.skycall.oem"	17145	"sky省钱电话"	"通信聊天"	"2.46M"	"http://img.wdjimg.com/mms/icon/v1/6/95/db5058281caac39f64f2e6d84081a956_256_256.png"	"通信聊天"	1	16
+324	"air.com.aboilgame.dreamteamandroid5G"	17082	"篮球梦之队"	"体育竞速"	"40.21M"	"http://img.wdjimg.com/mms/icon/v1/3/00/9ee9aa79e5a8c022e1e10e1de0799003_256_256.png"	"体育竞速"	1	7
+325	"com.game1uwan.TheChaosOfGod"	16887	"封神劫"	"经营策略"	"33.85M"	"http://img.wdjimg.com/mms/icon/v1/7/ee/92c64f3a7aa3cee1ed15fea0b3df9ee7_256_256.png"	"经营策略"	1	1
+326	"com.feiliu.gamecenter"	16848	"飞流游戏中心"	"影音图像"	"1.78M"	"http://img.wdjimg.com/mms/icon/v1/1/c6/0eb709ba7ee3a71c99469034d196ec61_256_256.png"	"影音图像"	1	17
+327	"com.mfw.voiceguide"	16818	"旅行翻译官"	"阅读学习"	"4.4M"	"http://img.wdjimg.com/mms/icon/v1/7/d6/0510aa17cbc0ab18a5b02303ad896d67_256_256.png"	"阅读学习"	1	10
+328	"com.alc.androidzb"	16783	"阿里通电话"	"通信聊天"	"3.66M"	"http://img.wdjimg.com/mms/icon/v1/6/76/04f85229042a8cbd583d0ba7697dc766_256_256.png"	"通信聊天"	1	16
+329	"com.gmcc.mmeeting"	16747	"随心议"	"通信聊天"	"2.36M"	"http://img.wdjimg.com/mms/icon/v1/7/1c/dadf9c4e03cdab09cc1beb8b0c7bb1c7_256_256.png"	"通信聊天 随心 通信录 广东 亲情"	1	16
+330	"com.bos.fxcq"	16729	"剑仙传"	"角色扮演"	"52.69M"	"http://img.wdjimg.com/mms/icon/v1/e/d3/906a3f590a6d8f74ccb541e4e6235d3e_256_256.png"	"角色扮演"	1	6
+331	"com.hummingbird.zhaoqin.cmge"	16647	"师妹总动员"	"休闲益智"	"60.91M"	"http://img.wdjimg.com/mms/icon/v1/9/92/9797b274d417cc2c81844342844f9929_256_256.png"	"休闲益智"	1	4
+332	"com.kuxun.scliang.plane"	16598	"酷讯机票"	"便捷生活"	"4.11M"	"http://img.wdjimg.com/mms/icon/v1/c/97/706f389cf0dbe7b82e83b46da987f97c_256_256.png"	"便捷生活 出行必用 机票 机场 出票 打折"	1	22
+333	"com.eastmoney.android.berlin"	16556	"东方财富通"	"金融理财"	"7.75M"	"http://img.wdjimg.com/mms/icon/v1/7/66/e45eaf2de3039b1bd2dd60209ce95667_256_256.png"	"金融理财"	1	18
+334	"com.palmdream.RuyicaiAndroid"	16296	"如意彩票"	"金融理财"	"7.83M"	"http://img.wdjimg.com/mms/icon/v1/4/9b/cbdd4edf0ca7ef56e67e69d19928d9b4_256_256.png"	"金融理财 彩票"	1	18
+335	"com.galeapp.ebookshop"	16104	"御书房"	"阅读学习"	"2.84M"	"http://img.wdjimg.com/mms/icon/v1/9/38/81947931547bf639dea540bddf57e389_256_256.png"	"阅读学习 书房 精品 工具 读书"	1	10
+336	"com.iyuwan"	15913	"娱玩"	"音乐游戏"	"3.65M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-12-13073656-_1386934616543_1079.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	14
+337	"com.locojoy.immt_a_chs.standard.cmge"	15864	"我叫MT"	NULL	NULL	NULL	NULL	0	6
+338	"org.wikipedia"	15824	"维基百科 Wikipedia"	"阅读学习"	"1.47M"	"http://img.wdjimg.com/mms/icon/v1/4/1a/e8c644c4f635a6fde197e703b01021a4_256_256.png"	"阅读学习 词典翻译"	1	10
+339	"db.op.uc"	15823	"热血海贼王"	"角色扮演"	"55.5M"	"http://static.yingyonghui.com/icon/72/1345596.png"	NULL	3	6
+340	"com.lehe.food"	15796	"食神摇摇"	"便捷生活"	"3.63M"	"http://img.wdjimg.com/mms/icon/v1/6/a6/ca04a85296dd1370e8ad5446ea3e3a66_256_256.png"	"便捷生活"	1	15
+341	"com.kuyue.zxkkk54"	15780	"欲仙欲神"	"动作竞技"	"7.46M"	"http://img.wdjimg.com/mms/icon/v1/0/55/ccd817e53110a0cac12e260261a29550_256_256.png"	"动作竞技 模拟养成"	1	5
+342	"com.pip.android.ss"	15736	"杀神"	"角色扮演"	"8.59M"	"http://img.wdjimg.com/mms/icon/v1/6/fe/5787cca508f1e63a5026137fc92c6fe6_256_256.png"	"角色扮演"	1	6
+343	"com.hummingbird.zhaoqin.mengzhu"	15727	"武林萌主"	"角色扮演"	"41.06M"	"http://img.wdjimg.com/mms/icon/v1/3/25/e4706235351e1ba4d737a9337991a253_256_256.png"	"角色扮演"	1	6
+344	"vz.com"	15705	"飞常准"	"出行必用"	"4.01M"	"http://img.wdjimg.com/mms/icon/v1/0/db/c1f29689a70be3cd1ef3748f2dfe8db0_256_256.png"	"出行必用"	1	22
+345	"com.zch.safelottery"	15432	"中彩票"	"金融理财"	"4.2M"	"http://static.yingyonghui.com/icon/72/1345035.png"	NULL	3	18
+346	"com.sl.biween"	15316	"百闻"	"便捷生活"	"4.43M"	"http://img.wdjimg.com/mms/icon/v1/d/06/0f37108543675bcc572770dc1c18706d_256_256.png"	"便捷生活 价值 养生 隐形"	1	17
+347	"com.gameloft.android.GAND.GloftONHM"	15232	"混沌与秩序"	"角色扮演"	"12.28M"	"http://img.wdjimg.com/mms/icon/v1/8/4d/71e018ea551519842aa7b876127ef4d8_256_256.png"	"角色扮演 人物 学习 任务 人类 亡灵"	1	6
+348	"com.dszjh.cmge"	15194	"快乐炸金花"	"休闲游戏"	"11.38M"	"http://img4.sjpic.91rb.com/soft/2013/9/9/434d85b92b394150b5b0a9b4bf1aafb4/icon_a8433241641a4c4795e7922beffdf3fd_65.png"	NULL	4	4
+349	"com.baoruan.launcher2"	15164	"3D宝软桌面"	"美化手机"	"6.18M"	"http://img.wdjimg.com/mms/icon/v1/7/b6/68f065cc11ee2915deb09b5bcfb4db67_256_256.png"	"美化手机 主题 桌面 全屏 兼容 与众不同 精美 个性 壁纸 动态主题桌面"	1	12
+350	"com.kuyue.shzx.cooguo"	15047	"百战成仙"	"角色扮演"	"32.14M"	"http://img.wdjimg.com/mms/icon/v1/1/28/9f9444844e1ffbd031f677f96db59281_256_256.png"	"角色扮演"	1	6
+351	"com.jzt.app"	14898	"九州通电话"	"通信聊天"	"4.53M"	"http://img.wdjimg.com/mms/icon/v1/1/b4/253832970a9755db10ccb68488dd8b41_256_256.png"	"通信聊天 电话"	1	16
+352	"com.vodone.caibo"	14677	"彩票365"	"金融理财"	"11.27M"	"http://img.wdjimg.com/mms/icon/v1/0/bd/5e03ecaf6c114e22e484f0cde66e7bd0_256_256.png"	"金融理财 彩票 成功 充值 11选5 完善"	1	18
+353	"com.digitalcloud.otw.cn"	14620	"雄霸天地"	"角色扮演"	"46.83M"	"http://img.wdjimg.com/mms/icon/v1/b/a4/bab287ae84d5dea22e6de89eea5eda4b_256_256.png"	"角色扮演"	1	6
+354	"co.lvdou.showshow"	14596	"绿豆秀秀"	"美化手机"	"5.87M"	"http://img.wdjimg.com/mms/icon/v1/b/1a/7ea7906fc001c51915f6c98a791531ab_256_256.png"	"美化手机"	1	12
+355	"com.jiubang.app.sports"	14504	"3G门户体育"	"新闻资讯"	"4.96M"	"http://img.wdjimg.com/mms/icon/v1/4/9f/af7fa01312a23f1f76cf0582a6a519f4_256_256.png"	"新闻资讯"	1	17
+356	"cn.ggg.market"	14392	"极游游戏"	"站外应用"	"3.3M"	"http://static.yingyonghui.com/icon/72/1313382.png"	"网上购物 常用工具 娱乐 排行 首页"	3	17
+357	"com.esun.ui"	14364	"500彩票"	"金融理财"	"5.83M"	"http://img.wdjimg.com/mms/icon/v1/b/80/eccdebfc6c6d27669ad789f51422680b_256_256.png"	"金融理财 彩票 银行卡 大乐透 便捷 11选5"	1	18
+358	"com.joygame.loong.temeng.cmge"	14163	"萌将传奇"	"角色扮演"	"29.85M"	"http://img.wdjimg.com/mms/icon/v1/8/36/80fe62d9fc613241bb296aff2cca5368_256_256.png"	"角色扮演 模拟养成"	1	6
+359	"com.melot.meshow"	14015	"KK唱响"	"社交网络"	"6.74M"	"http://img.wdjimg.com/mms/icon/v1/c/41/c2de34d2616e9cd83df6354ba196d41c_256_256.png"	"社交网络 粉丝 互动 白领 司机 一体"	1	8
+360	"com.sohu.SohuVideo"	13872	"搜狐视频"	"影音图像"	"13.81M"	"http://img.wdjimg.com/mms/icon/v1/2/bf/939a67b179e75326aa932fc476cbdbf2_256_256.png"	"影音图像 视频"	1	9
+361	"com.yougou"	13854	"优购时尚商城"	"便捷生活"	"5.46M"	"http://img.wdjimg.com/mms/icon/v1/c/60/28aabaddfd193ff35dc264199acde60c_256_256.png"	"便捷生活 商城 人性化 商品 哥伦比亚 定位"	1	21
+362	"com.yh.fgwan.fkqstzrxxhb"	13841	"热血小伙伴"	"动作竞技"	"62.22M"	"http://img.wdjimg.com/mms/icon/v1/9/97/f819b7580a4b656b5f195bb8fe99b979_256_256.png"	"动作竞技"	1	5
+363	"cn.Oleaster.mjfy.cmge"	13813	"名将风云"	"经营策略"	"21.26M"	"http://img.wdjimg.com/mms/icon/v1/7/d8/b389211dfd8c074b64cd090247c23d87_256_256.png"	"经营策略"	1	1
+364	"com.kuyue.renren"	13796	"战仙OL"	"角色扮演"	"64.92M"	"http://img.wdjimg.com/mms/icon/v1/7/dc/b3b45112dad7c371a0b53e8969550dc7_256_256.png"	"角色扮演"	1	6
+365	"org.cocos2dx.yijianmietian_tuyoo"	13781	"一剑灭天"	"角色扮演"	"68M"	"http://img.wdjimg.com/mms/icon/v1/b/04/58a8858943c8d7befccc10c91194e04b_256_256.png"	"角色扮演"	1	6
+366	"com.rainman.cuttherope"	13772	"怪物吃糖果完整版"	"休闲益智"	"10.59M"	"http://img.wdjimg.com/mms/icon/v1/f/86/0dcf90a870f545cc7b16b0ff4467286f_256_256.png"	"休闲益智 射击冒险 怪物 风靡 全球"	1	4
+367	"com.phonewoods.aoshi"	13670	"新傲视天地"	"经营策略"	"69.49M"	"http://img.wdjimg.com/mms/icon/v1/1/4e/d8f44a7417f75c445db038072ffde4e1_256_256.png"	"经营策略"	1	1
+368	"com.imohoo.favorablecard"	13664	"卡惠"	"便捷生活"	"6.35M"	"http://img.wdjimg.com/mms/icon/v1/3/77/b164bbbf7c695d22e22ff9b597948773_256_256.png"	"便捷生活 信用卡 秒杀 惊喜 优惠 眼力"	1	15
+369	"com.koudaileju_qianguanjia"	13420	"装修钱管家"	"便捷生活"	"11.58M"	"http://img.wdjimg.com/mms/icon/v1/4/8b/ee7576dfbfccad921c57133d3c12d8b4_256_256.png"	"便捷生活"	1	15
+370	"com.jiubang.app.news"	13284	"3G门户"	"新闻资讯"	"4.37M"	"http://img.wdjimg.com/mms/icon/v1/d/91/54a71548d9c7cc347aba876f78bea91d_256_256.png"	"新闻资讯"	1	17
+371	"com.aiplay.gamebox"	13209	"热门游戏"	"角色扮演"	"1.47M"	"http://img.wdjimg.com/mms/icon/v1/e/d7/d3d1a589db403ca123ab34415187ad7e_256_256.png"	"角色扮演 影音图像 常用工具 休闲益智 资讯 精品 安卓手机"	1	6
+372	"com.mediawoz.goweather"	13174	"GO 天气"	"便捷生活"	"5.42M"	"http://img.wdjimg.com/mms/icon/v1/f/61/e96c129c4d7aa78a919d44dbdd80061f_256_256.png"	"便捷生活 天气 城市 服务器 工作"	1	15
+373	"cm.smlw.game.chongchong"	13068	"神魔乱舞"	"角色扮演"	"58.65M"	"http://img.wdjimg.com/mms/icon/v1/6/80/7170d67534b910c1fc36bf1385d6b806_256_256.png"	"角色扮演"	1	6
+374	"com.taobao.trip"	13028	"淘宝旅行"	"出行必用"	"8.01M"	"http://img.wdjimg.com/mms/icon/v1/4/8e/a1ce21d9ad96aceea32a56a3964118e4_256_256.png"	"出行必用"	1	22
+375	"com.unionpay"	12892	"银联随行"	"财务"	"4.9M"	"https://lh6.ggpht.com/rxnahOoDh_Y0yVzwLzsuLe1DU3dEk-m2DOhWjquFo1YFdJeljE6wlKF6TnqJmroX5sI=w300-rw"	"3.5"	2	15
+376	"air.com.ghost.test.game.yl"	12770	"梦西游"	"动作竞技"	"149.9M"	"http://img.wdjimg.com/mms/icon/v1/3/30/ea713ae3489f0df624e701cde0e1c303_256_256.png"	"动作竞技"	1	5
+377	"com.sqt001.ipcall"	12749	"省钱通免费电话"	"通信聊天"	"3.37M"	"http://img.wdjimg.com/mms/icon/v1/2/e3/1e3497fda1e2b013f423063fdf7d3e32_256_256.png"	"通信聊天"	1	16
+378	"com.yintai"	12728	"银泰网"	"便捷生活"	"4.93M"	"http://img.wdjimg.com/mms/icon/v1/3/3f/dc6aa6005747c7923610853f12de53f3_256_256.png"	"便捷生活 商城 感觉 化妆品 逛街 奢侈品"	1	15
+379	"cn.com.pconline.android.browser"	12602	"太平洋电脑网"	"新闻资讯"	"5.86M"	"http://img.wdjimg.com/mms/icon/v1/2/61/8ff56033b181434080f0952e6c3d4612_256_256.png"	"新闻资讯 摄影 文章 展会 太平洋 美图"	1	17
+380	"com.sqage.sanguoage"	12550	"三国时代"	"经营策略"	"5.66M"	"http://img.wdjimg.com/mms/icon/v1/4/12/567f473483073331d2867cedf9f7c124_256_256.png"	"经营策略 三国 时代 策略游戏"	1	1
+381	"com.ifeng.fhdt"	12546	"凤凰FM"	"影音图像"	"11.53M"	"http://img.wdjimg.com/mms/icon/v1/2/46/069d09657fe2917823403c31b1737462_256_256.png"	"影音图像 凤凰卫视 音频 频道 相声 凤凰 收音机"	1	9
+382	"com.tencent.portfolio"	12512	"自选股"	"金融理财"	"6.32M"	"http://img.wdjimg.com/mms/icon/v1/4/84/5d45ef2e9345698dda7567bfb3fe2844_256_256.png"	"金融理财 股票 操盘手 港股 投资者 腾讯"	1	18
+383	"com.vikings.fruit"	12401	"水果派对"	"模拟经营"	"12.2M"	"http://static.yingyonghui.com/icon/72/1328992.png"	NULL	3	1
+384	"com.pip.androidnewui"	12381	"明珠三国精简版"	"角色扮演"	"14.67M"	"http://img.wdjimg.com/mms/icon/v1/8/83/a71e710bb668f24d1122ecb2706ae838_256_256.png"	"角色扮演 三国 设计 引擎 高清 即时RPG"	1	6
+385	"com.pdit.dushenlord"	12354	"赌神斗地主"	"休闲益智"	"7.4M"	"http://img.wdjimg.com/mms/icon/v1/b/db/282a5c01a8c4bba83d5807f23e587dbb_256_256.png"	"休闲益智"	1	4
+386	"cn.jj.poker"	12307	"JJ德州扑克"	"休闲益智"	"9.74M"	"http://img.wdjimg.com/mms/icon/v1/0/e4/ad77f47e0d2529b0b13ad30eaf067e40_256_256.png"	"休闲益智 棋牌 扑克"	1	4
+387	"com.playcrab.ares"	12266	"大掌门"	"经营策略"	"47.07M"	"http://img.wdjimg.com/mms/icon/v1/5/bc/a4ce368c5dd65704edc04d6f80e8fbc5_256_256.png"	"经营策略 卡牌 策略游戏 武侠 策略 回合RPG"	1	1
+388	"com.culiu.purchase"	12164	"9块9包邮购"	"便捷生活"	"3.38M"	"http://img.wdjimg.com/mms/icon/v1/f/36/1b4103f9e2e33d1f7a8dd83589d4036f_256_256.png"	"便捷生活"	1	20
+389	"net.hzstkj.newsreader"	12048	"鲜资讯"	NULL	"418.83M"	"http://img7.sjpic.91rb.com/soft/2013/8/12/195e0f9ad2ee4958a2afc7e67b96eb4a/icon_a14c1de2513142599bd41496bac9161a_65.png"	""	4	17
+390	"com.tianshenzhuan.tsz"	11829	"天神传"	"角色扮演"	"100.99M"	"http://img.wdjimg.com/mms/icon/v1/b/c6/cdfa890d00ff8c7758b75cfa08171c6b_256_256.png"	"角色扮演 天神 引擎 神话 战斗 富有 即时RPG"	1	6
+391	"air.com.yytou.yuxian.downjoy"	11828	"遇仙OL"	"角色扮演"	"9.58M"	"http://img.wdjimg.com/mms/icon/v1/c/44/f408dd2438629087c0ebf0bc569c544c_256_256.png"	"角色扮演 风格 穿越 风情 高清"	1	6
+392	"com.jingdong.app.reader"	11823	"京东读书"	"阅读学习"	"7.39M"	"http://img.wdjimg.com/mms/icon/v1/4/78/0c9ac92c69a2bd3e8c7c755a0a39a784_256_256.png"	"阅读学习 电子书 读书 图书 电视 电脑"	1	10
+393	"com.bianfeng.puzzle"	11817	"龙神战记-诸神之杀"	"休闲益智"	"28.39M"	"http://img.wdjimg.com/mms/icon/v1/5/5c/b344889a32fdcfa885f8a7c5784565c5_256_256.png"	"休闲益智"	1	4
+394	"air.com.ifree.cardCHS"	11790	"魔卡幻想"	"角色扮演"	"111.04M"	"http://img.wdjimg.com/mms/icon/v1/7/dc/a8ac7369edf4bf9ff6bbd2ad885a6dc7_256_256.png"	"角色扮演"	1	6
+395	"com.snda.inote"	11752	"麦库记事本"	"办公软件"	"4.99M"	"http://img.wdjimg.com/mms/icon/v1/c/b1/e4d84dc4f2b81a41eb68c338edbd0b1c_256_256.png"	"办公软件"	1	11
+396	"org.gdb.android.client"	11573	"逛店宝_免费换话费"	"购物"	"6.4M"	"https://lh5.ggpht.com/TTXuCgShWkEGsRFMiBtmzAoy4FyjkbGZDMeANr2pUnsqj1CfduQMiZW79CafMXdz5w=w300-rw"	"4.7"	2	20
+397	"com.ml.activity"	11566	"账目管家"	"财务"	"607k"	"https://lh4.ggpht.com/WqHZR68lu9spCc8zIdQSSWx-vEj6CoNvQb_-eqmy_C1yrlbj3t606KS0__ydvE2_8Q=w300-rw"	"4.2"	2	18
+398	"com.noumena.android.cmgc.m1"	11449	"口袋战争:王国创世"	"休闲益智"	"29.44M"	"http://img.wdjimg.com/mms/icon/v1/0/60/fa2c6632b9ddc64a9965bc77b7da3600_256_256.png"	"休闲益智 经营策略"	1	4
+399	"com.world.uc.app"	11370	"[热门]英雄国度"	"角色扮演"	"5.63M"	"http://img.wdjimg.com/mms/icon/v1/7/5b/ad84f6f6c860cab6c9e8ed6bbfcd05b7_256_256.png"	"角色扮演 和谐 宇宙 死神 东方"	1	6
+400	"com.suning.mobile.ebuy"	11155	"苏宁易购"	"网上购物"	"11.39M"	"http://img.wdjimg.com/mms/icon/v1/2/57/f41f42f87c884b9e7be176cc8d0ae572_256_256.png"	"网上购物 商城 购物 优惠"	1	21
+401	"com.baili.sanguo.self"	11142	"龙将无双"	"模拟养成"	"30.74M"	"http://img.wdjimg.com/mms/icon/v1/a/ba/a4d007135a8f2aecd9aa6965f17c9baa_256_256.png"	"模拟养成"	1	3
+402	"com.jule.game.start.mile"	11138	"笑三国"	"角色扮演"	"31.62M"	"http://img.wdjimg.com/mms/icon/v1/8/99/8618d86cf0e09315d83fd4c297050998_256_256.png"	"角色扮演 网游"	1	6
+403	"com.jitu.ttx"	11087	"天天行"	"网上购物"	"6.3M"	"http://img.wdjimg.com/mms/icon/v1/2/c6/47d71f5b2c2b2945274e8e63c6beec62_256_256.png"	"网上购物 好友 实时 潮流 互动 优惠"	1	21
+404	"com.redwomannet.main"	10945	"红娘网"	"社交网络"	"3.96M"	"http://img.wdjimg.com/mms/icon/v1/2/58/e9355085953844446c56971a19d39582_256_256.png"	"社交网络 休闲益智"	1	8
+405	"com.laba.wcs"	10900	"微差事"	"便捷生活"	"7.07M"	"http://img.wdjimg.com/mms/icon/v1/a/3c/3d9231b7b5f6ddaabcc358a8675f53ca_256_256.png"	"便捷生活 常用工具 金融理财 省钱 任务 品牌"	1	15
+406	"com.jrlian.videoclient"	10881	"同步影音"	"影音图像"	"2.86M"	"http://img.wdjimg.com/mms/icon/v1/8/f1/915e43580ced49be1701dbc34c3b6f18_256_256.png"	"影音图像"	1	9
+407	"com.backfire.happy.BullFight"	10737	"赢话费快乐斗牛"	"休闲益智"	"5.15M"	"http://img.wdjimg.com/mms/icon/v1/4/d9/a744492b134ef91a18706c464d9e9d94_256_256.png"	"休闲益智 棋牌"	1	4
+408	"com.bobgame.mahjong"	10680	"PK麻将"	"棋牌桌游"	"6.2M"	"http://static.yingyonghui.com/icon/72/1337728.png"	NULL	3	4
+409	"com.gamebox.kinguc31"	10661	"[火]新三国争霸"	"角色扮演"	"10.69M"	"http://img.wdjimg.com/mms/icon/v1/b/f2/446bb2fbc40048cfefe09121d025af2b_256_256.png"	"角色扮演"	1	6
+410	"com.doujiao.coupon.activity"	10639	"豆角优惠券-团购、折扣、优惠、省钱、电影票"	"便捷生活"	"3.99M"	"http://img.wdjimg.com/mms/icon/v1/e/ea/5fff647a9f0b611c756d4e8876894eae_256_256.png"	"便捷生活 金融理财 社交网络 网上购物 团购 优惠 必胜客 麦当劳 汉堡王"	1	20
+411	"com.mango.sanguo15.hgfy.cmge"	10533	"后宫风云"	"角色扮演"	"25.35M"	"http://img.wdjimg.com/mms/icon/v1/a/75/d0b78f59a1439d8f5f1b5947e570d75a_256_256.png"	"角色扮演"	1	6
+412	"com.four.generation.app"	10449	"4G电话"	"通信聊天"	"3.15M"	"http://img.wdjimg.com/mms/icon/v1/d/12/28d245a54eda519cc13257a5fddc912d_256_256.png"	"通信聊天 电话 工具 通讯 音质 电信"	1	16
+413	"com.letang.game"	10388	"战神OL"	NULL	NULL	NULL	NULL	0	6
+414	"com.haowan123.qinmeiren.umi"	10337	"秦美人（美人侍宠）"	"Arcade &amp; Action"	NULL	"http://lh5.ggpht.com/nnAGdtbUquv-a4uDpGqXB1GXs8c6482qUf7yRh2ZcPO5vFjm67VssAE8ZC_vEUCLat0oWvctccxZ8DLPGc7gGw"	NULL	5	1
+415	"com.grandkins.niuniu"	10325	"皇聚牛牛"	"休闲益智"	"6.26M"	"http://img.wdjimg.com/mms/icon/v1/e/0c/f78fbc7b4b6bf45e2aaf40ddff5260ce_256_256.png"	"休闲益智"	1	4
+416	"cn.shuk.android"	10311	"墨香书客"	"图书阅读"	"2.6M"	"http://static.yingyonghui.com/icon/72/1365064.png"	NULL	3	10
+417	"com.bfs.ninjumps"	10263	"忍者跳跃"	"模拟养成"	"7.74M"	"http://img.wdjimg.com/mms/icon/v1/4/9c/467112e577eacd1b16ac677ad73b59c4_256_256.png"	"模拟养成 休闲益智 网络模拟 忍者 顶尖 工作室 杀手"	1	3
+418	"com.kuhuawang.app"	10099	"酷话王电话"	"通信聊天"	"3.41M"	"http://img.wdjimg.com/mms/icon/v1/9/04/1e690052d3842deacfe7477bd961b049_256_256.png"	"通信聊天 电话 实用 简便 长途"	1	16
+419	"com.kanbox.wp"	10058	"酷盘"	"办公软件"	"4.81M"	"http://img.wdjimg.com/mms/icon/v1/c/d9/8dd57e1dc5d26ef72d4dded1c7ac5d9c_256_256.png"	"办公软件"	1	11
+420	"com.ninesky.nqbrowsercn"	9988	"网秦浏览器"	"常用工具"	"1.44M"	"http://img.wdjimg.com/mms/icon/v1/b/91/71821625867f97e4199d57264e6dd91b_256_256.png"	"常用工具"	1	14
+421	"com.netqin.ps"	9975	"网秦私密空间"	"常用工具"	"2.39M"	"http://img.wdjimg.com/mms/icon/v1/b/ad/39e646fddb15edf36677a235dd0a5adb_256_256.png"	"常用工具 性能优化 通信聊天 便捷生活 通话记录 空间 隐私 秘密"	1	14
+422	"com.tuomi.longzhan.cmge"	9964	"魔兽三国"	"动作竞技"	"63.11M"	"http://img.wdjimg.com/mms/icon/v1/c/a1/ed54e31a59fedffb04e63bb1178fba1c_256_256.png"	"动作竞技"	1	5
+423	"com.sohu.focus.apartment"	9935	"搜狐购房助手"	"便捷生活"	"4.09M"	"http://img.wdjimg.com/mms/icon/v1/c/d5/d28a1e5fb1bd6dc684d5f314c6fded5c_256_256.png"	"便捷生活 租房"	1	15
+424	"com.eliao"	9920	"易聊网络电话"	"通信聊天"	"2.04M"	"http://img.wdjimg.com/mms/icon/v1/3/4e/070c300c652885c6d60b804c192a54e3_256_256.png"	"通信聊天 电话 技术 通话 全球 套餐 语音"	1	16
+425	"com.kuyue.zx49you"	9904	"王者战仙"	"角色扮演"	"8.15M"	"http://img.wdjimg.com/mms/icon/v1/f/86/9368680a497baa674e16e1334794786f_256_256.png"	"角色扮演"	1	6
+426	"com.chengyu.guess"	9875	"成语玩命猜"	"益智和解谜游戏"	"4.3M"	"https://lh6.ggpht.com/ZtSqM75N67mNEciCjdoXT-0AmFnmmeXg3tZVa6-S3gtjoWFYErNPrDvABUUNZJV3bA=w300-rw"	"4.5"	2	4
+427	"com.pingan.wanlitong"	9837	"万里通"	"便捷生活"	"6.9M"	"http://img.wdjimg.com/mms/icon/v1/5/21/7b146fcbf20a3ad7731998d5ec311215_256_256.png"	"便捷生活"	1	15
+428	"ecp888.com"	9831	"彩票直通车"	"便捷生活"	"5.48M"	"http://img.wdjimg.com/mms/icon/v1/4/d3/1f1eacf3537785a1b828d7f981cbdd34_256_256.png"	"便捷生活 金融理财 火爆 大乐透 权威"	1	15
+429	"com.acp.main"	9829	"新浪彩票"	"金融理财"	"4.25M"	"http://img.wdjimg.com/mms/icon/v1/7/ea/2e96b2ea60d55d7218c9675745f0dea7_256_256.png"	"金融理财 彩票 七星彩 七乐彩 大乐透 新浪"	1	18
+430	"cn.etouch.epai"	9807	"扫码手电筒-二维码比价"	"便捷生活"	"1	016.01K"	"http://img.wdjimg.com/mms/icon/v1/a/e3/d241904ee362a451de92aee1ca439e3a_256_256.png"	"便捷生活 比价 省钱 扫描 专业"	1	14
+431	"com.eoemobile.netmarket"	9793	"优亿市场"	"常用工具"	"2.01M"	"http://img.wdjimg.com/mms/icon/v1/3/8c/421fcebc2841cd9ea230ecd6b99278c3_256_256.png"	"常用工具 市场 设计 漂亮"	1	14
+432	"air.com.aoogin.sanguocw"	9767	"痞子三国"	"角色扮演"	"85.97M"	"http://img.wdjimg.com/mms/icon/v1/0/94/11b73804045819f1256cf2076a093940_256_256.png"	"角色扮演 三国"	1	6
+433	"com.vxinyou.mof.cw"	9525	"格斗之皇"	"街机和动作游戏"	"45M"	"https://lh6.ggpht.com/f2HfGQmXsbsSNlFd1Oo0UJZC6NA1_QNhrnq0YoRwxtc-G10MMK3LFh3sLltXEDSk-g=w300-rw"	"4.1"	2	5
+434	"com.net263.secondarynum.activity"	9513	"第二号码"	"办公软件"	"4.81M"	"http://img.wdjimg.com/mms/icon/v1/4/c9/2f66555950612e739443e2974aabfc94_256_256.png"	"办公软件 号码 信号 保险 快递"	1	11
+435	"com.weather.activity"	9475	"hello天气"	"便捷生活"	"2.56M"	"http://img.wdjimg.com/mms/icon/v1/f/7e/bb9dbf83973ebeeddc9b40d4f361f7ef_256_256.png"	"便捷生活 天气"	1	15
+436	"com.vikings.kingdoms2"	9425	"水果派对"	"角色扮演"	"8.85M"	"http://img.wdjimg.com/mms/icon/v1/d/79/7ef9606fb991aa0aeb4e8c59ce1e179d_256_256.png"	"角色扮演"	1	6
+437	"com.imod"	9411	"魔与道OL"	"角色扮演"	"16.19M"	"http://img.wdjimg.com/mms/icon/v1/5/e6/06e121d69e72a12035ac8926322fbe65_256_256.png"	"角色扮演 网络模拟 职业 人物 社交"	1	6
+438	"com.kuyue.zxydn6"	9343	"仙魔斗"	"角色扮演"	"32.09M"	"http://img.wdjimg.com/mms/icon/v1/6/49/8aed1ee66985bb2161e8026ab96c5496_256_256.png"	"角色扮演"	1	6
+439	"com.temobi.wht"	9255	"万花筒视频"	"影音图像"	"1.97M"	"http://img.wdjimg.com/mms/icon/v1/7/f8/0aef7cf72eb8f2d326cf2c039e938f87_256_256.png"	"影音图像 播放器 视频 万花筒 频道 电视 直播"	1	9
+440	"com.chinamobile.contacts.im"	9244	"彩云通讯录"	"通信聊天"	"5.99M"	"http://img.wdjimg.com/mms/icon/v1/c/c2/28018aeb0fa92f19a21771b10cc4ac2c_256_256.png"	"通信聊天 通讯录"	1	16
+441	"com.bytetech1"	9147	"奇悠阅读"	"阅读学习"	"1.99M"	"http://img.wdjimg.com/mms/icon/v1/c/52/7ac2e815640b397b5dcd399f2f91a52c_256_256.png"	"阅读学习 图书 愉快"	1	10
+442	"com.runbeard.activity"	9126	"紫金岛跑胡子"	"休闲益智"	"14.48M"	"http://img.wdjimg.com/mms/icon/v1/b/e8/aa7e46a4f10e2559df0c88ad1c19be8b_256_256.png"	"休闲益智 中兴 三星 分辨率"	1	4
+443	"air.com.jzwl.dicegame"	9092	"色你妹"	NULL	NULL	NULL	NULL	0	6
+444	"com.game5a.leitingzhanjihd"	9054	"歼十出击"	"射击冒险"	"4.67M"	"http://img.wdjimg.com/mms/icon/v1/4/11/d962c8b9dd967c590749151fe3e60114_256_256.png"	"射击冒险 休闲益智 外星人 漫画 地球"	1	2
+445	"com.uc.h5.ssdz"	9031	"松鼠大战"	"休闲益智"	"33.92M"	"http://img.wdjimg.com/mms/icon/v1/b/c0/056794d79a0839551f2bd5c37031dc0b_256_256.png"	"休闲益智 松鼠 高手 阿布 武器"	1	4
+446	"com.MyGame.Midlet"	9026	"移动棋牌"	"棋牌桌游"	"10.9M"	"http://static.yingyonghui.com/icon/72/1375051.png"	NULL	3	4
+447	"db.xyjdx.uc"	8991	"新一骑当先OL"	"动作竞技"	"2.75M"	"http://img.wdjimg.com/mms/icon/v1/b/31/29177fa76aec27e23bcaa3593be4131b_256_256.png"	"动作竞技 三国 回合RPG"	1	5
+448	"com.raxtone.flynavi"	8986	"飞路快导航"	"出行必用"	"13.82M"	"http://img.wdjimg.com/mms/icon/v1/d/b7/efa1f3d5f014bc9506058a4c662d8b7d_256_256.png"	"出行必用 地图 导航 路况 路线 微信"	1	22
+449	"com.hummingbird.zhaoqin.baidu"	8906	"比武招亲"	NULL	NULL	NULL	NULL	0	6
+450	"cn.kk.xyj.p44755"	8843	"西游降魔"	"角色扮演"	"27.83M"	"http://img.wdjimg.com/mms/icon/v1/9/7b/3872d0f94bc26a9715ee63004ff947b9_256_256.png"	"角色扮演"	1	6
+451	"cn.itkt.travelsky"	8817	"掌上航旅"	"网上购物"	"4.78M"	"http://img.wdjimg.com/mms/icon/v1/2/56/7e4aae48ad77ca5cbd056b6141775562_256_256.png"	"网上购物 预约 便捷 出票 实时 飞机"	1	22
+452	"air.com.udhappy.igames.zhsj"	8796	"召唤世界"	"模拟养成"	"58.7M"	"http://img.wdjimg.com/mms/icon/v1/b/4f/c8aea1ea7cc91a55b4cf3e96373314fb_256_256.png"	"模拟养成 卡牌"	1	3
+453	"com.clou.sns.android.anywhered"	8774	"在身边交友"	"社交网络"	"5.31M"	"http://img.wdjimg.com/mms/icon/v1/4/b3/8adb187e8917c1dee873411c9c03fb34_256_256.png"	"社交网络 交友"	1	8
+454	"com.zhangqu.game.football.internal"	8733	"热血足球经理人2013版"	"体育竞速"	"24.94M"	"http://img.wdjimg.com/mms/icon/v1/8/98/67a6727d20d628979731fb97a8143988_256_256.png"	"体育竞速"	1	7
+455	"com.bobo"	8731	"拨拨网络电话"	"通信聊天"	"3.11M"	"http://img.wdjimg.com/mms/icon/v1/f/6b/1a48a671cf36072b07e392d7492306bf_256_256.png"	"通信聊天 电话 通话 省钱 工具 便捷 电信"	1	16
+456	"com.akira.flashcallPro"	8722	"Flashlight Call Pro"	"工具"	"508k"	"https://lh6.ggpht.com/UxbtJo5YJdU2jnUX6zgbLAfnVh8cNa5_A3y9uZVekFhRYqJVa5qXNFskhx04C-eyqg=w300-rw"	"3.8"	2	15
+457	"com.gmcc.numberportable"	8702	"多号通"	"通信聊天"	"2.53M"	"http://img.wdjimg.com/mms/icon/v1/d/f8/aa68e0eb7157ff806528dcaf1a4e0f8d_256_256.png"	"通信聊天 手机号码 业务 交流"	1	16
+458	"com.imodjoy7"	8699	"仙魔奇侠"	"角色扮演"	"17.33M"	"http://img.wdjimg.com/mms/icon/v1/2/27/e8da5b471d5f40a3587fac77b9d65272_256_256.png"	"角色扮演"	1	6
+459	"com.chinaway.android.lottery"	8666	"彩客彩票"	"金融理财"	"5.53M"	"http://img.wdjimg.com/mms/icon/v1/9/db/7779d1fed78d829c9247a1807297ddb9_256_256.png"	"金融理财 彩票 大乐透 11选5 体育彩票 北京"	1	18
+460	"com.sqage.yongbingsanguo"	8645	"佣兵三国"	"经营策略"	"5.64M"	"http://img.wdjimg.com/mms/icon/v1/f/5c/a93a62ba647ff0c1ce7823debc00a5cf_256_256.png"	"经营策略 三国 刘备 曹操 东汉末年 策略游戏"	1	1
+461	"com.codoon.gps"	8618	"咕咚运动+ -- 你的手机健身减肥助手"	"便捷生活"	"10.51M"	"http://img.wdjimg.com/mms/icon/v1/7/8c/b5f899efdbb26e467eca39c5a5ab58c7_256_256.png"	"便捷生活 常用工具 美化手机 出行必用 减肥 运动 健身 时尚"	1	15
+462	"com.feedov.lehu"	8593	"乐呼网络电话"	"通信聊天"	"2.25M"	"http://img.wdjimg.com/mms/icon/v1/b/eb/6cd240a50cf5ed7a34a70843ba995ebb_256_256.png"	"通信聊天 同行 省钱 免费网络电话 价格 品牌"	1	16
+463	"a5game.leidian2_RW"	8523	"星球大战-雷霆战机"	"射击冒险"	"12.29M"	"http://img.wdjimg.com/mms/icon/v1/4/98/c5fc679d9ecb835201869bd0ea76d984_256_256.png"	"射击冒险 动作竞技"	1	2
+464	"com.breadtrip"	8522	"面包旅行"	"出行必用"	"11M"	"http://img.wdjimg.com/mms/icon/v1/3/25/60dd57131ff74ffcfecce43cb9bb1253_256_256.png"	"出行必用 旅游 旅行 离线 面包 照片 编辑"	1	22
+465	"com.g2us.armedwarriors.uc"	8451	"战魂Online"	"游戏"	"85.08M"	"http://img4.sjpic.91rb.com/soft/2013/1/15/39f035f18b4f4860939be70886d7030d/icon_c34a3ee8f45741df850e28859c7c5281_65.png"	NULL	4	5
+466	"com.yinhan.shenmo.uc"	8363	"神魔"	"动作竞技"	"79.47M"	"http://img.wdjimg.com/mms/icon/v1/3/34/79d4fb433c51e3e2ccabfcbc5f2b4343_256_256.png"	"动作竞技 角色扮演"	1	5
+467	"com.devuni.compass"	8356	"指南针"	"便捷生活"	"562.24K"	"http://img.wdjimg.com/mms/icon/v1/e/bb/6ffc0c2d3803fed7c8db29d25a9dabbe_256_256.png"	"便捷生活 常用工具 出行必用 影音图像 指南针 精致"	1	15
+468	"com.guohe"	8323	"免费达人(原名:白吃麦当劳)"	"便捷生活"	"4.48M"	"http://img.wdjimg.com/mms/icon/v1/9/41/c3a301af10ba395180c2ca382052e419_256_256.png"	"便捷生活 金融理财 社交网络 网上购物 新闻资讯 达人 麦当劳 汽车"	1	15
+469	"com.kexin.jbsg.cw"	8318	"将爆三国"	"休闲游戏"	"29.25M"	"http://img7.sjpic.91rb.com/soft/2013/7/31/5bfc00f46eb24b948a3fad0680df2854/icon_304ded3cd56341de974d03ab54e9d98c_65.png"	NULL	4	1
+470	"com.tuan800.movie"	8273	"团800电影票"	"便捷生活"	"4.64M"	"http://img.wdjimg.com/mms/icon/v1/9/ab/df8e99b99d9f3a8fb9ccc207bef27ab9_256_256.png"	"便捷生活 全国 优惠 一目了然 电影 定位"	1	15
+471	"com.yyzhaoche.androidclient"	8271	"摇摇招车"	"便捷生活"	"4.36M"	"http://img.wdjimg.com/mms/icon/v1/7/0a/bea66335e37d97b8d2627144fa86e0a7_256_256.png"	"便捷生活 智能 出门 司机"	1	15
+472	"com.youlu"	8252	"友录通讯录"	"通信聊天"	"3.2M"	"http://img.wdjimg.com/mms/icon/v1/b/c3/f3bc20bec3b24c24aafcea0a622fcc3b_256_256.png"	"通信聊天 常用工具 美化手机 社交网络 通讯录 分组 彩信 拨号"	1	16
+473	"com.gewara"	8234	"格瓦拉@电影（手机选座购票）"	"便捷生活"	"7.52M"	"http://img.wdjimg.com/mms/icon/v1/a/7c/a7587e346d862aa32a6dd206125cd7ca_256_256.png"	"便捷生活"	1	15
+474	"com.eastedge.scirocco"	8219	"尚酷闪电战"	"休闲益智"	"9.07M"	"http://img.wdjimg.com/mms/icon/v1/7/e9/dfce5c425fc35048e261a8058e3afe97_256_256.png"	"休闲益智"	1	4
+475	"com.duoduo.passenger"	8215	"大黄蜂打车"	"出行必用"	"5.08M"	"http://img.wdjimg.com/mms/icon/v1/8/9f/438527139359fa9d8b2a769e951f09f8_256_256.png"	"出行必用"	1	22
+476	"com.aCatClient"	8176	"寻将"	"角色扮演"	"15.37M"	"http://img.wdjimg.com/mms/icon/v1/b/17/8a107559974a99b9cddc5d1c26e6617b_256_256.png"	"角色扮演"	1	6
+477	"com.king2.mf"	8175	"君王2"	NULL	NULL	NULL	NULL	0	6
+478	"com.letu.android"	8148	"乐图壁纸"	"美化手机"	"3.03M"	"http://img.wdjimg.com/mms/icon/v1/3/99/7ae630ccacced8309ffb0c922de60993_256_256.png"	"美化手机 影音图像 热点 高清 安卓手机 分类"	1	12
+479	"com.yek.android.uniqlo"	8059	"优衣库"	"便捷生活"	"5.69M"	"http://img.wdjimg.com/mms/icon/v1/a/ae/7414a1b191ff0a91b1c51cf671269aea_256_256.png"	"便捷生活"	1	21
+480	"com.unic.lwfs"	8001	"乱舞乾坤"	"角色扮演"	"63.25M"	"http://img.wdjimg.com/mms/icon/v1/f/13/e4602e5cdfaa958bef849ec3eb40613f_256_256.png"	"角色扮演 模拟养成"	1	6
+481	"com.lexun.kkou"	7949	"快扣优惠"	"便捷生活"	"5.41M"	"http://img.wdjimg.com/mms/icon/v1/9/28/9da0a431f7665e3e454ae404a9336289_256_256.png"	"便捷生活 优惠 打折 银行卡 优惠券"	1	20
+482	"htol.game"	7948	"浩天奇缘"	"动作竞技"	"9.85M"	"http://img.wdjimg.com/mms/icon/v1/8/92/55a8446c6f3f5f8bdbfe75aaf7201928_256_256.png"	"动作竞技 任务 江湖 热血 即时RPG"	1	5
+483	"com.bobgame.zhajinhua"	7909	"奢华炸金花"	"棋牌桌游"	"8.3M"	"http://static.yingyonghui.com/icon/72/1368369.png"	NULL	3	4
+484	"air.com.lingyu.zzxlmobile.sijia"	7891	"仙战 OL"	"角色扮演"	"79.61M"	"http://img.wdjimg.com/mms/icon/v1/8/1c/dfe211fb453da07a7fcdfc35ffa461c8_256_256.png"	"角色扮演"	1	6
+485	"com.mango.sanguo15"	7858	"风云天下OL"	"策略游戏"	"24.5M"	"http://static.yingyonghui.com/icon/72/1373966.png"	NULL	3	1
+486	"com.secretlisa.sleep"	7842	"我要早睡"	"便捷生活"	"8.43M"	"http://img.wdjimg.com/mms/icon/v1/c/a4/765eba270b10768b832f34487b875a4c_256_256.png"	"便捷生活"	1	15
+487	"com.pokercity.xianmo_OL"	7839	"仙魔九界OL"	"策略网游"	"113.57M"	"http://img8.sjpic.91rb.com/soft/2013/9/30/20ff0fb80f99420db6f0ba55cc6fb61b/icon_c8de19cbbc1c4ef69c4a92ae618bdf60_65.png"	NULL	4	6
+488	"cn.dpocket.moplusand.ui"	7816	"友加"	"社交网络"	"3.55M"	"http://img.wdjimg.com/mms/icon/v1/1/03/92af6f7cecc9a235e0ac0801e4b5e031_256_256.png"	"社交网络 年轻人 单身男女 个人空间 社区"	1	8
+489	"com.trunk.ticket"	7803	"天翼客运通2013"	"便捷生活"	"2.23M"	"http://img.wdjimg.com/mms/icon/v1/9/39/b5c140bb9062f6799fd0255c9c44d399_256_256.png"	"便捷生活 客户 广东 旅行 春运 客运"	1	22
+490	"com.chinaamc.mfbh.amcActivity"	7763	"活期通"	"金融理财"	"4.71M"	"http://img.wdjimg.com/mms/icon/v1/9/4c/e16445c6402a46deccc438c2a18434c9_256_256.png"	"金融理财 华夏 享受 基金 买卖"	1	18
+491	"szg.chinasub"	7755	"中国地铁—涵盖两岸三地所有线路"	"旅游与本地出行"	"156k"	"https://lh4.ggpht.com/pII1WsecYU9KLtNFDW3U_LMphvcY0CQV17WM4_bbeQ2cyxDe4uG5ilZUfBqYm1z5hsc=w300-rw"	"3.7"	2	22
+492	"com.aptech.QQVoice"	7688	"云话免费网络电话"	"通信聊天"	"3.85M"	"http://img.wdjimg.com/mms/icon/v1/3/f8/99ff224a6853004e759daf5d69458f83_256_256.png"	"通信聊天"	1	16
+493	"huhu.phone"	7678	"呼呼Phone"	"通信聊天"	"1.7M"	"http://img.wdjimg.com/mms/icon/v1/c/6c/f451644d3b2e770904bc3856dadcd6cc_256_256.png"	"通信聊天 社交网络 常用工具 便宜 传统 开发 拨号"	1	16
+494	"com.poketec.texas"	7669	"口袋德州扑克"	"休闲益智"	"13.01M"	"http://img.wdjimg.com/mms/icon/v1/6/79/dbab5f5b5b1c95286c871da4511d9796_256_256.png"	"休闲益智 棋牌"	1	4
+495	"air.com.imop.game.sg3android"	7617	"指尖三国"	"休闲益智"	"27.53M"	"http://img.wdjimg.com/mms/icon/v1/5/ef/435a3cc132eb398035b5cb5f87f58ef5_256_256.png"	"休闲益智 三国 风格 指尖 休闲竞技"	1	4
+496	"cn.kk.xyj.qtds_1"	7597	"一路向西"	"角色扮演"	"27.17M"	"http://img.wdjimg.com/mms/icon/v1/c/02/9bda2e019b6b2b5fd28220c383e2f02c_256_256.png"	"角色扮演 休闲益智"	1	6
+497	"com.android.wangju"	7586	"网聚"	NULL	"453.47K"	"http://img.wdjimg.com/mms/icon/v1/2/b7/32f9f8525dfbd94da435b5574c152b72_256_256.png"	""	1	17
+498	"com.funinhand.weibo"	7582	"微录客vlook"	"影音图像"	"6.58M"	"http://img.wdjimg.com/mms/icon/v1/6/93/de696e05a3b894ac0a5e32472cdbb936_256_256.png"	"影音图像"	1	9
+499	"com.wifi.tong"	7540	"WiFi通"	"常用工具"	"5.97M"	"http://img.wdjimg.com/mms/icon/v1/d/9d/8d0a5b4245445b7d67156b6c838d49dd_256_256.png"	"常用工具 无线 上网 热点 安卓手机"	1	14
+500	"com.dangdang.reader"	7497	"当当读书"	"图书与工具书"	"5.8M"	"https://lh4.ggpht.com/mbqJqdf7vi-3ZEIkJUUT4SNh-u9XGNFOeLpVfgpZMhRYiedOAbUEMEhv7yv6QsBoLnE=w300-rw"	"2.2"	2	10
+501	"com.yuanlai"	7487	"缘来婚恋"	"社交网络"	"3.17M"	"http://img.wdjimg.com/mms/icon/v1/c/11/2c3dd87eb1bc43df9a5f4e085ee2d11c_256_256.png"	"社交网络 交友 婚恋 互动 白领 都市"	1	8
+502	"com.tsixi.mmddt"	7414	"斗斗堂拯救斗弹大陆"	"休闲益智"	"69.05M"	"http://img.wdjimg.com/mms/icon/v1/7/ed/7a1a0dc843ebc6adbf3556adf7736ed7_256_256.png"	"休闲益智"	1	4
+503	"air.com.gamehetu.kdmhchangwan"	7381	"悟空去哪儿"	"角色扮演"	"84.55M"	"http://img.wdjimg.com/mms/icon/v1/f/46/2dff5a886edcd9aa702c4a4b6e41246f_256_256.png"	"角色扮演"	1	6
+504	"com.hujiang.dict"	7336	"沪江小D"	"阅读学习"	"8.4M"	"http://img.wdjimg.com/mms/icon/v1/5/36/01bf76e19be5f74d2e2363558fc95365_256_256.png"	"阅读学习"	1	10
+505	"com.g.slmahjong.china"	7307	"神来麻将"	"休闲益智"	"6.69M"	"http://img.wdjimg.com/mms/icon/v1/7/31/75884bb896f3aa84d0345b1fbd8a1317_256_256.png"	"休闲益智 麻将"	1	4
+506	"com.wistone.war2victory"	7283	"二战风云"	"经营策略"	"22.69M"	"http://img.wdjimg.com/mms/icon/v1/e/3b/708976b13c828c433b989d9821d063be_256_256.png"	"经营策略 二战风云 第二次世界大战 将领 军事 策略"	1	1
+507	"com.xd.ctb"	7256	"车途邦"	"出行必用"	"4.14M"	"http://img.wdjimg.com/mms/icon/v1/8/69/852b87e26909ccac40c07c7f591d8698_256_256.png"	"出行必用"	1	22
+508	"com.a5game.conch.uc"	7202	"三国XO水浒"	"角色扮演"	"37.18M"	"http://img.wdjimg.com/mms/icon/v1/6/2d/bb2967e51ba6dd908bdafa5ef68212d6_256_256.png"	"角色扮演 休闲益智"	1	6
+509	"com.company.weibopictures"	7172	"微博快图(美女版)"	"影音图像"	"1.03M"	"http://img.wdjimg.com/mms/icon/v1/6/eb/afdf6e2be00cfa7b997eae68325e6eb6_256_256.png"	"影音图像"	1	12
+510	"air.com.uuzu.ydzs.c.ad"	7102	"一代宗师"	"角色扮演"	"103.57M"	"http://img.wdjimg.com/mms/icon/v1/0/86/4306e4e91562fac56fa254f5419fd860_256_256.png"	"角色扮演 网游 回合RPG 电影改编 武侠 卡牌 策略"	1	6
+511	"com.hongdou.activity"	7041	"秀吧"	"社交网络"	"5.26M"	"http://img.wdjimg.com/mms/icon/v1/c/0a/be4486a736ad7713d9b0da63b25e90ac_256_256.png"	"社交网络 交友 聊天 跳舞 女主播"	1	8
+512	"com.DSClient"	7012	"龙印"	"角色扮演"	"13.48M"	"http://img.wdjimg.com/mms/icon/v1/a/eb/74231b396bbdbc45670dd718c38afeba_256_256.png"	"角色扮演 江湖 武侠 人物 战斗 交友回合RPG"	1	6
+513	"com.baoruan.launcher"	7001	"宝软桌面"	"美化手机"	"4.7M"	"http://img.wdjimg.com/mms/icon/v1/b/6b/768b6a95186018ae787059f178abe6bb_256_256.png"	"美化手机 精致 达人 插件 清爽"	1	12
+514	"com.telenav.doudouyou.android.autonavi"	6980	"兜兜友"	"社交网络"	"12.38M"	"http://img.wdjimg.com/mms/icon/v1/1/de/620815d300122c5a2feab3115c3f6de1_256_256.png"	"社交网络"	1	8
+515	"ccc71.pmw.pro"	6961	"系统监控"	"常用工具"	"1.91M"	"http://img.wdjimg.com/mms/icon/v1/2/22/fea5c60d256c60de687e3e375cd31222_256_256.png"	"常用工具 监控 插件 内存 进程 空间"	1	14
+516	"org.motu.iGame.UC"	6946	"乱斗堂"	"动作游戏"	"48.96M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-12-18102234-_1387376554639_0271.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	6
+517	"com.hexun.news"	6944	"和讯财经"	"新闻资讯"	"5.07M"	"http://img.wdjimg.com/mms/icon/v1/2/e9/bbdadf75bac6ffa2c18da6099efe7e92_256_256.png"	"新闻资讯 财经 频道 客户 品种 专业"	1	17
+518	"air.com.renren.igames.mjcq855004974"	6872	"破冰利刃"	NULL	NULL	NULL	NULL	0	6
+519	"com.redatoms.mojodroid"	6846	"三国来了"	"角色扮演"	"20.77M"	"http://img.wdjimg.com/mms/icon/v1/8/d5/ea7fe9d1780a98e9c6d7eac5c37c7d58_256_256.png"	"角色扮演 三国 休闲 即使RPG 卡牌"	1	6
+520	"com.anzhuor.com"	6831	"城赚"	"常用工具"	"1.61M"	"http://img.wdjimg.com/mms/icon/v1/6/48/ef39930c7b03c9767231089cc98cc486_256_256.png"	"常用工具 金融理财 便捷生活 任务 挂机 娱乐 充值"	1	14
+521	"proj.syjt.umi"	6818	"战谷"	NULL	NULL	NULL	NULL	0	1
+522	"com.dihong.sanguoxx.jd"	6782	"汉末群雄"	"经营策略"	"34.64M"	"http://img.wdjimg.com/mms/icon/v1/a/26/e447c239eb4c67529afc79a98315826a_256_256.png"	"经营策略"	1	1
+523	"com.boyaa.lordland.fb"	6782	"博雅鬥地主"	"纸牌游戏"	"因设备而异"	"https://lh3.ggpht.com/8-H_IXP8e5zW-qHdPbAZP9opjzjkZrLKcupOgeAfd9_pIdgKvBoDfHCWCQEiNuy941I=w300-rw"	"4.5"	2	4
+524	"com.pingan.licai"	6721	"理财产品速递"	"金融理财"	"2.78M"	"http://img.wdjimg.com/mms/icon/v1/7/70/4918c9dc3bf697d61bce85d063655707_256_256.png"	"金融理财"	1	18
+525	"com.soloyo.zjws"	6720	"真姬无双"	"角色扮演"	"65.78M"	"http://img.wdjimg.com/mms/icon/v1/9/c3/9abcd8531fe82854acf13b1ff26efc39_256_256.png"	"角色扮演 模拟养成"	1	6
+526	"com.mango.sanguo15.pps"	6658	"风云天下"	"经营策略"	"23.48M"	"http://img.wdjimg.com/mms/icon/v1/f/cb/9b30562d2ee008e22515a4c5741cdcbf_256_256.png"	"经营策略 三国 东汉 历史 风云 书写"	1	1
+527	"com.sq.sanguo.dgc"	6625	"名将决"	"动作竞技"	"30.72M"	"http://img.wdjimg.com/mms/icon/v1/a/d8/c12dac58e12b4c15a9415e1f3b2e5d8a_256_256.png"	"动作竞技"	1	5
+528	"com.dkm.td2ol"	6491	"天地贰"	"角色扮演"	"108.05M"	"http://img.wdjimg.com/mms/icon/v1/f/5a/9309b5103dff5e2684848e0e03a005af_256_256.png"	"角色扮演 经营策略 江湖 武侠 门派 东方 创新"	1	6
+529	"com.kkliaotian.android"	6452	"KK觅友（KKtalk） - 陌生人移动社交"	"社交网络"	"6.12M"	"http://img.wdjimg.com/mms/icon/v1/f/46/d2b6e0600cdc126a981c592fbed8e46f_256_256.png"	"社交网络 陌生人 密友 穿越"	1	8
+530	"cn.bonc"	6432	"湖北116114"	"便捷生活"	"7.73M"	"http://img.wdjimg.com/mms/icon/v1/d/17/dc2a83a1ef141c4649bcec84dced317d_256_256.png"	"便捷生活 常用工具 湖北 预约 专业 预订"	1	15
+531	"hytx.xxol"	6429	"凡人修仙传online"	"角色扮演"	"5.67M"	"http://img.wdjimg.com/mms/icon/v1/7/b8/6859a26ab0228e5a02221119ff6f9b87_256_256.png"	"角色扮演 模拟养成 经营策略"	1	6
+532	"com.zsgapkfreedom.skygame3"	6341	"英雄三国.群雄逐鹿"	"经营策略"	"73.78M"	"http://img.wdjimg.com/mms/icon/v1/7/ad/23c509febfd8d5a9702f9371096b7ad7_256_256.png"	"经营策略 三国"	1	1
+533	"com.netease.apper"	6331	"网易应用中心"	"其它"	"1.61M"	"http://img.wdjimg.com/mms/icon/v1/6/f5/acac4aaa3a644d05fdf859cf85b1bf56_256_256.png"	"其它 管理 高速 网易"	1	14
+534	"com.pip.android.xiyou"	6324	" 明珠西游 "	"角色扮演"	"4.87M"	"http://img.wdjimg.com/mms/icon/v1/6/38/eb05a2b5ad5febffbd190fd40cf36386_256_256.png"	"角色扮演 模拟养成 动作竞技 网络模拟 魔界 孙悟空 天庭 邂逅 回合RPG"	1	6
+535	"com.taobao.munion.apk"	6309	"淘宝热卖"	"网购支付"	"244.0K"	"http://static.yingyonghui.com/icon/72/254968.png"	NULL	3	20
+536	"com.mmb.shop"	6248	"好优"	"便捷生活"	"1.67M"	"http://img.wdjimg.com/mms/icon/v1/9/cc/597607d262c2bccdcc1f9ea2edc25cc9_256_256.png"	"便捷生活 网上购物 买卖 战略 限时"	1	20
+537	"com.snda.uvanmobile"	6242	"切客优惠"	"生活时尚"	"4.0M"	"https://lh5.ggpht.com/zIPHXen68ZBztpJcoTaPq5OrLfIHXb0QCOuLn9h2pdE0eWVcuX7n8X4gPNSLOdwt7c8=w300-rw"	"4.0"	2	20
+538	"com.ehtalk.ehu"	6223	"友声省钱电话"	"通信聊天"	"1.77M"	"http://img.wdjimg.com/mms/icon/v1/3/bc/53ad27ff5284418709a0ee016f67abc3_256_256.png"	"通信聊天 电话 省电 代理 手机软件 兼职 好友"	1	16
+539	"com.horizonlink.godslayer.umipay"	6180	"猎神OL-全球首款3D格斗游戏"	"Arcade &amp; Action"	NULL	"http://lh3.ggpht.com/sbpWujUMLRBMdC1UnmzsN9uucFrcJvf2vqQXxqg9bzWF14zXMcUYrfaFYJkNSN2nwV4G1aIOHWjPGMjZ2ErHJPs"	NULL	5	5
+540	"cn.easytom.easyanywhere"	6110	"移折通电子优惠券(电影票、美食、折扣券、团购、省钱、ktv）"	"便捷生活"	"3.42M"	"http://img.wdjimg.com/mms/icon/v1/a/e7/b39022a6a6c264a567d44112f0122e7a_256_256.png"	"便捷生活 网上购物 必胜客 优惠券 折扣 优惠"	1	20
+541	"com.teamtop3.ysmTP"	6096	"永生门OL"	"角色扮演"	"123.78M"	"http://img.wdjimg.com/mms/icon/v1/f/b4/6ef786db969d66cb46863d1c41443b4f_256_256.png"	"角色扮演 永生 享受 多彩 领略 神马 回合RPG"	1	6
+542	"com.kxe.ca.activity"	6090	"卡小二"	"金融理财"	"4.36M"	"http://img.wdjimg.com/mms/icon/v1/d/6d/4745011295e3a22b66705668286ea6dd_256_256.png"	"金融理财 信用卡 助手 财务 合作 语音"	1	18
+543	"com.utgame.thisiswar.bx"	6079	"这就是战争This"	"模拟养成"	"51.29M"	"http://img.wdjimg.com/mms/icon/v1/1/ff/2b1088ab898c6b3701762e3a8f2b2ff1_256_256.png"	"模拟养成 休闲益智"	1	3
+544	"com.mobi.filemanager.activity"	6073	"萌阿狸主题动态锁屏"	"手机管家"	"2.25M"	"http://img3.sjpic.91rb.com/soft/2013/11/27/dfba51ed86dc45aeae272206f7696528/icon_13f944cd09a64cbc88913698433f2a93_65.png"	NULL	4	14
+545	"cn.ikamobile.hotelfinder"	6072	"酒店达人"	"便捷生活"	"7.18M"	"http://img.wdjimg.com/mms/icon/v1/d/3a/8e781c3e76d0f99384cf58b1a9dd13ad_256_256.png"	"便捷生活 酒店"	1	15
+546	"com.molon.ddz"	6055	"微乐斗地主"	"休闲益智"	"6.81M"	"http://img.wdjimg.com/mms/icon/v1/c/b2/d4ee8aa030560144eea67fe8d64a6b2c_256_256.png"	"休闲益智"	1	4
+547	"com.hotalk"	6052	"天天聊"	"通信聊天"	"5.19M"	"http://img.wdjimg.com/mms/icon/v1/f/65/13dfeb04a5b4ad21c1f391f59b21e65f_256_256.png"	"通信聊天"	1	16
+548	"com.easou.game.sghhr.easou"	6033	"三国合伙人"	"角色扮演"	"34.24M"	"http://img.wdjimg.com/mms/icon/v1/4/93/c85c30161ca3ae6b821a1251709e8934_256_256.png"	"角色扮演"	1	6
+549	"cn.mobage.g13000251"	6014	"巴哈姆特之怒"	"经营策略"	"5.09M"	"http://img.wdjimg.com/mms/icon/v1/4/91/c5335dee0febb944870ef9914673d914_256_256.png"	"经营策略 卡牌"	1	1
+550	"com.jiuban.lottery.screen"	6009	"3G购彩通彩票软件"	"金融理财"	"3.32M"	"http://img.wdjimg.com/mms/icon/v1/5/3a/280d24d688f2a09b04023cc2d43d43a5_256_256.png"	"金融理财 常用工具 便捷生活 运气 优惠"	1	18
+551	"com.qxtimes.music"	6003	"布谷音乐"	"影音图像"	"2.8M"	"http://img.wdjimg.com/mms/icon/v1/5/34/027fdfbdf5891295cb94a0723a511345_256_256.png"	"影音图像 音乐"	1	9
+552	"html5.game.wrapper"	5979	"FIFA足球经理"	"体育竞速"	"30.56M"	"http://img.wdjimg.com/mms/icon/v1/d/39/63f7ba8a2df2d990c7d6532315d3c39d_256_256.png"	"体育竞速 大型游戏"	1	7
+553	"net.moshi.knnss"	5972	"狂虐女上司"	NULL	NULL	NULL	NULL	0	4
+554	"com.gamebox.kinguc31.ucHD"	5971	"新三国争霸"	"休闲益智"	"44.04M"	"http://img.wdjimg.com/mms/icon/v1/8/fb/4c7fb23bc2be555f8e16bba223d50fb8_256_256.png"	"休闲益智 三国 国家 争霸 名将"	1	4
+555	"com.lamamobile.winner"	5969	"88游戏厅"	"休闲益智"	"6.52M"	"http://img.wdjimg.com/mms/icon/v1/e/52/4126d5f753dae012f86d86824276152e_256_256.png"	"休闲益智 斗地主 真人 风格 分配 匿名"	1	4
+556	"com.zxtd.information.ui"	5923	"杂色新闻"	"新闻资讯"	"6.17M"	"http://img.wdjimg.com/mms/icon/v1/e/72/e7c209cadcde7c6e6cdcb6db9ec4c72e_256_256.png"	"新闻资讯 社交网络 常用工具 新闻 客观"	1	17
+557	"air.com.cygame.mxy.ym"	5915	"梦西游"	"Arcade &amp; Action"	NULL	"http://lh4.ggpht.com/cmyKlUzTK5TcupX37GwvlfRSlmGdWx6t5MWR2w3_iCWyGX2yhfoLlzXsCCQ7D-qFC2IRoAAC_D_GIkKEiJUiy6Il"	NULL	5	6
+558	"com.kuyue.zxkkk5"	5899	"征途战仙"	"角色扮演"	"7.55M"	"http://img.wdjimg.com/mms/icon/v1/0/d7/4eb573e215b2f23738ed1dcdfe400d70_256_256.png"	"角色扮演"	1	6
+559	"com.sdy.chaoxin"	5889	"超信"	"通信聊天"	"9.84M"	"http://img.wdjimg.com/mms/icon/v1/e/9a/e3e1343a608c9c9aa350cc5e46f379ae_256_256.png"	"通信聊天 工具 传输 多媒体"	1	16
+560	"air.com.uuzu.mjhapk.pps"	5889	"萌江湖"	NULL	NULL	NULL	NULL	0	6
+561	"com.uqee.lying.maingamexinji"	5872	"傲三国"	"经营策略"	"32.06M"	"http://img.wdjimg.com/mms/icon/v1/5/42/acba8641f93be055218cf0f2c6c2b425_256_256.png"	"经营策略 三国 武将"	1	1
+562	"air.com.ifree.ykh.cardCHS"	5862	"魔法禁书"	"休闲益智"	"112.61M"	"http://img.wdjimg.com/mms/icon/v1/b/e5/382aadfbf6f5f0f15fe53ac025a6ee5b_256_256.png"	"休闲益智 角色扮演"	1	4
+563	"com.jiubang.app.bgz"	5815	"曝工资"	"便捷生活"	"821.98K"	"http://img.wdjimg.com/mms/icon/v1/b/25/e13e33198e3d6b7c2b475aab4fe9a25b_256_256.png"	"便捷生活 生活 首发"	1	15
+564	"cn.com.vapk.vstore.client"	5808	"Vmarket安卓商店"	"其它"	"526.48K"	"http://img.wdjimg.com/mms/icon/v1/2/6e/f1fefe99e3d10a9806cd6d5a871c16e2_256_256.png"	"其它 商店 作业 专业 优秀 北京"	1	14
+565	"com.yinhan.shenmo.youmi"	5800	"神魔OL"	"动作竞技"	"74.75M"	"http://img.wdjimg.com/mms/icon/v1/b/11/963fec04a3f458bc76fd21bd618ce11b_256_256.png"	"动作竞技"	1	5
+566	"com.mile.fengshenlu"	5788	"封神录"	"角色扮演"	"43.37M"	"http://img.wdjimg.com/mms/icon/v1/2/b1/7afdc76ed23cf87fc97461f081cd3b12_256_256.png"	"角色扮演"	1	6
+567	"com.galeapp.backgrounds"	5766	"最壁纸"	"美化手机"	"1.43M"	"http://img.wdjimg.com/mms/icon/v1/4/dd/0a8e8d968e934bf2ff7acb3823b47dd4_256_256.png"	"美化手机 壁纸 漂亮 便捷"	1	12
+568	"cn.btcall.ipcall"	5720	"必通免费电话"	"通信聊天"	"1.28M"	"http://img.wdjimg.com/mms/icon/v1/d/8d/3dcdba6e9525621fd32afd7c7371b8dd_256_256.png"	"通信聊天 免费电话 通用 24小时 长途"	1	16
+569	"net.lazyer.wiyun.ppl.yxjd"	5713	"泡泡龙之最后防线"	"益智游戏"	"1.9M"	"http://static.yingyonghui.com/icon/72/1040248.png"	NULL	3	4
+570	"com.taobao.mobile.dipei"	5708	"淘点点"	"便捷生活"	"5.8M"	"http://img.wdjimg.com/mms/icon/v1/d/58/751b221c10bc1b72837029d5b00dd58d_256_256.png"	"便捷生活 优惠券 实用 淘宝"	1	20
+571	"com.songshulin.android.rent"	5701	"掌上租房"	"便捷生活"	"5.27M"	"http://img.wdjimg.com/mms/icon/v1/4/6b/17cb6d6b7fb09b6aa1adceb443fcc6b4_256_256.png"	"便捷生活 租房 聚合 设计"	1	15
+572	"com.dprat.adidasIM"	5695	"夺宝奇冰2"	"休闲益智"	"39.4M"	"http://img.wdjimg.com/mms/icon/v1/3/82/1fa2bad775ba26f7df11e758df243823_256_256.png"	"休闲益智 体育竞速"	1	4
+573	"com.tuan800.hui800"	5675	"身边优惠"	"新闻资讯"	"3M"	"http://img.wdjimg.com/mms/icon/v1/c/c6/93c4e532ed07a90d2152d65b8b43cc6c_256_256.png"	"新闻资讯 优惠 城市 品牌"	1	17
+574	"railway.cellcom.gd.telecom.formal.ui"	5675	"天翼火车通"	"便捷生活"	"3.36M"	"http://img.wdjimg.com/mms/icon/v1/e/39/6bd5e1e235f9ac34e87b71dd1d27539e_256_256.png"	"便捷生活 火车 预订 广东 集团"	1	15
+575	"com.yongche.android"	5634	"易到用车"	"便捷生活"	"7.29M"	"http://img.wdjimg.com/mms/icon/v1/5/2c/feeec3dbd5280ac54a4960650c7a02c5_256_256.png"	"便捷生活 工作 都市"	1	22
+576	"com.hexun.mobile"	5613	"和讯股票"	"金融理财"	"6.26M"	"http://img.wdjimg.com/mms/icon/v1/8/14/b489c2d1a6eb176b7dd04c05fa52c148_256_256.png"	"金融理财 股票 实用 实时"	1	18
+577	"com.dreamingame.eraofsailLeyiYeepay"	5590	"船长日志"	"经营策略"	"19.87M"	"http://img.wdjimg.com/mms/icon/v1/0/f0/02401237c751441ea42e987c34565f00_256_256.png"	"经营策略 模拟养成"	1	1
+578	"com.tuan800.coupon"	5565	"全国连锁优惠大全（团800优惠券）"	"生活时尚"	"3.8M"	"https://lh6.ggpht.com/XvckJcxgyInAbuoPnm-eiSCTLASyBCUk2T6VhSvkAtJN7ZzLFaWKJRdWXG75Zy_hlbZJ=w300-rw"	"3.7"	2	20
+579	"com.peptalk.client.kaikai"	5522	"开开点评"	"社交网络"	"5.75M"	"http://img.wdjimg.com/mms/icon/v1/4/a7/ee86147e647e31b01b9b46c5de441a74_256_256.png"	"社交网络"	1	8
+580	"com.think.game.kkk"	5397	"三国枭雄"	"模拟养成"	"46.93M"	"http://img.wdjimg.com/mms/icon/v1/0/24/ec01ccd433ad4b00b394bed3d77c2240_256_256.png"	"模拟养成"	1	3
+581	"com.coolplay.thddz.cmge"	5314	"土豪斗地主"	"模拟养成"	"3.7M"	"http://img.wdjimg.com/mms/icon/v1/a/f8/b0306d04be1a367ce26487481bbaff8a_256_256.png"	"模拟养成"	1	3
+582	"cn.mobage.g12000108"	5308	"忍者天下"	"角色扮演"	"119.62M"	"http://img.wdjimg.com/mms/icon/v1/5/a2/69050b7b29633b7e5eec2a7d2dc71a25_256_256.png"	"角色扮演 忍者 神话 动漫 战斗"	1	6
+583	"com.iPhand.FirstAid"	5293	"急救手册"	"便捷生活"	"556.48K"	"http://img.wdjimg.com/mms/icon/v1/3/96/7dce3f15aa0adac2b74e23bc9f5ad963_256_256.png"	"便捷生活 阅读学习 急救 分类 知识 简便"	1	15
+584	"com.tianxun.wxol"	5281	"武侠OL"	"角色扮演"	"25.83M"	"http://img.wdjimg.com/mms/icon/v1/c/c6/42531d0ebefc6bdb32e692b98bdb7c6c_256_256.png"	"角色扮演 武侠 江湖 变身 金庸"	1	6
+585	"com.yaya.mmbang"	5281	"妈妈帮"	"育儿母婴"	"3.4M"	"http://img.wdjimg.com/mms/icon/v1/8/fc/fa881b7d0c609aebb1b9b6d44077dfc8_256_256.png"	"育儿母婴 孕期 育儿 交流 怀孕 实用"	1	13
+586	"com.orange.slotmachine_sinas"	5248	"水果老虎机"	"休闲游戏"	"4.8M"	"https://lh4.ggpht.com/Em3XisCfmzekALhip9hPL4anqzm-IfIF5Dd3psuCKuK5SDm8IqRPIzfW69cvE7jeAlM=w300-rw"	"1.0"	2	4
+587	"com.fg114.main"	5229	"订餐小秘书-订餐厅	找美食	享优惠"	"便捷生活"	"18.43M"	"http://img.wdjimg.com/mms/icon/v1/7/3e/274f7096c2c2c6cfe937ce3552cae3e7_256_256.png"	"便捷生活 餐厅 浪漫 北京 优惠"	1	15
+588	"com.bringmore.DOJ"	5223	"涂鸦跳跳"	"休闲益智"	"11.38M"	"http://img.wdjimg.com/mms/icon/v1/f/1f/30b523b4bf0f4c0d06f0f69e544401ff_256_256.png"	"休闲益智 射击冒险 涂鸦 创意 风格 防止"	1	4
+589	"air.com.ada.tom.pkdtsgz"	5222	"单挑三国志"	"休闲益智"	"84.36M"	"http://img.wdjimg.com/mms/icon/v1/0/14/cc6321023337ef8f2861c95ea575c140_256_256.png"	"休闲益智"	1	4
+590	"com.cnfol.cms"	5184	"中金财经炒股票（股票证券理财）资讯软件"	"金融理财"	"942.61K"	"http://img.wdjimg.com/mms/icon/v1/3/1b/0c1d4acb5e56b1a7725efc21513c41b3_256_256.png"	"金融理财 股票"	1	18
+591	"com.joygame.loong.cmge"	5183	"天朝小将"	NULL	NULL	NULL	NULL	0	6
+592	"com.hoyo.tddream.h.cw"	5166	"梦回大唐"	"角色扮演"	"41.86M"	"http://img.wdjimg.com/mms/icon/v1/9/4a/eebd07dfd45c2d6d22a35f6eb6e3f4a9_256_256.png"	"角色扮演"	1	6
+593	"com.m18.mobile.android"	5151	"M18趣天麦网"	"便捷生活"	"6.53M"	"http://img.wdjimg.com/mms/icon/v1/a/2c/a33b3bf9a2ec2645207c04ce1e6672ca_256_256.png"	"便捷生活 打折 时尚 购物"	1	21
+594	"com.sdu.didi.gui"	5142	"嘀嘀打车——司机端"	"便捷生活"	"9.6M"	"http://img.wdjimg.com/mms/icon/v1/7/80/2f23d314ac9da24a6ac9e8293f040807_256_256.png"	"便捷生活 打车 出租车 广州 司机"	1	11
+595	"com.locojoy.immt_a_chs"	5112	"我叫MT Online"	"Arcade &amp; Action"	NULL	"http://lh3.ggpht.com/Qbg2-mjarNARxW3fkM_9eqFrMGaI8AnJgW45s0VyK0ob3iFy6KfakAfe3IjVkRtYf74c8LgWeJGXoO5Ve6GS6h0"	NULL	5	5
+596	"com.guandan"	5110	"掼蛋"	"休闲益智"	"11.82M"	"http://img.wdjimg.com/mms/icon/v1/7/db/09049f3be74988a80d708987e5af6db7_256_256.png"	"休闲益智 淮安 扑克 扑克游戏 江苏 吃饭"	1	4
+597	"com.hyhy.view"	5089	"掌上天津"	"便捷生活"	"5.82M"	"http://img.wdjimg.com/mms/icon/v1/a/ea/d95a65b173daf68ff9f5e1059c4b2eaa_256_256.png"	"便捷生活 天津 频道 互联网"	1	15
+598	"com.gamed9.hero.youmi"	5062	"幻想英雄-巨人的进击"	"Cards &amp; Casino"	NULL	"http://lh5.ggpht.com/STZS4PlsK_kAgnGPTxdB8AokHj9zua1MA8V5Ojnk0Y6EZFNdVFJ-zwReCvqprYN7SAvx_grxkMri-_b5TGap3yQ"	NULL	5	4
+599	"com.zhuohuagame.one.vg"	5025	"部落奇兵"	"模拟养成"	"41.17M"	"http://img.wdjimg.com/mms/icon/v1/e/db/2d4930d09ae81276af458ed1a8389dbe_256_256.png"	"模拟养成 经营策略"	1	3
+600	"com.hotelvp.tonight"	5019	"今夜酒店特价"	"便捷生活"	"7.7M"	"http://img.wdjimg.com/mms/icon/v1/0/47/7f977baa5ba71f475e5f7b831aecf470_256_256.png"	"便捷生活 旅游 酒店 优惠 旅行 特价"	1	15
+601	"com.haowan123.fanxian.UM"	4990	"凡仙OL"	"角色扮演"	"29.6M"	"http://static.yingyonghui.com/icon/72/1246288.png"	NULL	3	6
+602	"com.ebizal.boxwan"	4984	"玩立方-斗地主"	"常用工具"	"8.48M"	"http://img.wdjimg.com/mms/icon/v1/2/ef/9da134a1faea32e56594efb9e5240ef2_256_256.png"	"常用工具"	1	14
+603	"com.morefuntek.king.android_full"	4975	"君王OL"	"手机网游"	"4.5M"	"http://static.yingyonghui.com/icon/72/1233630.png"	"其它"	3	6
+604	"com.fx678.shenyin4ym.finace"	4963	"粤贵银行情"	NULL	NULL	NULL	NULL	0	17
+605	"com.example.xiaoshuo"	4954	"精品小说"	NULL	NULL	NULL	NULL	0	10
+606	"com.zwx.flyapp"	4921	"航班查询"	NULL	NULL	NULL	NULL	0	22
+607	"com.sqw.app"	4919	"省钱王免费电话"	"通信聊天"	"3.69M"	"http://img.wdjimg.com/mms/icon/v1/b/c6/481b5bf737c81f2d2ef6074eb5d1bc6b_256_256.png"	"通信聊天 社交网络 常用工具 省钱 免费电话 通话 空间"	1	16
+608	"air.nceo.as.android8560021841"	4912	"美人国"	NULL	NULL	NULL	NULL	0	4
+609	"cn.etouch.taoyouhui"	4891	"随手优惠"	"便捷生活"	"3.38M"	"http://img.wdjimg.com/mms/icon/v1/8/a5/c8227f546854d06702834ec879435a58_256_256.png"	"便捷生活 网上购物"	1	20
+610	"air.com.yytou.yuxian.mile"	4885	"遇仙OL"	"模拟养成"	"59.05M"	"http://img.wdjimg.com/mms/icon/v1/2/eb/116830bac423ffdd9196b751aa62feb2_256_256.png"	"模拟养成"	1	3
+611	"com.jkhd.tom.pkjztdtw"	4883	"金字塔大逃亡"	"休闲益智"	"14.92M"	"http://img.wdjimg.com/mms/icon/v1/6/da/86e06dedf803a10eea0c722cc1328da6_256_256.png"	"休闲益智"	1	4
+612	"com.jjdd"	4857	"陌生人约会交友-简简单单"	"社交网络"	"3.89M"	"http://img.wdjimg.com/mms/icon/v1/a/18/d808e00a5ecae6b8b0959230fec9e18a_256_256.png"	"社交网络 交友 约会 陌生人"	1	8
+613	"com.cmmobi.questionnaire"	4846	"电影达人秀"	"休闲益智"	"3.68M"	"http://img.wdjimg.com/mms/icon/v1/6/5b/da7e524681ba028f857a8663efd715b6_256_256.png"	"休闲益智 电影 达人 剧情"	1	4
+614	"xiaozhulin.medref3.com"	4842	"中药查询完全免费版"	"便捷生活"	"5.72M"	"http://img.wdjimg.com/mms/icon/v1/3/04/c2b8ed2c978ce8d6c3e8ca2c68cdc043_256_256.png"	"便捷生活 常用工具 中药 心经"	1	15
+615	"com.tuniu.app.ui"	4830	"途牛旅游3.1.0"	"出行必用"	"3.14M"	"http://img.wdjimg.com/mms/icon/v1/e/38/25aaea4b9425711785209a9b0d23f38e_256_256.png"	"出行必用 旅游 预订 旅游攻略 实用 火车票 业务"	1	22
+616	"com.sdtingshu.activity"	4809	"盛大听书"	"阅读学习"	"622.38K"	"http://img.wdjimg.com/mms/icon/v1/3/84/0706d7ce12ad0be91386337492774843_256_256.png"	"阅读学习 影音图像 常用工具 便捷生活 听书 盛大 图书 书架"	1	10
+617	"cn.fcSanGuo.ChangWan"	4800	"喵将传"	"角色策略"	"69.01M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-08-16022513-_1376634313406_0344.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	1
+618	"com.ziipin.mobile.weiyumusic"	4767	"酷乐KuyQi"	"影音图像"	"8.76M"	"http://img.wdjimg.com/mms/icon/v1/9/11/9445ba1b3f3d4ed8ad7130464693a119_256_256.png"	"影音图像 新疆"	1	9
+619	"com.hainiu.game"	4766	"天问online"	"角色扮演"	"3.59M"	"http://img.wdjimg.com/mms/icon/v1/0/fb/559164fd7193e0a18b89eeaa1e091fb0_256_256.png"	"角色扮演 模拟养成 动作竞技 网络模拟 剧情 大唐盛世 神话 门派"	1	6
+620	"air.com.zhangyun.TangJi.youmi01"	4730	"土豪与唐姬"	NULL	NULL	NULL	NULL	0	6
+621	"air.com.qlwx.xmsh.cmge.c1wan"	4690	"降魔神话(战斗之王)"	"角色扮演"	"44.11M"	"http://img.wdjimg.com/mms/icon/v1/c/23/119d447197b8aa25d62857827115e23c_256_256.png"	"角色扮演 网络模拟"	1	6
+622	"org.cocos2dx.xjmt49you"	4684	"仙剑灭天"	"角色扮演"	"69.32M"	"http://img.wdjimg.com/mms/icon/v1/0/dc/f9b34000054c6092b3026abc85995dc0_256_256.png"	"角色扮演"	1	6
+623	"com.mowu.apps.zhuanhuafei.app"	4665	"赚话费"	"便捷生活"	"2.1M"	"http://img.wdjimg.com/mms/icon/v1/a/40/31b455ce2d635ab7feac80e3354c140a_256_256.png"	"便捷生活"	1	20
+624	"com.cnlive.shockwave"	4599	"互动电视-免费高清海量视频、电视剧、电影、综艺、动漫、KBS"	"影音图像"	"7.6M"	"http://img.wdjimg.com/mms/icon/v1/f/f8/eb42ce2ac179127469d585dbbbc9ef8f_256_256.png"	"影音图像 便捷生活 互动 电视 娱乐 点播"	1	9
+625	"com.perfectmatch"	4555	"A Perfect Match"	"社交"	"2.9M"	"https://lh3.ggpht.com/bWtiUkm-6y5PE_BqO7qUG0ooLnbQvNOkgDOcW72TUKXAS1yMDOzzJOSEdSpgUiNZOA=w300-rw"	"0.0"	2	8
+626	"com.csjy.tom.pkbniaodr"	4550	"捕鸟达人"	"休闲益智"	"5.08M"	"http://img.wdjimg.com/mms/icon/v1/9/a0/df5cf6ad77fb5126dcecf4193803ea09_256_256.png"	"休闲益智 达人 清新 捕鱼达人 节奏 爽快"	1	4
+627	"cm.sgfs.game.ld"	4530	"上古封神"	"模拟养成"	"42.98M"	"http://img.wdjimg.com/mms/icon/v1/e/e8/95cc8ff587cfcff68705a337790c7e8e_256_256.png"	"模拟养成"	1	3
+628	"com.skygame3.sh_freedom_android"	4519	"yy水浒"	"经营策略"	"70.32M"	"http://img.wdjimg.com/mms/icon/v1/6/e8/e1477da73477b2c039fd279b6b899e86_256_256.png"	"经营策略"	1	1
+629	"org.doker.xbbattle.gh"	4512	"王国使命"	"角色扮演"	"73.59M"	"http://img.wdjimg.com/mms/icon/v1/9/7f/9ffd2c95ae862d1d70c6e90f965897f9_256_256.png"	"角色扮演"	1	6
+630	"cn.x6game.dragonkingdomm3"	4488	"龙之国度（豪华版）"	"经营策略"	"16.8M"	"http://img.wdjimg.com/mms/icon/v1/3/81/c4105fbf5068620f98d786426e4da813_256_256.png"	"经营策略 天际 高清 任务 传奇 龙之国 策略游戏"	1	1
+631	"com.bkfishgame.main"	4470	"比酷鱼"	"常用工具"	"3.67M"	"http://img.wdjimg.com/mms/icon/v1/7/6a/1f7a0db240de9d09a848a28fb1bce6a7_256_256.png"	"常用工具"	1	14
+632	"com.taotaosou.find"	4461	"淘淘搜"	"便捷生活"	"9.92M"	"http://img.wdjimg.com/mms/icon/v1/0/87/eaaddf24f3904a66318835afc1176870_256_256.png"	"便捷生活"	1	20
+633	"com.bp.projectx"	4449	"佣兵时代"	"角色扮演"	"14.04M"	"http://img.wdjimg.com/mms/icon/v1/c/a5/0083fe1fa45fac252a54212b63d3da5c_256_256.png"	"角色扮演"	1	6
+634	"com.pip.mzcity5gwan3"	4439	"天天爱屠龙"	"休闲益智"	"39.14M"	"http://img.wdjimg.com/mms/icon/v1/0/31/0a0b13690d9dbc6f7ec92636e80c5310_256_256.png"	"休闲益智"	1	4
+635	"com.mroad.game"	4436	"V搏街"	"经营策略"	"17.93M"	"http://img.wdjimg.com/mms/icon/v1/2/13/98ae145943662104e7d8c93c3eee4132_256_256.png"	"经营策略 模拟养成 休闲益智 动作竞技"	1	1
+636	"org.cocos2dx.yijianmietian.uc"	4418	"一剑灭天"	"角色扮演"	"68.38M"	"http://img.wdjimg.com/mms/icon/v1/b/ae/85fcc3369221119a7849b5868f93faeb_256_256.png"	"角色扮演"	1	6
+637	"com.wyd.dandandao"	4408	"弹弹岛战纪"	NULL	NULL	NULL	NULL	0	6
+638	"com.hummingbird.zhaoqin.qitian"	4394	"抢美女"	"休闲益智"	"16.02M"	"http://img.wdjimg.com/mms/icon/v1/b/b1/bffdf448e6a1dd593faed6a017756b1b_256_256.png"	"休闲益智"	1	4
+639	"com.vs.star36"	4383	"谍影迷情"	"影音图像"	"288.96K"	"http://img.wdjimg.com/mms/icon/v1/e/4d/3d075c769852edfc58b57e49049d94de_256_256.png"	"影音图像"	1	9
+640	"tdol.game"	4363	"天地豪侠OL"	"角色扮演"	"7.85M"	"http://img.wdjimg.com/mms/icon/v1/5/74/a9dcbfbaeb9ded733f54374c04440745_256_256.png"	"角色扮演 模拟养成 经营策略 网络模拟 武侠 新锐 大作 即时RPG"	1	6
+641	"com.game.JewelsStar2"	4348	"宝石之星"	"休闲益智"	"10.31M"	"http://img.wdjimg.com/mms/icon/v1/2/e1/09dedeb5e5c05156144e82b54aa6ae12_256_256.png"	"休闲益智 宝石 颜色 照明 交换"	1	4
+642	"air.com.imop.game.heroapk"	4346	"Q英雄"	"休闲益智"	"43.29M"	"http://img.wdjimg.com/mms/icon/v1/a/ad/48a363f418c0916ca11a4b4114cb9ada_256_256.png"	"休闲益智 动漫 小龙 人物 明星 造型 休闲竞技"	1	4
+643	"com.dianxing.cjversion"	4344	"初见-餐厅返利.即返20元.吃神马"	"便捷生活"	"4.16M"	"http://img.wdjimg.com/mms/icon/v1/a/68/0c6a779a2c36172587f9b6cb9590268a_256_256.png"	"便捷生活 餐厅 返利 初见 消费 收藏"	1	15
+644	"com.baidu.kx"	4337	"百度通讯录"	"通信聊天"	"4.69M"	"http://img.wdjimg.com/mms/icon/v1/f/8d/a75359fd465b3dd885629829857c78df_256_256.png"	"通信聊天 办公软件 社交网络 便捷生活 通讯录 百度 便捷 联系人"	1	16
+645	"cn.kk.xyj.p8849g01"	4335	"斗破苍穹"	"角色扮演"	"26.84M"	"http://img.wdjimg.com/mms/icon/v1/3/d6/c48887040bc50cbe6253d7bd76353d63_256_256.png"	"角色扮演"	1	6
+646	"com.tuan800.credit"	4324	"团800信用卡优惠"	"常用工具"	"2.33M"	"http://img.wdjimg.com/mms/icon/v1/4/97/45f79212fcd1ef61fe7890984b609974_256_256.png"	"便捷生活 常用工具 阅读学习 网上购物 新闻资讯 信用卡 优惠 便利 享受"	1	14
+647	"com.mango.sanguo15.xxoo"	4321	"囧三国"	"模拟养成"	"24.5M"	"http://img.wdjimg.com/mms/icon/v1/e/ec/c2d2f9fff0be2a72f33f7871e0996ece_256_256.png"	"模拟养成 休闲益智"	1	3
+648	"air.com.uuzu.mjhapk.cw.wuxia"	4309	"武侠联萌"	"角色扮演"	"56.53M"	"http://img.wdjimg.com/mms/icon/v1/1/96/71c575ca0fd059dad9709a80ccb40961_256_256.png"	"角色扮演"	1	6
+649	"com.orange.geobell"	4304	"百事铃 GeoBell"	"便捷生活"	"10.78M"	"http://img.wdjimg.com/mms/icon/v1/b/73/d51b3aa1e265a79a1b6eb14772ff973b_256_256.png"	"便捷生活 常用工具 办公软件 出行必用 便利店 忘记"	1	15
+650	"com.huicaipiao.market"	4304	"彩票汇"	"便捷生活"	"6.1M"	"http://img.wdjimg.com/mms/icon/v1/b/a6/11dbcac65bd785727cd1b3e53110da6b_256_256.png"	"便捷生活 金融理财 常用工具 彩票 专业 预测"	1	15
+651	"com.disney.bravegoogle"	4298	"逃离神庙一勇敢雄心"	NULL	NULL	NULL	NULL	0	4
+652	"com.seacow.zsgkd"	4297	"真三国快打"	"动作竞技"	"72.94M"	"http://img.wdjimg.com/mms/icon/v1/2/f4/a4f228f6f5707269f1ea9a9f35ae6f42_256_256.png"	"动作竞技"	1	5
+653	"cn.mmb.link"	4248	"天天抢低价"	"网上购物"	"113.04K"	"http://img.wdjimg.com/mms/icon/v1/f/8f/220e950f6d4fe23cc904b97dfb03c8ff_256_256.png"	"网上购物"	1	20
+654	"com.zx.mygame"	4218	"梦游游戏市场"	"休闲益智"	"758.86K"	"http://img.wdjimg.com/mms/icon/v1/9/dd/522b7736fdc9bec9d6d128cc3d99edd9_256_256.png"	"休闲益智 市场 梦游 插件 专业"	1	4
+655	"core.game"	4153	"问剑Online"	"动作竞技"	"10.96M"	"http://img.wdjimg.com/mms/icon/v1/e/a3/f031eac0adadddc56d2bc6affa3fba3e_256_256.png"	"动作竞技"	1	5
+656	"com.east.uc.app"	4140	"江湖OL"	"网游"	"13.27M"	"http://img.wdjimg.com/mms/icon/v1/8/4b/93475d0b94e0f74374236275806704b8_256_256.png"	"江湖 武侠 号令天下 网游 回合RPG"	1	6
+657	"com.ebrowse.ecar"	4121	"e车生活"	"出行必用"	"3.23M"	"http://img.wdjimg.com/mms/icon/v1/1/e1/89a0ad12b5c216a6d306dab7b3210e11_256_256.png"	"出行必用 便捷生活 常用工具 通告 无忧 智能手机 互动"	1	22
+658	"com.tq.daming"	4112	"大明浮生记"	"角色扮演"	"70.91M"	"http://img.wdjimg.com/mms/icon/v1/c/62/8f5068e3ab6689ab581c528ec37e262c_256_256.png"	"角色扮演 模拟养成 休闲益智"	1	6
+659	"com.moogame.xianbian.feiliu"	4090	"仙变"	NULL	NULL	NULL	NULL	0	6
+660	"wch.mmo.wsc.shijia"	4084	"战途OL"	"经营策略"	"37.24M"	"http://img.wdjimg.com/mms/icon/v1/6/67/eb061b3f30071d3800b046789fb73676_256_256.png"	"经营策略"	1	1
+661	"com.think.game.cw"	4052	"皇者之域"	"角色扮演"	"46.48M"	"http://img.wdjimg.com/mms/icon/v1/9/48/4d1770ad45d5effca2b03da765625489_256_256.png"	"角色扮演"	1	6
+662	"com.baijun.musiccp"	4049	"淘金电台"	"影音图像"	"1.05M"	"http://img.wdjimg.com/mms/icon/v1/6/9a/667a3b82ab942a8214827003cdf519a6_256_256.png"	"影音图像 淘金 手机软件 任务 电台 手动"	1	9
+663	"com.dazhe88"	4042	"熊猫打折"	"便捷生活"	"2.52M"	"http://img.wdjimg.com/mms/icon/v1/8/62/23941f9e787eca04ddfc9530e1d32628_256_256.png"	"便捷生活 常用工具 金融理财 网上购物 打折 工厂 熊猫"	1	20
+664	"com.efenliao"	4030	"E分聊电话"	"通信聊天"	"426.96K"	"http://img.wdjimg.com/mms/icon/v1/4/88/a382a3cd0c86e470b34cf2de4dac9884_256_256.png"	"通信聊天 通话 漫游 省钱 长途"	1	16
+665	"com.zhuohuagame.one.zh"	4024	"新部落奇兵"	NULL	"36.71M"	"http://img.wdjimg.com/mms/icon/v1/9/98/95c944b0c41575469b3be626e51b5989_256_256.png"	""	1	1
+666	"com.mobileann.MobileAnn"	4024	"摩安卫士"	"性能优化"	"6.2M"	"http://img.wdjimg.com/mms/icon/v1/a/2e/03596c36e65d1747af0423385eaae2ea_256_256.png"	"性能优化 旗舰版 保护"	1	19
+667	"jiujiuleyou.shenzhou"	4018	"神州OL血溅王朝）"	"角色扮演"	"87.57M"	"http://img.wdjimg.com/mms/icon/v1/9/12/96628d60ff7c7eee3b5e6921b1598129_256_256.png"	"角色扮演 幻兽 技能 属性 高清"	1	6
+668	"com.duanqu.aizhufu"	4017	"爱祝福"	"通信聊天"	"1.42M"	"http://img.wdjimg.com/mms/icon/v1/1/34/e1598433f18875f5000066347a0a3341_256_256.png"	"通信聊天 常用工具 社交网络 便捷生活 出行必用 祝福 工具 原创"	1	16
+669	"com.forecastshare.a1"	4008	"股票雷达"	"金融理财"	"6.97M"	"http://img.wdjimg.com/mms/icon/v1/1/18/3a8105a0dfaad1aecac0d2a19cb67181_256_256.png"	"金融理财 股票 券商 机构 投资 雷达"	1	18
+670	"com.moon.player1"	3989	"超级播霸"	NULL	NULL	NULL	NULL	0	9
+671	"com.hummingbird.zhaoqin.youai"	3984	"比武招亲"	"角色扮演"	"12.4M"	"http://static.yingyonghui.com/icon/72/1338811.png"	NULL	3	6
+672	"com.bbt.sm.pro"	3983	"尚邮"	"通讯"	"1.4M"	"https://lh5.ggpht.com/qh9-HD2QrZbGhRUZQC830TXdcBU3dGFCq2bGmmzNHdfLtlCbR8qdIv9RYzP2=w300-rw"	"3.5"	2	16
+673	"com.papaya.papayamarketfarm"	3942	"木瓜农场"	"经营策略"	"7.04M"	"http://img.wdjimg.com/mms/icon/v1/7/3e/b29b53d557dd42855054d184404c23e7_256_256.png"	"经营策略 模拟养成 影音图像 休闲益智"	1	1
+674	"com.jetsun"	3939	"波士通"	"便捷生活"	"11.9M"	"http://img.wdjimg.com/mms/icon/v1/7/32/0e46fee8e7c5356a6ff877582226b327_256_256.png"	"便捷生活 新闻资讯 常用工具 动态 分析"	1	15
+675	"com.rdweiba.main"	3917	"瑞德微吧"	"社交网络"	"7.7M"	"http://img.wdjimg.com/mms/icon/v1/7/41/08e0b50df2cec2868d75f97e63aa7417_256_256.png"	"社交网络 阅读学习 便捷生活 休闲益智 图书 报刊"	1	8
+676	"com.vMEye"	3910	"vMEye"	"常用工具"	"2.19M"	"http://img.wdjimg.com/mms/icon/v1/4/27/a73b715f0e031399bc05fcac4e0b4274_256_256.png"	"常用工具 通道 光圈 服务器 第三方"	1	14
+677	"com.jd.surdoc"	3909	"SurDoc"	"办公软件"	"4.69M"	"http://img.wdjimg.com/mms/icon/v1/c/af/05cb517b8f06540e91133d89c0edeafc_256_256.png"	"办公软件 照片 空间"	1	11
+678	"com.bf.BFShuangKou"	3888	"边锋双扣"	"休闲益智"	"17.94M"	"http://img.wdjimg.com/mms/icon/v1/d/66/4b2d2826e961cd45d07a2ae2a0a5966d_256_256.png"	"休闲益智"	1	4
+679	"com.koramgame.sns.mjwscn.cmge"	3884	"猛将无双"	NULL	NULL	NULL	NULL	0	6
+680	"com.g2us.evilvonandroid"	3882	"誓魂OL"	"模拟养成"	"3.64M"	"http://img.wdjimg.com/mms/icon/v1/4/db/40732680c09721d1eeac76671a023db4_256_256.png"	"模拟养成 角色扮演 经营策略 网络模拟 立体 魔族 魔兽世界 战斗"	1	3
+681	"com.punchboxstudios.zhanguo"	3880	"战国ol"	"经营策略"	"63.61M"	"http://img.wdjimg.com/mms/icon/v1/a/4a/6d244517bf062ce7a8d230bf4850d4aa_256_256.png"	"经营策略 战斗 战争 快乐 战国 势力 策略游戏"	1	1
+682	"com.sg.dragonol.dragonolbaina"	3873	"七龙Online百纳版"	"角色扮演"	"47.62M"	"http://img.wdjimg.com/mms/icon/v1/e/8f/a6cc17f14edc74699648055a6335d8fe_256_256.png"	"角色扮演 模拟养成"	1	6
+683	"com.funtools.puke.zszjh"	3863	"钻石扎金花"	"棋牌桌游"	"4.1M"	"http://static.yingyonghui.com/icon/72/987112.png"	NULL	3	4
+684	"cn.cowry.android.activity"	3851	"雨燕浏览器"	"新闻资讯"	"3.17M"	"http://img.wdjimg.com/mms/icon/v1/f/fa/a1e3e6a11ea27b7904d2323960728faf_256_256.png"	"新闻资讯 浏览器 助手 文件 上网 创新"	1	17
+685	"luckydog.risk"	3829	"股票高手(免费证券炒股软件)"	"金融理财"	"1.12M"	"http://img.wdjimg.com/mms/icon/v1/e/51/496a8b8ef1724b48bbfeb572b050551e_256_256.png"	"金融理财 办公软件 便捷生活 风险 专业 股票 个股"	1	18
+686	"cn.com.lottery"	3814	"我中啦彩票"	"金融理财"	"3.29M"	"http://img.wdjimg.com/mms/icon/v1/c/00/28769c900893104641832d0c3668100c_256_256.png"	"金融理财"	1	18
+687	"com.moji.calendar"	3811	NULL	NULL	NULL	NULL	NULL	0	15
+688	"com.itotem.vista"	3797	"锋绘"	"阅读学习"	"6.06M"	"http://img.wdjimg.com/mms/icon/v1/3/d5/45e8b852177b39c2939e7a3f7f5c7d53_256_256.png"	"阅读学习 市场 杂志 都市 风格 青年"	1	10
+689	"com.firevale.dhjhcmge"	3796	"武侠Q传"	NULL	NULL	NULL	NULL	0	6
+690	"air.us.sanguo.sg"	3795	"卧龙传"	"益智和解谜游戏"	"26M"	"https://lh5.ggpht.com/b8Avk-XqHQfCzFD_DMcK1Y3BST61kobzuLhymFSS2oGkSsT6itDWHXidioFVSQChz-U=w300-rw"	"4.0"	2	1
+691	"com.chzb"	3789	"楚漢君王傳Online"	"街机和动作游戏"	"49M"	"https://lh6.ggpht.com/MQMfpOtaxHEx1weK8jqfiI2ImadPs3PUCdUPKXuJ44iQnZsziEDc0Z6fhC-5-P4TdFM=w300-rw"	"4.8"	2	6
+692	"com.mango.sanguo15.cooguo01"	3781	"风云天下之撸三国"	"经营策略"	"23.46M"	"http://img.wdjimg.com/mms/icon/v1/d/ee/f62f3fd12aed2e13650bdcbb781a9eed_256_256.png"	"经营策略"	1	1
+693	"com.gexin.im"	3767	"个信"	"通信聊天"	"3.22M"	"http://img.wdjimg.com/mms/icon/v1/9/31/b5e6051581e8dcb134a9f17392a97319_256_256.png"	"通信聊天 社交网络 美化手机 常用工具 工具 聊天 对讲机"	1	16
+694	"com.aiyou.slcq"	3758	"神龙传奇"	"角色扮演"	"109.01M"	"http://img.wdjimg.com/mms/icon/v1/a/15/1ec1f8f7c981b8baa0f107ec0c43f15a_256_256.png"	"角色扮演 传奇 历程 设计 题材 回合制 回合RPG"	1	6
+695	"com.jixing.shenqifangkuai"	3741	"天天消消看"	"休闲益智"	"1.97M"	"http://img.wdjimg.com/mms/icon/v1/0/c1/906407eeea9a34fc26881ee476347c10_256_256.png"	"休闲益智"	1	4
+696	"yoyo.game.xjgw"	3729	"仙镜Online"	"角色扮演"	"3.22M"	"http://img.wdjimg.com/mms/icon/v1/2/1c/acd67f3da16c348a1f3d7b1f0dedf1c2_256_256.png"	"角色扮演 经营策略"	1	6
+697	"com.wefun.fengshen.sky"	3696	"至尊封神"	"经营策略"	"16.82M"	"http://img.wdjimg.com/mms/icon/v1/7/1e/3e3909b3ab10cc9a70247bef3a6a21e7_256_256.png"	"经营策略"	1	1
+698	"com.android_3.cocos2dx"	3685	"飘渺仙途"	"模拟养成"	"62.1M"	"http://img.wdjimg.com/mms/icon/v1/9/6d/7fe346d34b0c0057ed2d678768cac6d9_256_256.png"	"模拟养成 天赋 传说 机关 风月 历程 回合RPG"	1	3
+699	"com.fx678.mintaiv2.finace"	3677	"天通银行情宝"	"金融理财"	"1.6M"	"http://static.yingyonghui.com/icon/72/1246359.png"	NULL	3	18
+700	"com.eno.android"	3652	"金贝壳手机证券理财版（V3.2版）"	"金融理财"	"2.27M"	"http://img.wdjimg.com/mms/icon/v1/b/10/0800873235a249a07b91223135ad010b_256_256.png"	"金融理财 专业 设计 客户 交流 便捷"	1	18
+701	"com.wws.android"	3648	"手游先锋"	"新闻资讯"	"1.27M"	"http://img.wdjimg.com/mms/icon/v1/8/0b/b9a3743d182baba1da2028188eda80b8_256_256.png"	"先锋 新闻资讯 智能 旅行"	1	17
+702	"com.glorymob.joymax.view"	3647	"巨麦社"	"网上购物"	"1.63M"	"http://img.wdjimg.com/mms/icon/v1/e/69/a0eae11cd8c51296629ff94a609a069e_256_256.png"	"网上购物 便捷生活 金融理财 常用工具 电子商务 平板 北京 电视"	1	21
+703	"com.qiyi.zsqz"	3641	"妖精物语-史诗级华丽休闲游戏"	"模拟养成"	"5.77M"	"http://img.wdjimg.com/mms/icon/v1/f/06/f18eda5e8a626601e51d5c1d8436206f_256_256.png"	"模拟养成 影音图像"	1	3
+704	"com.e.web"	3613	"中国电信易充"	"便捷生活"	"3.86M"	"http://img.wdjimg.com/mms/icon/v1/a/49/1f42c4738666e4112913be53b94d749a_256_256.png"	"便捷生活 常用工具 网上购物 充值 历史 会员 盛大"	1	15
+705	"com.dtcloud"	3592	"掌上人保"	"常用工具"	"9.83M"	"http://img.wdjimg.com/mms/icon/v1/7/57/380670da0fe6d9cb67fefc87bb354577_256_256.png"	"常用工具 便捷生活 美化手机 金融理财 工具 电子 客户 辅助"	1	14
+706	"com.youai.dreamonepiece.platform.nd91"	3586	"梦想海贼王(送路飞)"	"游戏"	"49.98M"	"http://img3.sjpic.91rb.com/soft/2013/12/10/5b845dcf1d904ae698cc3e6ee9541824/icon_e1774a10bec44cb6905855b51ebd789d_65.png"	NULL	4	4
+707	"com.ehai"	3544	"一嗨租车"	"便捷生活"	"4.35M"	"http://img.wdjimg.com/mms/icon/v1/8/b0/11505b1675eb6b055a90586824105b08_256_256.png"	"便捷生活 常用工具 出行必用 新闻资讯 租车 连锁 城市 商务"	1	22
+708	"work.lwmain"	3514	"龙威"	"角色扮演"	"3.63M"	"http://img.wdjimg.com/mms/icon/v1/c/25/725698a9f782a92e7df9ef181ba3d25c_256_256.png"	"角色扮演 模拟养成 经营策略 动作竞技"	1	6
+709	"com.chukong.fanren.chs.uc"	3500	"凡人修真"	"角色策略"	"65.43M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-11-12110205-_1384268525998_7258.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	6
+710	"com.fouriwan.luanshibaye.renren"	3498	"乱世霸业"	"经营策略"	"59.69M"	"http://img.wdjimg.com/mms/icon/v1/c/e8/79aa2e1dee3faf27f7474616b6276e8c_256_256.png"	"经营策略"	1	1
+711	"j2ab.android.appsg"	3484	"上古II"	"角色扮演"	"2.55M"	"http://img.wdjimg.com/mms/icon/v1/f/25/0f039c0f7820a5b5340ff567ae15f25f_256_256.png"	"角色扮演 动作竞技 经营策略 模拟养成 休闲益智 战斗 上古 年轻人"	1	6
+712	"com.eno.android.page"	3475	"金贝壳手机证券理财版（经典版）"	"金融理财"	"709.48K"	"http://img.wdjimg.com/mms/icon/v1/b/10/0800873235a249a07b91223135ad010b_256_256.png"	"金融理财 美化手机 阅读学习 新闻资讯 专业 客户 交流 设计"	1	18
+713	"com.mykj.game.ddz.lite8168"	3471	"18斗地主"	"游戏"	"3.74M"	"http://img0.sjpic.91rb.com/soft/2013/7/26/b1aadfdac46f4b4794b52a09f7dfea65/icon_7cb3260bccba4425a2c29bafbb9f245d_65.png"	""	4	4
+714	"com.wyc.xiyou"	3468	"宠物西游"	"角色扮演"	"17.72M"	"http://img.wdjimg.com/mms/icon/v1/8/51/36ff1ebdeacc1a8d974ad8d2101f9518_256_256.png"	"角色扮演 经营策略 模拟养成"	1	6
+715	"cn.gamepack"	3459	"精选游戏合集"	"休闲益智"	"7.38M"	"http://img.wdjimg.com/mms/icon/v1/a/eb/0459c3dffde8215c050041fe653e4eba_256_256.png"	"休闲益智 书架 合集 卸载 好玩的 展现"	1	4
+716	"com.Guanxi"	3458	"关系网"	"社交网络"	"5.74M"	"http://img.wdjimg.com/mms/icon/v1/7/4b/34dc648ac6e55f970c4d3274123194b7_256_256.png"	"社交网络 关系 地理位置 需求"	1	8
+717	"com.eemedia.superidol"	3430	"号外"	"社交网络"	"5.61M"	"http://img.wdjimg.com/mms/icon/v1/8/59/3eafdc56bf6cccf5bbed31c221760598_256_256.png"	"社交网络"	1	8
+718	"com.onekchi.xda"	3407	"千尺下载"	"常用工具"	"2.53M"	"http://img.wdjimg.com/mms/icon/v1/5/04/7b42331d66673b438e76835afedbe045_256_256.png"	"常用工具 多媒体"	1	14
+719	"com.biaopaigame.MoFaZhiGeBD"	3403	"魔法之歌：末日前传"	"游戏"	"64.68M"	"http://img1.sjpic.91rb.com/soft/2013/7/19/0936f481557343c2b5810de88c5e64d7/icon_919f58690ac04b0bab41d0194fef4564_65.png"	""	4	4
+720	"com.longjiang.cw"	3394	"龙将"	"角色扮演"	"143.27M"	"http://img.wdjimg.com/mms/icon/v1/5/c8/3996b4970c44fd2ff1d04b3be87afc85_256_256.png"	"角色扮演"	1	6
+721	"com.uqee.lying.maingameld"	3394	"枭雄三国"	"经营策略"	"31.37M"	"http://img.wdjimg.com/mms/icon/v1/c/ae/7e7479f5bc7e15349db157da713d8aec_256_256.png"	"经营策略"	1	1
+722	"com.app.lszb.uc"	3394	"霸三国"	"经营策略"	"14M"	"http://img.wdjimg.com/mms/icon/v1/e/a3/604008c4caba1115028961352096ca3e_256_256.png"	"经营策略 三国 历史 名将"	1	1
+723	"com.ecloud.launcher"	3393	"云桌面"	"常用工具"	"7.21M"	"http://img.wdjimg.com/mms/icon/v1/6/93/830d1a28bad230cbc613c3fd0abe8936_256_256.png"	"常用工具 美化手机 插件 音乐 实用"	1	14
+724	"com.domi.babyshow"	3386	"米格宝宝日记"	"社交网络"	"7.08M"	"http://img.wdjimg.com/mms/icon/v1/0/83/ac6d22260a4a8310f84022d9ffadd830_256_256.png"	"社交网络 日记 宝宝 互动 成长 照片"	1	8
+725	"com.drunb.guide"	3385	"装腔指南"	"阅读学习"	"2.38M"	"http://img.wdjimg.com/mms/icon/v1/8/50/d85315b22105808a8f3b2005d87e8508_256_256.png"	"阅读学习 指南 态度"	1	10
+726	"com.tuan800.hui800food"	3373	"天天向膳"	"网上购物"	"3.13M"	"http://img.wdjimg.com/mms/icon/v1/1/ee/99dde30d82bbce35566d9592b7180ee1_256_256.png"	"网上购物 美食 优惠 白领 热门 人群"	1	20
+727	"hcursor.huanziti"	3338	"字体精灵"	"个性化"	"2.5M"	"https://lh5.ggpht.com/2x_PtDxzFPaE7Tocts3rOqYUc8kxigX4L1Hu5qpswajVpmVx_-4j-LFeAkwpNem-QIM=w300-rw"	"3.1"	2	14
+728	"com.sy.coca_cola.activity"	3317	"可口可乐圈"	"社交网络"	"14.52M"	"http://img.wdjimg.com/mms/icon/v1/1/20/cc5251fe5137d720c34ebc1b84cf3201_256_256.png"	"社交网络 快乐 可口可乐 二维码 照片 好友"	1	8
+729	"com.jyDSClient"	3314	"龙印"	"角色扮演"	"6.31M"	"http://img.wdjimg.com/mms/icon/v1/7/f3/ca0a89beeb516e070c9ebe011aeddf37_256_256.png"	"角色扮演 武侠 风格 传说 秘密 中原"	1	6
+730	"com.uustock.radar.ui"	3280	"优股雷达"	"金融理财"	"6.9M"	"http://img.wdjimg.com/mms/icon/v1/5/78/86774ffcfd70cc5efe8fb72de18e6785_256_256.png"	"金融理财 雷达 优惠"	1	18
+731	"com.qx.mobile.kof2"	3277	"射雕群侠传"	"角色策略"	"47.25M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-05-21040744-_1369080464232_0928.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	6
+732	"com.isssss.qncounter"	3276	"圆圈"	"社交网络"	"7.97M"	"http://img.wdjimg.com/mms/icon/v1/2/a1/2523e0b09071b328fab2bbf59b915a12_256_256.png"	"社交网络"	1	8
+733	"com.lakoo.xyfy"	3273	"侠缘风云"	"角色扮演"	"26M"	"http://img.wdjimg.com/mms/icon/v1/1/3c/40d1e24ba4c1359da1fb74beeb8923c1_256_256.png"	"角色扮演"	1	6
+734	"vio.AppLobby"	3266	"应用超市"	NULL	NULL	NULL	NULL	0	14
+735	"com.tom.music.fm"	3251	"流声机"	"影音图像"	"3.63M"	"http://img.wdjimg.com/mms/icon/v1/d/82/cac4748977c37c527c7cedd1dbb8a82d_256_256.png"	"影音图像 电脑 社区 倾城"	1	9
+736	"com.tuixin11sms.tx"	3248	"神聊"	"社交网络"	"8.05M"	"http://img.wdjimg.com/mms/icon/v1/f/90/407be8373b76bf5ef5a15dfd3a36490f_256_256.png"	"社交网络 交流 频道 创新 搭讪"	1	8
+737	"com.ninesky.browsercn"	3239	"九天浏览器"	"常用工具"	"1.59M"	"http://img.wdjimg.com/mms/icon/v1/f/85/29cb189be3ba089ab9b6f92f59fa785f_256_256.png"	"常用工具 新闻资讯 社交网络 通信聊天 九天 上网"	1	14
+738	"com.qx.mobile.kof.cwyx"	3236	"射雕群侠传"	"角色扮演"	"59.71M"	"http://img.wdjimg.com/mms/icon/v1/8/a3/f817b84d49907e180451e3f44590fa38_256_256.png"	"角色扮演"	1	6
+739	"com.seacow.hxol"	3234	"圣纹"	"角色扮演"	"10.86M"	"http://img.wdjimg.com/mms/icon/v1/6/9b/58292d8d52db7259aeaa98c138b4e9b6_256_256.png"	"角色扮演 模拟养成 动作竞技 网络模拟 剧情 震撼 创意 飞艇 回合RPG"	1	6
+740	"com.yintong.android.phone"	3227	"天天话费充值"	"通信聊天"	"2.26M"	"http://img.wdjimg.com/mms/icon/v1/4/71/8b5f6ab96e30bc98ee3110ced25b5714_256_256.png"	"通信聊天"	1	16
+741	"com.joygame.loong.baina"	3217	"百纳天朝小将"	"休闲游戏"	"26.67M"	"http://img8.sjpic.91rb.com/soft/2013/7/22/d6327a10d3bf4b19afd54a1c3d8fe0d6/icon_85ba5f650c8047f88bab309acda1d22d_65.png"	NULL	4	4
+742	"com.ea.product.tlol"	3212	"仙侠传说Online"	"经营策略"	"26.73M"	"http://img.wdjimg.com/mms/icon/v1/5/b4/8af4addafa61a3730abfef6b9b4dab45_256_256.png"	"经营策略 模拟养成 角色扮演 动作竞技"	1	1
+743	"com.uutich.ZhaJinHua"	3207	"诈金花HD"	"棋牌桌游"	"26.9M"	"http://static.yingyonghui.com/icon/72/328970.png"	NULL	3	4
+744	"com.sqage.sanguoagev5"	3197	"三国时代"	"经营策略"	"7.62M"	"http://img.wdjimg.com/mms/icon/v1/d/58/c07f30831fdad1d12db26c57a30be58d_256_256.png"	"经营策略 模拟养成"	1	1
+745	"com.golfsware.activity"	3195	"高球营"	"社交网络"	"14.68M"	"http://img.wdjimg.com/mms/icon/v1/e/1b/8e75fed100b39709abce188341ee01be_256_256.png"	"社交网络 娱乐 高尔夫 爱好 商务 神器"	1	8
+746	"com.data.enjoyhui"	3182	"享乐汇"	NULL	NULL	NULL	NULL	0	15
+747	"com.im20.mmj"	3161	"阳光舞步"	"休闲益智"	"15.57M"	"http://img.wdjimg.com/mms/icon/v1/8/37/44689ce8a4dab180f3c948e862013378_256_256.png"	"休闲益智 影音图像"	1	4
+748	"cc.midu.zlin.honeybee2"	3158	"拍蜜优(优惠券)"	"便捷生活"	"11.15M"	"http://img.wdjimg.com/mms/icon/v1/f/58/90bf0e84ff231c62e8d04543a6c4a58f_256_256.png"	"便捷生活 金融理财 办公软件 常用工具 互联网 智能 北京 时尚"	1	20
+749	"com.good.thenewworld.uc"	3156	"新世界OL"	"角色扮演"	"55.29M"	"http://img.wdjimg.com/mms/icon/v1/6/ba/fe31b1203c9362f2a787696546995ba6_256_256.png"	"角色扮演"	1	6
+750	"com.shunde.ui"	3122	"美食狗仔队"	"便捷生活"	"3.74M"	"http://img.wdjimg.com/mms/icon/v1/a/57/fd2cfd80d2c172954b040bb18579457a_256_256.png"	"便捷生活 广州 餐厅 预定"	1	15
+751	"com.fox.duiduipeng"	3107	"彩虹水果消消看"	NULL	NULL	NULL	NULL	0	4
+752	"com.lbs"	3106	"12580会生活"	"便捷生活"	"1.36M"	"http://img.wdjimg.com/mms/icon/v1/4/eb/3f6a543990d81ffc9b61d9f2aaf93eb4_256_256.png"	"便捷生活 常用工具 美化手机 广东 消费 定位系统"	1	15
+753	"com.tongyi.iceredtea"	3098	"巅峰我敢造"	"体育竞速"	"103.7M"	"http://img.wdjimg.com/mms/icon/v1/6/d8/ad5f277630ceafed075d67108ab01d86_256_256.png"	"体育竞速"	1	7
+754	"com.imtkoo.facaiwang"	3097	"彩票8"	"便捷生活"	"2.91M"	"http://img.wdjimg.com/mms/icon/v1/1/2e/e3180fdabe41cc5519d13e918fc342e1_256_256.png"	"便捷生活 金融理财 休闲益智 彩票 专业 体育彩票 享受"	1	15
+755	"so.putao.community"	3088	"葡萄社交助手 - 阅读朋友"	"社交网络"	"3.8M"	"http://img.wdjimg.com/mms/icon/v1/3/91/9a06c5c9794c3b9226d683c4c3576913_256_256.png"	"社交网络 达人 黑马 头像"	1	8
+756	"org.cocos2dx.zhanxian"	3082	"斩仙"	"角色扮演"	"87.02M"	"http://img.wdjimg.com/mms/icon/v1/8/35/073608fff1cc279213e763a8a7ebe358_256_256.png"	"角色扮演"	1	6
+757	"com.sola.sweetboox_xiaoya.ui.gamepaylater4.MM"	3075	"真人美女猜拳"	"休闲益智"	"4.91M"	"http://img.wdjimg.com/mms/icon/v1/e/bc/00be72705f1ceb1e38c19d16a167ebce_256_256.png"	"休闲益智 真人 互动 全球"	1	4
+758	"com.xiuxiu.oneday"	3067	"一天"	"便捷生活"	"5.4M"	"http://img.wdjimg.com/mms/icon/v1/2/c3/690390bb16cf19fbe9fb7cbbe41efc32_256_256.png"	"便捷生活 常用工具"	1	15
+759	"work.main"	3047	"龙威OL"	"角色扮演"	"3.62M"	"http://img.wdjimg.com/mms/icon/v1/e/3f/d30c754e6f17979bf3a687bf719673fe_256_256.png"	"角色扮演 秦朝 浪漫 高清 战斗"	1	6
+760	"cn.andoumiao.phone"	3036	"安豆苗"	"常用工具"	"4.13M"	"http://img.wdjimg.com/mms/icon/v1/3/a3/25dfaedd41b54da1762dec3e33478a33_256_256.png"	"常用工具 安卓手机 同步 助手 管理工具"	1	14
+761	"air.nceo.as.android856002943"	3000	"美人国"	NULL	NULL	NULL	NULL	0	1
+762	"com.aiyou.mhsj.changwan"	2962	"梦幻神界"	"角色扮演"	"82.4M"	"http://static.yingyonghui.com/icon/72/1349417.png"	NULL	3	6
+763	"cn.koogame.HungryPuppy"	2958	"貪吃的小狗"	"益智和解谜游戏"	"1.4M"	"https://lh6.ggpht.com/I_8qJrC0Ooen9sQccmYY2uBJMWMfboYZrubywyd_LmTJ-PCqrQR5_7WhlDu07dD-BA=w300-rw"	"4.1"	2	4
+764	"com.playcrab.hebe.androidsina_wyx"	2954	"忍将"	NULL	NULL	NULL	NULL	0	6
+765	"com.dx.stock"	2931	"财急送移动版"	"金融理财"	"417K"	"http://img.wdjimg.com/mms/icon/v1/5/c9/414a628574e3557f6ce01e4d2bbf9c95_256_256.png"	"金融理财 金牌 个股 专业"	1	18
+766	"cn.mbga.ticket.full.ninja"	2930	"忍者无极完整版"	"角色扮演"	"31.16M"	"http://img.wdjimg.com/mms/icon/v1/7/89/8caaba14d398cbc93168aedf6894f897_256_256.png"	"角色扮演 动作竞技 模拟养成 射击冒险 无极 忍者 闯荡 浪漫"	1	6
+767	"air.com.renren.igames.mjcq855009923"	2922	"陆姬传奇"	NULL	NULL	NULL	NULL	0	6
+768	"cn.com.miq.armyc"	2919	"军临城下"	"经营策略"	"20.01M"	"http://img.wdjimg.com/mms/icon/v1/0/f4/18edf864cbbe3853f2f3359cac1dcf40_256_256.png"	"经营策略 三国 策略 任务 道具 开发"	1	1
+769	"com.v1.kscp365"	2906	"彩票专家"	"金融理财"	"11.28M"	"http://img.wdjimg.com/mms/icon/v1/5/11/cb1b67a44382f9596169ec02dd52f115_256_256.png"	"金融理财"	1	18
+770	"cn.mmb.maimaibao.client1557291"	2902	"买卖宝货到付款"	"网上购物"	"2.96M"	"http://img.wdjimg.com/mms/icon/v1/5/c0/028bf0fa2f1b1326ceb8b27db33d8c05_256_256.png"	"网上购物 便捷生活 金融理财"	1	21
+771	"com.magic.sg"	2863	"真姬无双"	"经营策略"	"43.23M"	"http://img.wdjimg.com/mms/icon/v1/7/8a/1d4b1d6154ccfad2a1cd57adf208e8a7_256_256.png"	"经营策略 模拟养成 休闲益智"	1	1
+772	"com.dingmeng.lenaosanguo.dingmeng"	2862	"乐闹三国"	"角色扮演"	"10.35M"	"http://img.wdjimg.com/mms/icon/v1/6/50/9fe87c772ff16403530c8c58519cc506_256_256.png"	"角色扮演 三国 武将 神兵 策略 技能"	1	6
+773	"com.hulutan.gamestore"	2849	"葫芦堂"	"休闲益智"	"2.02M"	"http://img.wdjimg.com/mms/icon/v1/f/8b/99ff4dc27a2fbaa467b8c3c84ab188bf_256_256.png"	"休闲益智 达人 专业 灵魂"	1	4
+774	"com.smart.freecall"	2827	"免费拨电话"	"社交网络"	"4.48M"	"http://img.wdjimg.com/mms/icon/v1/5/32/8553f7493b5c54bef095dbd054fd9325_256_256.png"	"社交网络 通信聊天"	1	8
+775	"com.hohool.mblog"	2825	"想要"	"社交网络"	"16.53M"	"http://img.wdjimg.com/mms/icon/v1/6/cd/1d4cdf1148ef00fc8dcfa9138dcf6cd6_256_256.png"	"社交网络"	1	8
+776	"air.cn.Tianzhu.tz51"	2811	"天诛"	"角色策略"	"39.57M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-07-09054253-_1373362973091_5154.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	6
+777	"com.netqin.schedule.sc"	2779	"玩乐宝典 Niceday"	"便捷生活"	"4.44M"	"http://img.wdjimg.com/mms/icon/v1/3/2e/483b27ee449b9b1191231565d8ed22e3_256_256.png"	"便捷生活 管家 日程 休闲"	1	20
+778	"com.dotababy.youle"	2736	"刀塔女神"	"手机网游"	"96.1M"	"http://static.yingyonghui.com/icon/72/1333575.png"	NULL	3	6
+779	"com.sq.wlfs.pk51"	2725	"51武林浮生"	"经营策略"	"41.79M"	"http://img.wdjimg.com/mms/icon/v1/0/61/270ea246ea7d1b3cb07a33740a7b9610_256_256.png"	"经营策略 江湖 武侠 武林 风格"	1	1
+780	"com.staroud.bymetaxi.mapview"	2721	"百米出租车"	"出行必用"	"2.6M"	"http://img.wdjimg.com/mms/icon/v1/5/bc/519f595bc9f6289e94d641e294e47bc5_256_256.png"	"出行必用 常用工具 便捷生活 便捷 高效 出租 助手"	1	22
+781	"cn.com.miq.army"	2716	"军临城下"	"经营策略"	"30.16M"	"http://img.wdjimg.com/mms/icon/v1/5/d6/35e692520c696471e4ed0e3454cb4d65_256_256.png"	"经营策略 三国 推广 安卓手机 分辨率 策略"	1	1
+782	"ez.lottery"	2713	"福利彩票小助手"	"金融理财"	"3.78M"	"http://img.wdjimg.com/mms/icon/v1/f/24/05a3b3ca94bec09a05ef4c85113ec24f_256_256.png"	"金融理财 助手 简洁 北京 福彩"	1	18
+783	"air.A10001"	2706	"斗将三国"	"休闲益智"	"50.7M"	"http://img.wdjimg.com/mms/icon/v1/1/b0/2edb564a4e122652111eddf589b54b01_256_256.png"	"休闲益智"	1	4
+784	"cn.com.hkgt.mmvideo"	2701	"华纳影院"	"影音图像"	"1.4M"	"http://img.wdjimg.com/mms/icon/v1/6/8b/18a194ded85e10d49446fd05881c18b6_256_256.png"	"影音图像 饕餮 华丽 影院 高清视频"	1	9
+785	"com.inthub.woo"	2700	"哇点惊喜"	"便捷生活"	"3.82M"	"http://img.wdjimg.com/mms/icon/v1/3/77/e066f0c1d173ae3375801b08576f0773_256_256.png"	"便捷生活 常用工具 惊喜 管家 省钱 消费"	1	21
+786	"com.tian.wechovoxp"	2698	"超级变声器"	"站外应用"	"860.9K"	"http://static.yingyonghui.com/icon/72/776019.png"	NULL	3	15
+787	"com.qianpin.mobile"	2696	"千品网"	"便捷生活"	"3.5M"	"http://static.yingyonghui.com/icon/72/895927.png"	NULL	3	15
+788	"com.tipcat.mge.tjsanguo"	2693	"寻侠记 xunxiaji"	"动作竞技"	"71.89M"	"http://img.wdjimg.com/mms/icon/v1/6/b6/924bc51ea26c7ea6bee690536157fb66_256_256.png"	"动作竞技"	1	5
+789	"ts.game.mosan"	2692	"蛮仙录－2012年最新超人气网游"	"角色扮演"	"2.94M"	"http://img.wdjimg.com/mms/icon/v1/8/82/4b52768ea491bc17cb135a1e5e9ab828_256_256.png"	"角色扮演 模拟养成 经营策略 动作竞技 便捷生活 休闲益智"	1	6
+790	"br.com.fast4ward.sdcardspeedtester"	2686	"SD卡测速"	"常用工具"	"74.24K"	"http://img.wdjimg.com/mms/icon/v1/1/26/9535f48aa9ddda5066e3cf104bab0261_256_256.png"	"常用工具"	1	14
+791	"cn.mbga.kaito"	2683	"侠盗风云"	"角色扮演"	"354.81K"	"http://img.wdjimg.com/mms/icon/v1/2/6b/513e0f19b46db8956f275663c527c6b2_256_256.png"	"角色扮演 动作竞技 侠盗 风云 探索 任务"	1	6
+792	"com.my4399.qysg.sy4399"	2680	"契约三国"	"角色扮演"	"30.11M"	"http://img.wdjimg.com/mms/icon/v1/2/39/5b4b8742eb714ac9a2df8a9ef5044392_256_256.png"	"角色扮演"	1	6
+793	"com.noumena.android.battlefuryzhkz"	2642	"怒战"	"站外应用"	"8.8M"	"http://static.yingyonghui.com/icon/72/635541.png"	NULL	3	6
+794	"com.kuxun.scliang.travel"	2641	"酷讯旅游"	"出行必用"	"8.25M"	"http://img.wdjimg.com/mms/icon/v1/1/10/815ab5bda99346dbe6393b2f95d5b101_256_256.png"	"出行必用 便捷生活 旅游 机票 酒店 火车票 宝典"	1	22
+795	"fish.control.menu"	2628	"捕鱼海里捞(破解版)"	"站外应用"	"10.5M"	"http://static.yingyonghui.com/icon/72/529806.png"	NULL	3	2
+796	"com.mdream.main"	2618	"铁血功勋"	"经营策略"	"7.56M"	"http://img.wdjimg.com/mms/icon/v1/8/d2/df43dcaf90d1928137a4f7488a7a9d28_256_256.png"	"经营策略 铁血 战役 军官 html5 同盟"	1	1
+797	"LamaMobile.Start"	2609	"大赢家"	"棋牌桌游"	"1.2M"	"http://static.yingyonghui.com/icon/72/397967.png"	NULL	3	4
+798	"kiss.com"	2607	"亲你妹"	"经营策略"	"4.55M"	"http://img.wdjimg.com/mms/icon/v1/b/a8/6d86b5cfee176a4a03f5a2498a259a8b_256_256.png"	"经营策略 休闲益智"	1	1
+799	"com.cmmobi"	2600	"新蜂视频"	"影音图像"	"4.44M"	"http://img.wdjimg.com/mms/icon/v1/9/e5/284367e1172cd2cc4bee45f596c02e59_256_256.png"	"影音图像 视频 互动 收藏 排行"	1	9
+800	"game.legend"	2598	"天域"	"模拟养成"	"2.68M"	"http://img.wdjimg.com/mms/icon/v1/c/69/c39427b8a9c9cb38e9522060e688369c_256_256.png"	"模拟养成 动作竞技 网络模拟 神话 战斗 坐骑"	1	3
+801	"com.easylove"	2586	"简单爱"	"社交网络"	"7.33M"	"http://img.wdjimg.com/mms/icon/v1/f/7d/67f0d22dae74e6640dbd37c768ca07df_256_256.png"	"社交网络"	1	8
+802	"com.xygame.fall"	2585	"愤怒落石"	"休闲益智"	"8.58M"	"http://img.wdjimg.com/mms/icon/v1/2/89/3531b402debc493b2686a4de97623892_256_256.png"	"休闲益智 愤怒 秘密 引擎 物理"	1	4
+803	"com.YunLian.wewe"	2579	"微微"	"社交网络"	"8.53M"	"http://img.wdjimg.com/mms/icon/v1/b/66/fea901cee5af040ee30ebce09565966b_256_256.png"	"社交网络 即时通讯 电话 免费电话 网络电话 打电话"	1	8
+804	"com.hiyiqi"	2573	"嗨一起"	"社交网络"	"4.36M"	"http://img.wdjimg.com/mms/icon/v1/f/89/25928fca042dcf18ed72cc87829db89f_256_256.png"	"社交网络"	1	8
+805	"com.sl.biween.hd"	2563	"百闻"	NULL	NULL	NULL	NULL	0	15
+806	"com.funfun001.activity"	2559	"泛泛"	"社交网络"	"3.06M"	"http://img.wdjimg.com/mms/icon/v1/3/9f/866d08ab62b2a725951a43fbe1abc9f3_256_256.png"	"社交网络 便捷生活 通信聊天 聊天 粉丝 互动 照片"	1	8
+807	"com.cywx"	2559	"武魂"	"动作竞技"	"4.39M"	"http://img.wdjimg.com/mms/icon/v1/b/84/bd27c858e90b7ede0bc48c5d7c95084b_256_256.png"	"动作竞技 武魂 武侠 写实"	1	5
+808	"com.melodywow"	2556	"点点钱"	"其它"	"2.25M"	"http://img.wdjimg.com/mms/icon/v1/0/ca/c5937c654f6e8396a74687a920edcca0_256_256.png"	""	1	15
+809	"com.meinvpic.demo"	2556	"撕你妹"	"休闲游戏"	"5.5M"	"https://lh3.ggpht.com/gfb2pKXTCWNiscg9xWOivB9oKiiBi07qPilAkZaq3FgXRvUOjJlrmc_x9SjVKa3RBw=w300-rw"	"3.5"	2	4
+810	"xm.lab.app.android"	2533	"畅乐通"	"通信聊天"	"598.72K"	"http://img.wdjimg.com/mms/icon/v1/b/e4/7a05fc8d4e6b404a1ff438aea5548e4b_256_256.png"	"通信聊天 常用工具 漫游 为您服务 技术 通畅"	1	16
+811	"com.appcate.samsung.eventapp.e5"	2485	"三星咖啡礼包"	NULL	NULL	NULL	NULL	0	15
+812	"com.xiangxing.www"	2481	"蜀无双Online（圣诞版）"	"街机和动作游戏"	"12M"	"https://lh4.ggpht.com/js9hvOZ-v3sO86RnR8shxYv4uHLQkv1_NL_MYcQuos6lmIrRaHKhChB6Vk7bVB_VxGIG=w300-rw"	"3.9"	2	6
+813	"com.zs.terence.constellate"	2472	"星语星愿"	NULL	NULL	NULL	NULL	0	15
+814	"com.leiyoo.ghzj.main"	2443	"光辉战纪"	"角色扮演"	"11.06M"	"http://img.wdjimg.com/mms/icon/v1/a/28/38758c738598c3096249d41d991e628a_256_256.png"	"角色扮演 剧情 冒险 辉煌 黑暗 光明"	1	6
+815	"com.b5m.bang5mai"	2434	"帮5买"	"网上购物"	"4.43M"	"http://img.wdjimg.com/mms/icon/v1/d/e0/da262555608b3a0d0e3966b9e0a05e0d_256_256.png"	"网上购物 便捷生活 金融理财 模拟养成 扫描 商品 条形码 购物"	1	20
+816	"com.molonDSClient"	2431	"梦龙印"	"角色扮演"	"14.3M"	"http://img.wdjimg.com/mms/icon/v1/f/fc/d9480969361cad9362b51296541fefcf_256_256.png"	"角色扮演"	1	6
+817	"com.moca.xmcs"	2430	"仙魔传说"	"角色扮演"	"8.69M"	"http://img.wdjimg.com/mms/icon/v1/0/c9/c3c4864a988a3bcf551437c629ba2c90_256_256.png"	"角色扮演 休闲益智 传说 互动 五行"	1	6
+818	"com.dahongshou.www"	2426	"大红手免单王"	"便捷生活"	"5.49M"	"http://img.wdjimg.com/mms/icon/v1/2/4d/b1ed3bade8d28a3b0ec3deffc4e0b4d2_256_256.png"	"便捷生活 常用工具 休闲益智 奖品 抽奖 包邮 随心"	1	20
+819	"com.moon.player7"	2425	"炫彩影吧"	NULL	NULL	NULL	NULL	0	9
+820	"hpttl.gamesuper"	2402	"屠龙OL"	"角色扮演"	"9.35M"	"http://img.wdjimg.com/mms/icon/v1/e/67/bc815155145944eec009e3a445f2e67e_256_256.png"	"角色扮演 武侠 号令天下 即时RPG"	1	6
+821	"com.pearlinpalm"	2397	"明珠传奇 免费游戏"	"角色扮演"	"6.14M"	"http://img.wdjimg.com/mms/icon/v1/3/1b/ca559c2d79f679ddf9845660dc5711b3_256_256.png"	"角色扮演 模拟养成 经营策略"	1	6
+822	"com.youai.dreamonepiece.platform.sina_wyx"	2396	"梦想海贼王"	"Brain &amp; Puzzle"	NULL	"http://lh3.ggpht.com/5q85gghVKy9Ixx8O2HaXE3Xj75F2U9b99rW7q717igrDdbcTrolEmOTwUX5D1iZz822pWkV4KkBDmkAa0ARbRtE"	NULL	5	1
+823	"com.kexin.jbsg.baina"	2382	"将爆三国"	NULL	NULL	NULL	NULL	0	1
+824	"com.slgstudio.diamondAndroid"	2372	"鸡消消"	"休闲益智"	"34.5M"	"http://img.wdjimg.com/mms/icon/v1/e/f9/1ce36dc50a8f6e0636685f5d80637f9e_256_256.png"	"休闲益智"	1	4
+825	"work.mainzy"	2355	"忠义OL"	"角色扮演"	"1.3M"	"http://img.wdjimg.com/mms/icon/v1/e/f9/c2f9ddcd0fd28997d2270777d6980f9e_256_256.png"	"角色扮演 模拟养成 动作竞技"	1	6
+826	"com.tempus.feiren.app"	2353	"滕邦飞人:机票酒店查询预定"	"便捷生活"	"2.0M"	"http://static.yingyonghui.com/icon/72/6372.png"	NULL	3	22
+827	"com.pinidea.ios.sxd.uc"	2350	"UC神仙道"	"模拟养成"	"148.72M"	"http://img.wdjimg.com/mms/icon/v1/7/c9/08b63dc61c7e2f4bfaf9115e2fa87c97_256_256.png"	"模拟养成 角色扮演"	1	3
+828	"com.cetetek.vlife"	2350	"V生活"	"便捷生活"	"6.24M"	"http://img.wdjimg.com/mms/icon/v1/8/e6/be52f54d4b2e5fe700cb9689ffa94e68_256_256.png"	"便捷生活 常用工具 休闲益智"	1	15
+829	"com.pip.android.mzx"	2339	"明珠侠 免费盛大公测"	"角色扮演"	"5.95M"	"http://img.wdjimg.com/mms/icon/v1/4/c1/9e6112882d82add4d81fe8093c16ec14_256_256.png"	"角色扮演 动作竞技 模拟养成 经营策略 明珠 盛大 风格 武侠"	1	6
+830	"org.wangxian553sdk"	2330	"忘仙"	NULL	NULL	NULL	NULL	0	6
+831	"com.yulore.yellowpage"	2327	"电话帮"	"通信聊天"	"3.52M"	"http://img.wdjimg.com/mms/icon/v1/e/c8/03922729cb1d3b734cd282ea76629c8e_256_256.png"	"通信聊天 电话 电话号码 号码 周边 店铺"	1	16
+832	"com.channelsoft.baikudialer"	2324	"佰库电话"	"通信聊天"	"4.21M"	"http://img.wdjimg.com/mms/icon/v1/e/b3/14777bbe2f531c80e12c6a6c1f1d9b3e_256_256.png"	"通信聊天 社交网络 常用工具 互动 多媒体"	1	16
+833	"com.appconomy.jinjin"	2320	"津津会员卡"	"便捷生活"	"6.94M"	"http://img.wdjimg.com/mms/icon/v1/5/a2/14c439fb97008e93af52cf410a5f5a25_256_256.png"	"便捷生活 乐趣 消费 送礼 喜爱"	1	15
+834	"com.johney.webview"	2316	"日韩搭配"	NULL	NULL	NULL	NULL	0	15
+835	"com.yuele.activity"	2315	"悦乐优惠—时尚生活，优惠达人"	"便捷生活"	"2.53M"	"http://img.wdjimg.com/mms/icon/v1/e/b4/dac4b00145ec36d284afc65f937e9b4e_256_256.png"	"便捷生活 优惠 达人 汉堡王 麦当劳 快餐"	1	20
+836	"com.bobgame.texasholdem"	2313	"新德州扑克"	"休闲益智"	"6.58M"	"http://img.wdjimg.com/mms/icon/v1/7/73/c90e3b55d92d1fb26c43fc2333a16737_256_256.png"	"休闲益智"	1	4
+837	"com.tipcat.mge.tjsanguo.cw"	2301	"调教三国"	"角色扮演"	"73.36M"	"http://img.wdjimg.com/mms/icon/v1/6/4a/a88db00bb7aae8e80115604bb5c674a6_256_256.png"	"角色扮演"	1	6
+838	"com.jqbar.android.bwdsz"	2266	"PK白富美"	"经营策略"	"8.6M"	"http://img.wdjimg.com/mms/icon/v1/6/4b/3c0b45254ead3fcf229d88c612dc64b6_256_256.png"	"经营策略 白富美 奇迹 商场 商业 时代"	1	1
+839	"com.beginshare.appshare"	2262	"「应用魔方」"	"社交网络"	"1.94M"	"http://img.wdjimg.com/mms/icon/v1/7/42/a50479bca0b955db285bbdbff0e2f427_256_256.png"	"社交网络 常用工具 阅读学习 便捷生活 新闻资讯 魔方 好友 社区"	1	8
+840	"com.wanghao.appprotect"	2261	"智能程序锁"	"常用工具"	"850.59K"	"http://img.wdjimg.com/mms/icon/v1/8/29/156f8ef03d2f2bec53770b6e306f9298_256_256.png"	"常用工具 性能优化 保护器 智能"	1	14
+841	"com.dishitong"	2240	"的士通"	"便捷生活"	"3.27M"	"http://img.wdjimg.com/mms/icon/v1/b/44/8b1391586bf97b39ed770988d230d44b_256_256.png"	"便捷生活 出行必用 常用工具 乘客 出租车 风车 运营"	1	22
+842	"com.dlcx.flight"	2240	"天使爱射击"	"射击冒险"	"15.9M"	"http://img.wdjimg.com/mms/icon/v1/d/03/5513cd150ed78964716133798a3f203d_256_256.png"	"射击冒险 动作竞技 休闲益智 天使 射击 天际 跑酷"	1	2
+843	"com.qiqibuy.android"	2236	"天天特价"	"网上购物"	"437.96K"	"http://img.wdjimg.com/mms/icon/v1/6/41/2a5278d04f289b9b9290fd82ce3b0416_256_256.png"	"网上购物 商品 打折 白领 下单"	1	20
+844	"com.gamed9.pet.wws"	2233	"幻想精灵"	"模拟养成"	"44.73M"	"http://img.wdjimg.com/mms/icon/v1/7/f2/f6bacf38df355d178192e4308790ff27_256_256.png"	"模拟养成"	1	3
+845	"com.hack.gprs"	2228	"无线昆明"	NULL	NULL	NULL	NULL	0	14
+846	"com.youdao.cube"	2227	"网易八方"	"常用工具"	"1.93M"	"http://img.wdjimg.com/mms/icon/v1/4/cc/4c35a305b67b0def52642bba8fdfecc4_256_256.png"	"常用工具 新闻资讯 美化手机 社交网络 便捷生活 享受 探索 社交 周边 网易"	1	14
+847	"com.snda.inote.gtd"	2225	"麦库备忘录EasyDo"	"常用工具"	"1.69M"	"http://img.wdjimg.com/mms/icon/v1/c/6d/dbb0efd0ae3ca0829a658dc1595086dc_256_256.png"	"常用工具 金融理财 便捷生活 效率 备忘"	1	14
+848	"com.phonegap.droid092915"	2211	"e罗筐"	"便捷生活"	"1.85M"	"http://img.wdjimg.com/mms/icon/v1/a/9f/fb82f63cd7d1a6bf2c00d81f69e319fa_256_256.png"	"便捷生活 社交网络 休闲益智 达人 扫描 需求 优秀"	1	15
+849	"air.com.eray.HZOLMobile"	2209	"逼上梁山"	"角色扮演"	"59.16M"	"http://img.wdjimg.com/mms/icon/v1/8/14/0f677c7c2b348e6d04e02876efc51148_256_256.png"	"角色扮演"	1	6
+850	"com.javgame.wansha"	2194	"玩啥e族户外旅游分享"	"社交网络"	"4.48M"	"http://img.wdjimg.com/mms/icon/v1/a/da/483785f917b96404c17cedff9b5ecdaa_256_256.png"	"社交网络 出行必用 新闻资讯 便捷生活 户外 周末"	1	8
+851	"air.com.lingyu.zzxlmobile.zqgame75000yua323n"	2180	"仙战"	NULL	NULL	NULL	NULL	0	6
+852	"air.com.renren.igames.mjcq855006481"	2170	"刀锋战影"	NULL	NULL	NULL	NULL	0	5
+853	"com.g2us.armedwarriors.cw"	2168	"魂OL"	NULL	NULL	NULL	NULL	0	6
+854	"org.cocos2dx.dlcx.zsg"	2165	"Beauty and Kingdom"	"益智和解谜游戏"	"18M"	"https://lh4.ggpht.com/IlTWL29ue3WfCNFOdBv2CBYMTiF9ad8KBiqQK_K16Ga4_UY4AUIbLWZAxAo1-hEx16GI=w300-rw"	"0.0"	2	4
+855	"com.shishike.calm"	2158	"客如云找位"	"便捷生活"	"7.38M"	"http://img.wdjimg.com/mms/icon/v1/f/7e/a3f93fd1d200625ead09729b386d27ef_256_256.png"	"便捷生活 餐厅 实时 优惠 人数"	1	22
+856	"cn.zhui.client1228330"	2157	"口袋淘宝"	"网上购物"	"1.53M"	"http://img.wdjimg.com/mms/icon/v1/1/41/90cf6f182a26c04ee2dc23eb4784a411_256_256.png"	"网上购物"	1	20
+857	"com.lehe"	2150	"乐呵消费指南"	"便捷生活"	"2.0M"	"http://static.yingyonghui.com/icon/72/169063.png"	NULL	3	15
+858	"com.xijie.mall"	2146	"西街运动"	"网上购物"	"1.28M"	"http://img.wdjimg.com/mms/icon/v1/b/f6/6e3c4f60d60099d65df64b4a0ce3ff6b_256_256.png"	"网上购物 休闲 三叶草 品牌 地点 商品"	1	15
+859	"com.cooshare.www.httpconn"	2139	"安心360"	"出行必用"	"350.83K"	"http://img.wdjimg.com/mms/icon/v1/2/db/69ff5facfbe55b846d8ab5b0f42efdb2_256_256.png"	"出行必用 便捷生活 亲人 定位"	1	22
+860	"com.trendsnet.quanquan"	2128	"卡簿通讯录"	"通信聊天"	"8.08M"	"http://img.wdjimg.com/mms/icon/v1/b/3a/9a6cc0a0c1347a36ec753efc694f83ab_256_256.png"	"通信聊天 通讯录 联系人 无忧 个性"	1	16
+861	"oss.AndroidmyDrawdleFramework"	2127	"随便画画"	"休闲益智"	"7.56M"	"http://img.wdjimg.com/mms/icon/v1/1/10/c8f2487b441fe087c559f744955bc101_256_256.png"	"休闲益智 气球 创意 颜料 画画"	1	4
+862	"com.qwsy"	2127	"蔷薇书院"	"阅读学习"	"813.8K"	"http://img.wdjimg.com/mms/icon/v1/b/89/b6a8b4bd9ba0967871dae7111728189b_256_256.png"	"阅读学习 小说"	1	10
+863	"com.ch_linghu.fanfoudroid"	2124	"安能饭否"	"社交网络"	"846.46K"	"http://img.wdjimg.com/mms/icon/v1/6/a9/3461f34f71ddb5790255d48cff417a96_256_256.png"	"社交网络 模拟养成 常用工具 新闻资讯 饭否 后台"	1	8
+864	"com.greensoft.gfLaBiXiaoXin"	2112	"蜡笔小新壁纸桌面"	"主题美化"	"2.95M"	"http://hiapk.91rb.com/data/upload//2012/08_19/10/201208191001338783.png"	NULL	4	12
+865	"com.android.shop"	2103	"乐享其城"	"便捷生活"	"6.1M"	"http://static.yingyonghui.com/icon/72/1349878.png"	"新闻资讯 号外 电信 成功 娱乐"	3	15
+866	"air.air.sgGame.wyx"	2096	NULL	NULL	NULL	NULL	NULL	0	6
+867	"com.khan.coolmms"	2094	"酷信"	"通信聊天"	"2.47M"	"http://img.wdjimg.com/mms/icon/v1/0/60/9a8206af43d73e90dbeca1401b3e6600_256_256.png"	"通信聊天 便捷生活 同学 照片 养生之道"	1	16
+868	"com.gwsoft.imusic.simple.controller"	2079	"哎姆悦听（音乐播放器）"	"影音图像"	"2.75M"	"http://img.wdjimg.com/mms/icon/v1/a/10/d44ac48de41df286109488ec8db1810a_256_256.png"	"影音图像 便捷生活 潮流 娱乐"	1	9
+869	"com.um.mplus"	2077	"智录"	"通信聊天"	"4.34M"	"http://img.wdjimg.com/mms/icon/v1/2/57/7fedd1dc6b33d86e82385ec89df22572_256_256.png"	"通信聊天 社交网络 工作室 爱人"	1	16
+870	"com.zhiyi.activity"	2076	"微彩简易版"	"金融理财"	"6.12M"	"http://img.wdjimg.com/mms/icon/v1/9/82/8bba95a1b3b170bb0940cdf1c2b31829_256_256.png"	"金融理财 广东 体育彩票 支付宝"	1	18
+871	"com.gfan.game.sanguo"	2074	"决战天下"	"经营策略"	"59.33M"	"http://img.wdjimg.com/mms/icon/v1/5/15/206f13a4cbc4dac845c5afd163d73155_256_256.png"	"经营策略"	1	1
+872	"com.wyd.dandandao.cw"	2071	"弹弹岛战纪"	NULL	NULL	NULL	NULL	0	4
+873	"com.casino.texaspoker"	2059	"云顶德州扑克"	"常用工具"	"32.51M"	"http://img.wdjimg.com/mms/icon/v1/7/fb/d65413f67259dec1a797c6cfdef50fb7_256_256.png"	"常用工具 休闲益智"	1	14
+874	"tl.easaa.ybyq"	2053	"仪表仪器"	"常用工具"	"606.7K"	"http://img.wdjimg.com/mms/icon/v1/d/7e/3144f3ee999d7c4f598ae807178d57ed_256_256.png"	"常用工具 金融理财 交流 企业 权威"	1	14
+875	"com.colorme.game.zhiwudazhanjiangshi"	2037	"植物大战僵尸"	"射击冒险"	"4.08M"	"http://img.wdjimg.com/mms/icon/v1/0/a9/748755f2dde64a512cb1ba120dba0a90_256_256.png"	"射击冒险 僵尸 植物 大战 祖玛"	1	2
+876	"com.kuukaa.ca.activity"	2008	"卡小包—团购，优惠，打折，点评，美食"	"便捷生活"	"3.91M"	"http://img.wdjimg.com/mms/icon/v1/1/04/2f8bfc8f83dff1f6870b5195ef3b3041_256_256.png"	"便捷生活 网上购物 金融理财 常用工具 优惠 打折 电子"	1	20
+877	"com.ecc.tianyibao"	2003	"天翼宝"	"新闻资讯"	"3.67M"	"http://img.wdjimg.com/mms/icon/v1/b/20/8fa86b1d200263532322733f01a4d20b_256_256.png"	"新闻资讯 常用工具 出行必用 便捷生活 休闲益智 定位 电子商务"	1	17
+878	"com.sanguoq.android.guess"	2002	"疯狂戳图"	"休闲益智"	"12.4M"	"http://img.wdjimg.com/mms/icon/v1/a/e0/8ef45aea025cb87d818731d7cb781e0a_256_256.png"	"休闲益智"	1	4
+879	"com.eastedge.franchise"	1989	"投资创业宝典"	"新闻资讯"	"6.34M"	"http://img.wdjimg.com/mms/icon/v1/c/ae/57eb2eb513f4a0bd6d8b93a5bbd48aec_256_256.png"	"新闻资讯 创业 投资 品牌 宝典 宝岛"	1	17
+880	"com.manaforce.zsmj.cw"	1983	"掌上名将"	"角色扮演"	"23.93M"	"http://img.wdjimg.com/mms/icon/v1/1/c0/f0d7a4d691609f2a3601fadc0f5d6c01_256_256.png"	"角色扮演"	1	6
+881	"air.com.rhinesoft.q3"	1973	"Q将无双"	NULL	NULL	NULL	NULL	0	1
+882	"com.lle.dse"	1964	"龙印助手"	"角色扮演"	"332.11K"	"http://img.wdjimg.com/mms/icon/v1/2/b0/8adbe91d0b27886aa95fd7f5dce32b02_256_256.png"	"角色扮演 模拟养成 动作竞技 休闲益智 网络模拟 江湖 武侠 武功 风格"	1	6
+883	"com.gdwz"	1953	"广东车辆违章查询"	"常用工具"	"163.85K"	"http://img.wdjimg.com/mms/icon/v1/1/d0/b25c0cd9e92f0a3abdd8de25313cbd01_256_256.png"	"常用工具 便捷生活 车辆 设计 编辑 交通"	1	14
+884	"air.com.renren.igames.mjcq"	1950	"名将传奇"	"站外应用"	"23.6M"	"http://static.yingyonghui.com/icon/72/434276.png"	NULL	3	6
+885	"com.eoemobile.infos_assistant"	1929	"神马手机？"	"常用工具"	"46.4K"	"http://img.wdjimg.com/mms/icon/v1/f/d7/753a94db89f35a4a5ee50177658b8d7f_256_256.png"	"常用工具 内存 硬件 医生"	1	14
+886	"com.arrowspeed.shanpai"	1927	"百灵闪拍"	"便捷生活"	"5.33M"	"http://img.wdjimg.com/mms/icon/v1/e/c5/3e318ee306da23c7a3cf005f4ba84c5e_256_256.png"	"便捷生活"	1	15
+887	"com.hummingbird.zhaoqin.a91"	1925	"比武招亲"	NULL	"61.02M"	"http://img7.sjpic.91rb.com/soft/2013/10/16/c1e41fd022bd44088e5f082b0ba89e58/icon_9ffe9ab883954349a8fc53dd6c2f8ffa_65.png"	NULL	4	4
+888	"com.haoze"	1920	NULL	NULL	NULL	NULL	NULL	0	0
+889	"dadi.aouu"	1918	"手机遨友"	"社交网络"	"1.3M"	"http://static.yingyonghui.com/icon/72/1039052.png"	NULL	3	8
+890	"com.seclock.jimi"	1913	"几米"	"通信聊天"	"2.85M"	"http://img.wdjimg.com/mms/icon/v1/4/5a/6c4a8b09bd64dfc5739cf29b8276b5a4_256_256.png"	"通信聊天 社交网络 常用工具 便捷生活 米聊 聊天 照片 实时"	1	16
+891	"com.google.android.smart"	1895	"便携设置"	NULL	NULL	NULL	NULL	0	14
+892	"org.oneshowmile.jhx2"	1877	"江湖行2(新区)"	"角色扮演"	"28.74M"	"http://img.wdjimg.com/mms/icon/v1/9/dd/cf0a720d8f2cbb86ca6dc5dc1995fdd9_256_256.png"	"角色扮演 武侠 互动 个性 与众不同"	1	6
+893	"com.haolianluo.sms2"	1871	"联络短信"	"通信聊天"	"5.01M"	"http://img.wdjimg.com/mms/icon/v1/b/75/b469b8e7d57fabe9ce7214cac72ef75b_256_256.png"	"通信聊天 常用工具 阅读学习 与众不同 手机软件 传统"	1	16
+894	"com.aigame365.zhizunbao.cw"	1850	"大圣娶亲"	"角色扮演"	"131M"	"http://img.wdjimg.com/mms/icon/v1/f/18/704101b04bade65faac7cf9910d4918f_256_256.png"	"角色扮演"	1	6
+895	"com.KodGames.LuckyFighter_205401"	1847	"乐斗勇士"	NULL	NULL	NULL	NULL	0	6
+896	"com.gamebox.kingyoumi"	1838	"帝王三国"	NULL	NULL	NULL	NULL	0	1
+897	"bobo.activity"	1820	"波波电话导航"	"便捷生活"	"2.46M"	"http://img.wdjimg.com/mms/icon/v1/b/6a/719fce590e41eb27888e02c11c0876ab_256_256.png"	"便捷生活 出行必用 常用工具 通信聊天 新闻资讯 商家"	1	16
+898	"com.fang.Coupons"	1818	" 掌上优惠"	"便捷生活"	"2.05M"	"http://img.wdjimg.com/mms/icon/v1/6/49/b35a34df84959e7b48704a6ac28ee496_256_256.png"	"便捷生活 常用工具 金融理财 网上购物 新闻资讯 优惠 通道 优惠券 折扣"	1	20
+899	"air.nceo.as.android856003326"	1818	"美人国"	NULL	NULL	NULL	NULL	0	3
+900	"jiujiuleyou.shenzhouM"	1816	"神州OL(精游版)"	"角色扮演"	"23.36M"	"http://img.wdjimg.com/mms/icon/v1/f/10/73cb5bc8066d1877739eb4bef92ad10f_256_256.png"	"角色扮演 动作竞技 模拟养成 属性 幻兽 战斗 风格"	1	6
+901	"com.kaixinbook"	1811	"微阅读"	"图书阅读"	"2.1M"	"http://static.yingyonghui.com/icon/72/884407.png"	NULL	3	10
+902	"com.mapabc.android.hnCMCC"	1806	"途秘"	NULL	NULL	NULL	NULL	0	22
+903	"com.netqin.cm15"	1805	"网秦通讯管家"	"站外应用"	"841.7K"	"http://static.yingyonghui.com/icon/72/697528.png"	""	3	19
+904	"com.xiangqin"	1803	NULL	NULL	NULL	NULL	NULL	0	8
+905	"com.starway.ui"	1801	"一闪街"	"便捷生活"	"2.67M"	"http://img.wdjimg.com/mms/icon/v1/8/b5/2a23bdcda99e1a04d98e132d1ce7ab58_256_256.png"	"便捷生活 网上购物 模拟养成 阅读学习 休闲益智 明星 达人 时尚 八卦"	1	21
+906	"pj.greenbean"	1788	"绿豆神器"	NULL	"1.85M"	"http://img.wdjimg.com/mms/icon/v1/b/c2/e3d01478fe24839ef1d9e5c913d8bc2b_256_256.png"	""	1	14
+907	"air.com.junyougame.jianxia.a49"	1774	"剑侠"	NULL	NULL	NULL	NULL	0	6
+908	"cn.linyg.icount"	1774	"开心记账"	"Tools"	NULL	"http://lh3.ggpht.com/5ye0NLUBjOanGDD_UH0NqqwPsweNan43XaaABYtcfXd_EnHsd_Tg2uu2A2UZQADTkNMSnAiSUsRIWdYpE8S5Nvw"	NULL	5	18
+909	"com.Lailaiban"	1772	"来来伴-恋人推荐达人"	"社交网络"	"7.7M"	"http://img.wdjimg.com/mms/icon/v1/f/51/419e85f555c0b23df6c527f2ffc5151f_256_256.png"	"社交网络 通信聊天 达人 定制 单身 恋人 未成年"	1	8
+910	"com.otaku.comics"	1770	"宅男小漫画Vp"	"站外应用"	"5.0M"	"http://static.yingyonghui.com/icon/72/519498.png"	"漫画 动漫 内涵 心情"	3	10
+911	"com.tonglu.shengyijie.activity"	1769	"生意街"	"金融理财"	"4.38M"	"http://img.wdjimg.com/mms/icon/v1/1/4d/0a3b5d1f1144864611e370dffba764d1_256_256.png"	"金融理财 互联网 品牌 商机 投资"	1	18
+912	"com.android.couples"	1769	"美容大王"	NULL	NULL	NULL	NULL	0	15
+913	"com.mokard"	1766	"么卡"	"网上购物"	"4.03M"	"http://img.wdjimg.com/mms/icon/v1/3/93/d9d29403f42380242e727d2e54933933_256_256.png"	"网上购物 消费 会员卡 实体 颠覆 吃饭"	1	15
+914	"com.ifree"	1762	"爱免费"	"站外应用"	"660.4K"	"http://static.yingyonghui.com/icon/72/790633.png"	NULL	3	20
+915	"form.com.xuefulan"	1757	NULL	NULL	NULL	NULL	NULL	0	21
+916	"rujia.com"	1754	NULL	NULL	NULL	NULL	NULL	0	15
+917	"com.bjjt"	1748	"北京车辆违章查询"	"常用工具"	"184.27K"	"http://img.wdjimg.com/mms/icon/v1/0/6b/a8c22543a9e9b0d05a240e09ac1126b0_256_256.png"	"常用工具 便捷生活 车辆 北京 设计 公安局"	1	14
+918	"com.dreamingame.eraofsail"	1747	"船长日志"	NULL	NULL	NULL	NULL	0	1
+919	"com.tuixin11.sms"	1746	"推信11"	"通信聊天"	"1.85M"	"http://img.wdjimg.com/mms/icon/v1/2/e4/202d8b531adc8fd2a09fdac73e66ae42_256_256.png"	"通信聊天 社交网络 常用工具 消息 通道"	1	16
+920	"cn.easytom.anywhere"	1745	"移折通"	"便捷生活"	"3.2M"	"http://img.wdjimg.com/mms/icon/v1/5/ff/26256a19bfce5bcb943610c014bf3ff5_256_256.png"	"便捷生活 常用工具 网上购物 必胜客 优惠 拉面 连锁"	1	15
+921	"com.stockbang"	1744	"股票龙虎榜"	"金融理财"	"649.26K"	"http://img.wdjimg.com/mms/icon/v1/4/06/c053c8af7d99a53020323388fc9dc064_256_256.png"	"金融理财"	1	18
+922	"com.rongwei"	1743	NULL	NULL	NULL	NULL	NULL	0	21
+923	"hlnet.bbs.zhjr"	1743	"精神网络"	"金融理财"	"1.16M"	"http://img.wdjimg.com/mms/icon/v1/9/6d/d263c6c1e9831d81bee81ce19d0ed6d9_256_256.png"	"金融理财 精神 博客 学习 投资者 交流"	1	18
+924	"com.hisun.igain.view"	1742	"i 便宜"	"便捷生活"	"425.29K"	"http://img.wdjimg.com/mms/icon/v1/2/34/de3e2553b7013848d729d21325668342_256_256.png"	"便捷生活 网上购物 常用工具 便宜 打折 达人 品牌"	1	20
+925	"cn.lanchao.t"	1740	"览潮微博"	"社交网络"	"5.61M"	"http://img.wdjimg.com/mms/icon/v1/1/fd/5f271697ab9cff0eb763bce37b7c6fd1_256_256.png"	"社交网络 新闻资讯 影音图像 照片 互动 摄影 喜爱"	1	8
+926	"cn.com.buick.hideandseek"	1738	"ENCORE全城大搜藏"	"社交网络"	"9.14M"	"http://img.wdjimg.com/mms/icon/v1/d/93/c97872490c0f6eb86f80d103f07d493d_256_256.png"	"体育竞速 经营策略 社交网络 休闲益智 别克 城市 汽车"	1	8
+927	"com.minihui.mihui.ui"	1738	"米绘"	"社交网络"	"4.86M"	"http://img.wdjimg.com/mms/icon/v1/f/86/37a61322857aa65d80908745ca9c486f_256_256.png"	"社交网络 影音图像 常用工具 火锅 随手 时尚 安卓手机"	1	8
+928	"jiushenjiu.com"	1737	NULL	NULL	NULL	NULL	NULL	0	0
+929	"com.domain.myapp"	1734	"武汉公交"	"出行必用"	"247.18K"	"http://img.wdjimg.com/mms/icon/v1/5/ac/01eb0e2979b5b6d3ca6abd890d0cbac5_256_256.png"	"出行必用 成都 离线 武汉 工具"	1	22
+930	"com.cheyouhui"	1733	NULL	NULL	NULL	NULL	NULL	0	15
+931	"com.mh.activity"	1732	"课程表"	"常用工具"	"56K"	"http://img.wdjimg.com/mms/icon/v1/1/6d/64a1799f82a20bf1de7b9d6cd9d9c6d1_256_256.png"	"常用工具 便捷生活 课程表 实用"	1	14
+932	"com.ivggame.kunlunwu.other"	1732	"昆仑悟"	"角色策略"	"51.73M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-10-21062916-_1382351356900_2542.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	6
+933	"com.yinghua"	1730	NULL	NULL	NULL	NULL	NULL	0	0
+934	"com.regeltek.feidan"	1730	"千惠集"	"网上购物"	"2.22M"	"http://img.wdjimg.com/mms/icon/v1/3/ff/7c49184f363a9c182e8726f05e5f1ff3_256_256.png"	"网上购物 常用工具 信用卡 优惠 折扣 刷卡"	1	15
+935	"com.ytinfo.mlcf"	1725	"电子黄页"	"便捷生活"	"13.71M"	"http://img.wdjimg.com/mms/icon/v1/8/fb/71a16b3a96741bc2e8481ee2329e1fb8_256_256.png"	"便捷生活 黄页 电子 安徽 休闲"	1	15
+936	"com.ecmall"	1724	"鲜淘铺"	"网上购物"	"721.19K"	"http://img.wdjimg.com/mms/icon/v1/d/e9/ce5d139dd53392510d4b90855da8be9d_256_256.png"	"网上购物 购物 省钱 淘宝 返利 支付宝"	1	21
+937	"cn.shopex.Shopkeeper27"	1724	"掌上购"	"网上购物"	"1.12M"	"http://img.wdjimg.com/mms/icon/v1/e/55/23f4f3afca8191b8b5017fb8e053355e_256_256.png"	"网上购物 富有 金属 价值 收藏 商店"	1	21
+938	"cn.text"	1723	"wap胡莱三国"	"经营策略"	"45.02K"	"http://img.wdjimg.com/mms/icon/v1/b/6e/e1494fdd8a67902d00460da7d8e1a6eb_256_256.png"	"经营策略 特效 名将 兄弟 化身 技能"	1	1
+939	"air.nceo.as.android8560021680"	1723	"绝色暗战"	NULL	NULL	NULL	NULL	0	3
+940	"com.android.yougou"	1723	"优购"	"便捷生活"	"1.59M"	"http://img.wdjimg.com/mms/icon/v1/b/71/c8e79d07b4b9d2ea7e6b9e3deb75b71b_256_256.png"	"便捷生活 网上购物 达人 时尚 商品"	1	20
+941	"com.gamejing.box"	1719	"吧嗒游戏盒子"	NULL	NULL	NULL	NULL	0	14
+942	"dodgeball1.dodgeball1"	1719	"疯狂的小狗"	"动作竞技"	"1.21M"	"http://img.wdjimg.com/mms/icon/v1/1/e4/011b331c2986d82faee19b0003973e41_256_256.png"	"动作竞技 射击冒险 小狗 疯狂"	1	5
+943	"com.netease.news"	1718	"网易新闻"	NULL	NULL	NULL	NULL	0	17
+944	"reocar.com"	1718	NULL	NULL	NULL	NULL	NULL	0	22
+945	"air.com.renren.igames.mjcq855005452"	1718	"破冰利刃"	NULL	NULL	NULL	NULL	0	6
+946	"com.chongai.co"	1717	"宠爱"	"社交网络"	"434.12K"	"http://img.wdjimg.com/mms/icon/v1/9/05/3a88041557e72a0adbba2fb7d1904059_256_256.png"	"社交网络 便捷生活 大叔 交代 审核"	1	8
+947	"com.ucapp.ucgame"	1716	"iwan网游助手"	"常用工具"	"764.66K"	"http://img.wdjimg.com/mms/icon/v1/2/60/776a5094fcc1cbece3c30489f185b602_256_256.png"	"常用工具 休闲益智 设计 资讯 助手"	1	14
+948	"com.baidianfeng"	1716	NULL	NULL	NULL	NULL	NULL	0	15
+949	"ruisi.com"	1716	NULL	NULL	NULL	NULL	NULL	0	13
+950	"com.gameidiom.challenge"	1716	"成语挑战赛（好胆你就来挑战）"	"休闲益智"	"4.7M"	"http://img.wdjimg.com/mms/icon/v1/2/5d/f742804700ca2b1fc6209be2cd9685d2_256_256.png"	"休闲益智"	1	4
+951	"com.yorkit.app"	1715	"订餐易"	"便捷生活"	"3.94M"	"http://img.wdjimg.com/mms/icon/v1/2/6c/16c215c199325c193d9045aecbcbc6c2_256_256.png"	"便捷生活 餐厅 省钱"	1	15
+952	"cn.zhui.client913453"	1715	"天天特价"	"便捷生活"	"2.04M"	"http://img.wdjimg.com/mms/icon/v1/b/19/f7f15f31a95e93746268d6723d24f19b_256_256.png"	"便捷生活 网上购物 金融理财 特价 宝贝 女装 市场"	1	20
+953	"air.nceo.as.android856002927"	1715	"美人国"	NULL	NULL	NULL	NULL	0	3
+954	"com.yingfu"	1714	NULL	NULL	NULL	NULL	NULL	0	13
+955	"com.yuetao.shopytj.entry"	1714	"购物街"	"网上购物"	"2.24M"	"http://img.wdjimg.com/mms/icon/v1/6/dc/6eadde86f3018379b2c1fb69b4d06dc6_256_256.png"	"网上购物 精品 优惠"	1	21
+956	"com.dx.stock_legu"	1714	"乐股5.22"	NULL	NULL	NULL	NULL	0	18
+957	"air.us.sanguo.agn"	1713	NULL	NULL	NULL	NULL	NULL	0	4
+958	"com.leqi"	1713	NULL	NULL	NULL	NULL	NULL	0	15
+959	"com.yichedai"	1713	NULL	NULL	NULL	NULL	NULL	0	15
+960	"com.tx.read"	1713	"天下阅读"	NULL	NULL	NULL	NULL	0	10
+961	"com.yarin.android.CityWeather"	1713	"《城市天气预报》"	"便捷生活"	"55.12K"	"http://img.wdjimg.com/mms/icon/v1/6/e8/bd4328ed55edc4011624fbad7c730e86_256_256.png"	"便捷生活 天气预报 北京 城市"	1	15
+962	"com.NoonDate"	1713	"정오의 데이트 - 매일 소개팅"	"社交"	"13M"	"https://lh4.ggpht.com/wm_wDuMgz7L5Z9OSE-igHku114wShhDMX8yDzfItctTM7aQpuFGwkrtUYFpCqG05sAE=w300-rw"	"4.3"	2	8
+963	"com.playin.newsg"	1712	"悍将三国"	NULL	NULL	NULL	NULL	0	1
+964	"com.kuwangke.lebo"	1712	"乐播"	NULL	NULL	NULL	NULL	0	9
+965	"com.tuan800.tao800iphone.tao800"	1712	"折800 - 淘宝折扣精选（原淘800）聚合淘宝	聚划算	天猫9块9包邮	QQ团	京东	当当	凡客	"	NULL	NULL	NULL	NULL	0	20
+966	"com.hujiang.Cichang-iPad"	1712	"开心词场3"	NULL	NULL	NULL	NULL	0	13
+967	"com.wwx.stoneageother.ios.appstore"	1712	"石器时代-官方正版"	NULL	NULL	NULL	NULL	0	6
+968	"com.noumena.ios.xolcn"	1712	"王国创世录"	NULL	NULL	NULL	NULL	0	1
+969	"com.qunar.iphoneclient8"	1712	"去哪儿旅行-机票酒店.火车票.旅游团购.出租打车.景点门票.吃喝玩乐.休闲度假"	NULL	NULL	NULL	NULL	0	22
+970	"com.yinghua2"	1712	NULL	NULL	NULL	NULL	NULL	0	6
+971	"cn.ta.longyinol"	1712	"龙印OL"	NULL	NULL	NULL	NULL	0	1
+972	"com.sanguoq.ios.sanguokill"	1712	"三国KILL-策略桌游"	NULL	NULL	NULL	NULL	0	1
+973	"com.locojoy.immt-a-chs"	1712	"我叫MT Online"	NULL	NULL	NULL	NULL	0	6
+974	"com.rmsm.AppTang"	1712	"酷应用"	NULL	NULL	NULL	NULL	0	14
+975	"com.hangzhoucaimi.wacai"	1712	"挖财"	NULL	NULL	NULL	NULL	0	15
+976	"cn.1dou.csg"	1712	"乱世之刃"	NULL	NULL	NULL	NULL	0	5
+977	"com.pip.xuanyuan"	1712	"明珠轩辕"	NULL	NULL	NULL	NULL	0	6
+978	"com.meituan.imeituan"	1712	"美团团购-优惠	美食	酒店	电影票	团购"	NULL	NULL	NULL	NULL	0	20
+979	"com.xd.js"	1712	"将神HD"	NULL	NULL	NULL	NULL	0	6
+980	"com.babeltime.rxhzwhd"	1712	"热血海贼王HD"	NULL	NULL	NULL	NULL	0	6
+981	"com.zst.f3.ec800001.android"	1712	"移动商务通"	"新闻资讯"	"3.13M"	"http://img.wdjimg.com/mms/icon/v1/7/a4/5cb292b451b54ade14ec938d86a46a47_256_256.png"	"新闻资讯 常用工具 企业 北京 互联网 品牌 案例"	1	17
+982	"com.longchangda.LCDFlight"	1712	"掌上航旅"	NULL	NULL	NULL	NULL	0	22
+983	"com.cmmobi.VideoShare"	1712	"looklook"	NULL	NULL	NULL	NULL	0	15
+984	"com.fljt.xywz"	1712	"傲世西游&middot;神魔篇"	NULL	NULL	NULL	NULL	0	5
+985	"com.uqee.LyingDragon"	1712	"卧龙吟"	NULL	NULL	NULL	NULL	0	1
+986	"com.geo-bell"	1712	"百事铃"	NULL	NULL	NULL	NULL	0	16
+987	"com.babeltime.rxhzwol"	1712	"热血海贼王OL"	NULL	NULL	NULL	NULL	0	6
+988	"com.cyou.mrd.monsterworld"	1712	"妖界"	NULL	NULL	NULL	NULL	0	6
+989	"com.funpig.kkou"	1712	"快扣优惠"	NULL	NULL	NULL	NULL	0	20
+990	"com.yiwa.fengyun.yiwasgz"	1712	"三国志OL"	NULL	NULL	NULL	NULL	0	6
+991	"com.netease.jiaoyou"	1712	"网易花田-免费沟通婚恋交友社区"	NULL	NULL	NULL	NULL	0	8
+992	"com.feiliu.hslj"	1712	"武林盟主"	NULL	NULL	NULL	NULL	0	6
+993	"com.games.westol"	1712	"西游记 Online"	NULL	NULL	NULL	NULL	0	3
+994	"com.tipcat.3kApp"	1712	"调教三国"	NULL	NULL	NULL	NULL	0	6
+995	"com.xiaomishu.zhaoyao"	1712	"霸王菜"	NULL	NULL	NULL	NULL	0	15
+996	"com.meiyu.millionarthurs"	1712	"扩散性百万亚瑟王"	NULL	NULL	NULL	NULL	0	4
+997	"com.yilegame.SangouEnchantress"	1712	"妖姬三国"	NULL	NULL	NULL	NULL	0	3
+998	"com.cebbank.ebank.push"	1712	"瑶瑶缴费"	NULL	NULL	NULL	NULL	0	15
+999	"ifengNews"	1712	"凤凰新闻"	NULL	NULL	NULL	NULL	0	17
+1000	"com.LanguageTest"	1712	"feixin"	NULL	NULL	NULL	NULL	0	16
+1001	"com.culiukeji.tenword"	1712	"十句话"	NULL	NULL	NULL	NULL	0	15
+1002	"com.morefuntek.kingii"	1712	"君王2"	NULL	NULL	NULL	NULL	0	6
+1003	"com.morefuntek.sgsj"	1712	"上古世界"	NULL	NULL	NULL	NULL	0	6
+1004	"com.boyaa.DDZPokerCN"	1712	"博雅斗地主"	NULL	NULL	NULL	NULL	0	4
+1005	"com.socialquantum2.cityinthd"	1712	"Megapolis HD"	NULL	NULL	NULL	NULL	0	1
+1006	"cn.com.people.www"	1712	"人民网"	NULL	NULL	NULL	NULL	0	17
+1007	"com.digitalcloud.otwzh"	1712	"雄霸天地(简体版)"	NULL	NULL	NULL	NULL	0	6
+1008	"com.pokercity.fightlordiPhone"	1712	"波克斗地主"	NULL	NULL	NULL	NULL	0	4
+1009	"com.socialquantum2.cityint"	1712	"Megapolis"	NULL	NULL	NULL	NULL	0	1
+1010	"com.xy.wls"	1712	"武林叁"	NULL	NULL	NULL	NULL	0	6
+1011	"com.locojoy.yongbingHD"	1712	"佣兵天下-3D魔幻大作"	NULL	NULL	NULL	NULL	0	1
+1012	"com.kaixin001.jipin"	1712	"开心集品"	NULL	NULL	NULL	NULL	0	8
+1013	"com.haifeng.vistafenghui"	1712	"Vista锋绘漫画"	NULL	NULL	NULL	NULL	0	10
+1014	"jiehun.com"	1712	NULL	NULL	NULL	NULL	NULL	0	21
+1015	"com.dovo.MaritimeEmpire"	1712	"海岛大亨：航海帝国"	NULL	NULL	NULL	NULL	0	1
+1016	"com.jinjiang.jjiphoneapp"	1712	"锦江旅行+PRO 锦江官方应用，锦江之星，百时快捷，星级酒店特价预订，汉庭"	NULL	NULL	NULL	NULL	0	15
+1017	"com.juren"	1712	NULL	NULL	NULL	NULL	NULL	0	14
+1018	"com.phonewoods.hoolai.aoshitiandi"	1712	"傲视天地"	NULL	NULL	NULL	NULL	0	1
+1019	"com.hujiang.listen"	1712	"沪江听力酷 - 英语、日语、法语、韩语、德语、新概念、演讲、四级、动漫、口语听力大全"	NULL	NULL	NULL	NULL	0	13
+1020	"com.blingstorm.sanguo"	1712	"大城小将"	NULL	NULL	NULL	NULL	0	1
+1021	"com.pingan.palcbj"	1712	"平安理财产品速递"	NULL	NULL	NULL	NULL	0	18
+1022	"com.sqage.mieshi"	1712	"忘仙"	NULL	NULL	NULL	NULL	0	6
+1023	"com.4399.SoulKeeper"	1712	"灵魂守护者"	NULL	NULL	NULL	NULL	0	6
+1024	"com.cheerstudio.FighterAgainstDragon"	1712	"龙斗士"	NULL	NULL	NULL	NULL	0	1
+1025	"com.dsc.Mobile57"	1712	"订餐小秘书"	NULL	NULL	NULL	NULL	0	15
+1026	"com.iphonesoft3g.texaspoker"	1712	"美女德州扑克"	NULL	NULL	NULL	NULL	0	4
+1027	"com.guoling-telecom.KCMin"	1712	"KC网络电话(Mini版)"	NULL	NULL	NULL	NULL	0	16
+1028	"cn.here.newtry"	1712	"得脉"	NULL	NULL	NULL	NULL	0	8
+1029	"com.fangzhou.rune"	1712	"天使之战"	NULL	NULL	NULL	NULL	0	6
+1030	"youmi.TestTJConnect"	1712	"TestDrive"	NULL	NULL	NULL	NULL	0	15
+1031	"cn.jj.pokerhd"	1712	"JJ德州扑克"	NULL	NULL	NULL	NULL	0	4
+1032	"com.main.jjttnew"	1712	"囧囧图图网"	"视频"	"899.02M"	"http://img.lenovomm.com/crawler@cluster-1/ams/fileman/img/icon/2013-01-30124406-_1359477846285_2233.png?isCompress=true&width=75&height=75&quantity=0.8"	NULL	6	8
+1033	"com.yourcompany.xyjdx1"	1712	"新一骑当先"	NULL	NULL	NULL	NULL	0	6
+1034	"com.ijinshan.ksmobilebrowser"	1712	"猎豹浏览器&mdash;&mdash;能下载视频的超炫手机浏览器"	NULL	NULL	NULL	NULL	0	14
+1035	"com.anjuke.anjuke"	1712	"安居客二手房-房价、买房、房产、搜房"	NULL	NULL	NULL	NULL	0	15
+1036	"com.redatoms.imojo.sg"	1712	"三国来了"	NULL	NULL	NULL	NULL	0	6
+1037	"com.aiyuehui"	1712	"爱约会"	"社交网络"	"367.2K"	"http://img.wdjimg.com/mms/icon/v1/0/a7/1009634597dd4eebf0bdf5f8d50f5a70_256_256.png"	"社交网络"	1	8
+1038	"com.morefuntek.godApp"	1712	"我是神仙"	NULL	NULL	NULL	NULL	0	6
+1039	"com.dianping.tuan"	1712	"大众点评团购－美食	电影票团购"	NULL	NULL	NULL	NULL	0	20
+1040	"com.henry"	1712	"xxx"	NULL	NULL	NULL	NULL	0	15
+1041	"com.account"	1712	"手机财益"	NULL	NULL	NULL	NULL	0	18
+1042	"2DE8QTFYGR.com.kuxun.flight"	1712	"酷讯机票"	NULL	NULL	NULL	NULL	0	22
+1043	"com.lekann.WebPlayerKidsIpad2"	1712	"乐看儿童动画"	NULL	NULL	NULL	NULL	0	13
+1044	"shounews"	1712	"搜狐新闻"	NULL	NULL	NULL	NULL	0	17
+1045	"com.anjuke.haozu"	1712	"安居客好租-租房、整租、合租、搜房"	NULL	NULL	NULL	NULL	0	15
+1046	"com.uxin-network-technology.uxin"	1712	"有信"	NULL	NULL	NULL	NULL	0	16
+1047	"com.pearlinpalm.nitian"	1712	"逆天仙魔录IOS"	NULL	NULL	NULL	NULL	0	6
+1048	"com.cndw.dividedstates"	1712	"三分天下"	NULL	NULL	NULL	NULL	0	6
+1049	"com.renren.game.3kingdoms"	1712	"乱世天下"	NULL	NULL	NULL	NULL	0	1
+1050	"com.xunjie.woaiphone"	1712	"大城小将"	NULL	NULL	NULL	NULL	0	1
+1051	"com.layne.com.layne.reactionrate"	1712	"测试反应时间"	NULL	NULL	NULL	NULL	0	4
+1052	"com.beijinggamebean.dwsgmjl"	1712	"热血帝王•名将录"	NULL	NULL	NULL	NULL	0	1
+1053	"com.appfame.jxcq"	1712	"剑侠传奇(礼包版)"	NULL	NULL	NULL	NULL	0	6
+1054	"com.armisi.ArmisiFamily"	1712	"阿爸阿妈"	NULL	NULL	NULL	NULL	0	13
+1055	"com.zqgame.commandTestIphone"	1712	"联盟战争"	NULL	NULL	NULL	NULL	0	5
+1056	"com.liuxiuhua.xiaoxiong"	1712	"英雄赤壁-回到无双真三国加入火爆竞技战场"	NULL	NULL	NULL	NULL	0	6
+1057	"dd.doctorReaderFree"	1712	"翰林书苑"	NULL	NULL	NULL	NULL	0	10
+1058	"com.aimer.iphone"	1712	"Aimer爱慕官方商城"	NULL	NULL	NULL	NULL	0	21
+1059	"com.51pocket.PocketDolls"	1712	"怪物X联盟"	NULL	NULL	NULL	NULL	0	3
+1060	"cn.zhui.client1511001"	1712	"爱切兰特鳄鱼皮官方网"	NULL	NULL	NULL	NULL	0	21
+1061	"frameapp.com.broken.jjh.dj91"	1712	"六脉神剑"	NULL	NULL	NULL	NULL	0	5
+1062	"com.xxshenghuo.xxsh"	1712	"想想生活"	NULL	NULL	NULL	NULL	0	15
+1063	"com.passingit.cloudcate2.waiter"	1712	"自助点餐系统"	NULL	NULL	NULL	NULL	0	15
+1064	"com.womai.iphone"	1712	"我买网"	NULL	NULL	NULL	NULL	0	21
+1065	"com.ijinshan.kwechatguide"	1712	"微信导航"	NULL	NULL	NULL	NULL	0	8
+1066	"com.uuzu.mjhios.cw"	1712	"萌江湖"	NULL	NULL	NULL	NULL	0	6
+1067	"com.54rich.syrsip.cn"	1712	"商业人生"	NULL	NULL	NULL	NULL	0	1
+1068	"com.sharppoint.latestRelease"	1712	"说应用"	NULL	NULL	NULL	NULL	0	14
+1069	"com.eko.mio"	1712	"三国喵大乱斗"	NULL	NULL	NULL	NULL	0	6
+1070	"cn.net.suitang.SuiTangIAP"	1712	"隋唐英雄"	NULL	NULL	NULL	NULL	0	3
+1071	"com.yintai.iphone"	1712	"银泰百货--时尚购物首选"	NULL	NULL	NULL	NULL	0	21
+1072	"com.feiliu.sword"	1712	"御剑&bull;飞流至尊版-萌宠仙侠RPG"	NULL	NULL	NULL	NULL	0	6
+1073	"dayima.yurongcorp.com"	1712	"大姨妈"	NULL	NULL	NULL	NULL	0	15
+1074	"cn.com.hoolai.checkmate"	1712	"将军"	NULL	NULL	NULL	NULL	0	1
+1075	"com.galeapp.DouDiZhu"	1712	"锵锵斗地主"	NULL	NULL	NULL	NULL	0	4
+1076	"com.appfame.hxyxfree"	1712	"幻想英雄&ndash;穿越英雄大乱斗"	NULL	NULL	NULL	NULL	0	6
+1077	"ctrip.com"	1712	"携程旅游"	NULL	NULL	NULL	NULL	0	22
+1078	"com.doker.xbbattle.gh"	1712	"王国使命"	NULL	NULL	NULL	NULL	0	6
+1079	"com.geyou.blader"	1712	"义江湖"	NULL	NULL	NULL	NULL	0	6
+1080	"com.teamtopgame.hssg"	1712	"三国名将"	NULL	NULL	NULL	NULL	0	6
+1081	"com.teamtop3.KungfuWorldpro"	1712	"永生门"	NULL	NULL	NULL	NULL	0	6
+1082	"com.dynamicunitrade.Foodprint"	1712	"食在亚洲"	NULL	NULL	NULL	NULL	0	22
+1083	"Bundle.name.vlook"	1712	"微录客"	NULL	NULL	NULL	NULL	0	8
+1084	"com.meilishuo.meilishuo-hd"	1712	"美丽说"	NULL	NULL	NULL	NULL	0	21
+1085	"com.galeapp.CarInfomation"	1712	"每日汽车"	NULL	NULL	NULL	NULL	0	17
+1086	"com.digitalcloud.tianqihd"	1712	"梦幻天启HD"	NULL	NULL	NULL	NULL	0	6
+1087	"com.cheerstudio.RunesOfWarPIP"	1712	"龙斗士越狱"	NULL	NULL	NULL	NULL	0	1
+1088	"cn.1hai.1haiiPhone"	1712	"一嗨租车"	NULL	NULL	NULL	NULL	0	22
+1089	"cn.emapp.taobaoclient2683"	1712	"欧美名品眼镜专家"	"网上购物"	"2.99M"	"http://img.wdjimg.com/mms/icon/v1/a/d8/40845aafa56089131ae3a9bcbd511d8a_256_256.png"	"网上购物"	1	17
+1090	"moby.hk.apps.nusDSClient"	1712	"龙印OL"	NULL	NULL	NULL	NULL	0	5
+1091	"com.anjuke.anjukePad"	1712	"安居客 二手房 HD"	NULL	NULL	NULL	NULL	0	15
+1092	"com.kascend.KascendPaiku"	1712	"拍酷"	NULL	NULL	NULL	NULL	0	12
+1093	"com.inspireinc.douzhensanguo"	1712	"天天三国-史上最Q版卡牌游戏组队PVP在线战斗PK好友"	NULL	NULL	NULL	NULL	0	4
+1094	"com.digitalcloud.tianqi"	1712	"梦幻天启"	NULL	NULL	NULL	NULL	0	6
+1095	"com.ipi.swxzs_android"	1712	"商务小助手"	"站外应用"	"1.1M"	"http://static.yingyonghui.com/icon/72/669600.png"	""	3	11
+1096	"com.lekan.ebook.iPad"	1712	"乐看儿童书"	NULL	NULL	NULL	NULL	0	10
+1097	"com.54rich.dfhbtip.cn"	1712	"大富豪"	NULL	NULL	NULL	NULL	0	3
+1098	"com.koramgame.dhjhchs"	1712	"武侠Q传"	NULL	NULL	NULL	NULL	0	6
+1099	"com.D9.heroids"	1712	"口袋魔兽"	NULL	NULL	NULL	NULL	0	1
+1100	"com.caijia.xianshimianfeihd"	1712	"i点评"	NULL	NULL	NULL	NULL	0	15
+1101	"com.passingit.cloudcate.desktopplate.activity"	1712	"水生玩你妹"	NULL	NULL	NULL	NULL	0	4
+1102	"com.gao7.free"	1712	"搞趣网"	NULL	NULL	NULL	NULL	0	17
+1103	"com.play8studio.mzsghh"	1712	"明珠三国"	NULL	NULL	NULL	NULL	0	1
+1104	"com.kongzhong.tjmammoth.ios.zqsd"	1712	"蒸汽时代"	NULL	NULL	NULL	NULL	0	1
+1105	"com.51job.ios51job"	1712	"前程无忧"	NULL	NULL	NULL	NULL	0	17
+1106	"com.sohu.auto.AutoAuction"	1712	"买车宝 - 汽车报价、汽车大全、汽车行情、汽车降价、购车优惠"	NULL	NULL	NULL	NULL	0	17
+1107	"com.layne.iRadio"	1712	"i电台"	NULL	NULL	NULL	NULL	0	9
+1108	"cn.zaker.iphone"	1712	"ZAKER"	NULL	NULL	NULL	NULL	0	17
+1109	"com.morefuntek.stariosmf"	1712	"叮叮堂"	NULL	NULL	NULL	NULL	0	4
+1110	"cn.geili.IShopping2"	1712	"逛淘宝"	NULL	NULL	NULL	NULL	0	20
+1111	"com.wangning.skyvideo"	1712	"魔兽争霸视频"	NULL	NULL	NULL	NULL	0	9
+1112	"cn.com.hoolai.divinecomdedy"	1712	"神曲 HD"	NULL	NULL	NULL	NULL	0	6
+1113	"com.nuomeina.ios.cangqiong"	1712	"苍穹"	NULL	NULL	NULL	NULL	0	5
+1114	"com.talentwalker.app.HeroLegend-YeahYoo-Uni"	1712	"女神来了"	NULL	NULL	NULL	NULL	0	1
+1115	"com.anjuke.newhouse"	1712	"安居客新房-房价、买房、楼盘、搜房"	NULL	NULL	NULL	NULL	0	15
+1116	"com.yxm"	1712	"DemoYoumi"	NULL	NULL	NULL	NULL	0	21
+1117	"com.nuomeina.ios.yinhexd"	1712	"银河创世录"	NULL	NULL	NULL	NULL	0	1
+1118	"com.poketec.texas.other"	1712	"德州扑克"	NULL	NULL	NULL	NULL	0	4
+1119	"com.qiyun.sgzd"	1712	"君临三国"	NULL	NULL	NULL	NULL	0	1
+1120	"com.sanguoq.ios.guess"	1712	"天天猜图~"	NULL	NULL	NULL	NULL	0	4
+1121	"com.sj.91.waruc"	1712	"战国天下"	NULL	NULL	NULL	NULL	0	6
+1122	"com.54rich.syrshd.cn"	1712	"商业人生"	NULL	NULL	NULL	NULL	0	1
+1123	"com.camelgames.little-empire.cn"	1712	"小小帝国"	NULL	NULL	NULL	NULL	0	1
+1124	"com.renren.game.mjcq"	1712	"千城破"	NULL	NULL	NULL	NULL	0	6
+1125	"com.tuan800.iphone"	1712	"团购大全 - 手机买团购导航(团800出品)汇聚美团	窝窝	大众点评团	糯米	拉手	QQ团	携程团	"	NULL	NULL	NULL	NULL	0	20
+1126	"com.teamtop3.zhongshenzhizhan"	1712	"神战HD+"	NULL	NULL	NULL	NULL	0	6
+1127	"com.culiukeji.JiuKuaiJiu"	1712	"9块9包邮购"	NULL	NULL	NULL	NULL	0	20
+1128	"com.kingdee.MyMoney"	1712	"随手记"	NULL	NULL	NULL	NULL	0	18
+1129	"com.walnut.finalfuryinternational"	1712	"枪火在线"	NULL	NULL	NULL	NULL	0	2
+1130	"com.ucweb.JiuYou"	1712	"九游游戏平台"	NULL	NULL	NULL	NULL	0	14
+1131	"com.baihe.online"	1712	"百合网婚恋交友"	NULL	NULL	NULL	NULL	0	8
+1132	"com.duoju.WeJu"	1712	"微聚-结识附近新朋友	 陌生人约会交友"	NULL	NULL	NULL	NULL	0	8
+1133	"com.SDK.Project3"	1712	"动动爆"	NULL	NULL	NULL	NULL	0	4
+1134	"com.noumena.ios.heroescn"	1712	"诸神之怒"	NULL	NULL	NULL	NULL	0	5
+1135	"com.gome.gomeEShop"	1712	"国美在线"	NULL	NULL	NULL	NULL	0	21
+1136	"com.nuomeina.ios.hejin"	1712	"合金要塞"	NULL	NULL	NULL	NULL	0	1
+1137	"com.llyt.tiantianhuafei"	1712	"天天话费充值"	NULL	NULL	NULL	NULL	0	15
+1138	"com.bluefir.kpgs"	1712	"Kung Pow Granny Seasons"	NULL	NULL	NULL	NULL	0	4
+1139	"com.otheri.sdk.test"	1712	"321423"	NULL	NULL	NULL	NULL	0	0
+1140	"com.feiliu.1empire"	1712	"王者战纪-QQ大作塔防对战"	NULL	NULL	NULL	NULL	0	1
+1141	"com.d-tong-telecom.breakprison-3G"	1712	"3G网络电话"	NULL	NULL	NULL	NULL	0	16
+1142	"com.game.xuedizi"	1712	"血滴子"	NULL	NULL	NULL	NULL	0	6
+1143	"com.hcsql.sqdh"	1712	"省钱电话"	NULL	NULL	NULL	NULL	0	16
+1144	"cn.asqw.android.esay"	1712	"吃软饭日方"	NULL	NULL	NULL	NULL	0	4
+1145	"com.lk.wzzj.arthur"	1712	"王者之剑"	NULL	NULL	NULL	NULL	0	5
+1146	"com.737.jiongxiyou"	1712	"囧西游"	NULL	NULL	NULL	NULL	0	4
+1147	"com.lk.wzzj.apple"	1712	"王者之剑"	NULL	NULL	NULL	NULL	0	6
+1148	"com.doujiao.coupon"	1712	"豆角优惠"	NULL	NULL	NULL	NULL	0	15
+1149	"cn.winjingAD.application.test"	1712	"测试"	NULL	NULL	NULL	NULL	0	0
+1150	"com.d-tong-telecom.kc"	1712	"KC电话-免费省钱网络电话"	NULL	NULL	NULL	NULL	0	16
+1151	"com.laiyaoyao.eat"	1712	"食神摇摇"	NULL	NULL	NULL	NULL	0	15
+1152	"com.uuzu.mjhff"	1712	"萌江湖：豪华版"	NULL	NULL	NULL	NULL	0	1
+1153	"com.hotels.iPadHotels"	1712	"Hotels.com –预定网	酒店	订房网	宾馆	旅行	旅馆	特价酒店 ."	NULL	NULL	NULL	NULL	0	22
+1154	"com.kaixin001.KaixinZoo"	1712	"开心动物王国"	NULL	NULL	NULL	NULL	0	3
+1155	"com.example.ymtest"	1712	"asdsadsadsadasdsadsa"	NULL	NULL	NULL	NULL	0	0
+1156	"com.sharppoint.LatestLimitFree"	1712	"软件游戏猎手"	NULL	NULL	NULL	NULL	0	17
+1157	"com.ifree.cardCHS"	1712	"魔卡幻想"	NULL	NULL	NULL	NULL	0	4
+1158	"com.kongzhong.tjmammoth.ios.lords.cn"	1712	"大领主"	NULL	NULL	NULL	NULL	0	3
+1159	"com.ijinshan.beijing.kbatterydoctor"	1712	"金山电池医生"	NULL	NULL	NULL	NULL	0	14
+1160	"com.galeapp.parsley-store"	1712	"烈风商店"	NULL	NULL	NULL	NULL	0	14
+1161	"com.ijinshan.beijing.kbatterydoctorhd"	1712	"Battery Doctor HD"	NULL	NULL	NULL	NULL	0	14
+1162	"com.gzyouai.bwzqfreeforipad"	1712	"比武招亲iPad免费版-2013必玩武侠&middot;卡牌游戏"	NULL	NULL	NULL	NULL	0	4
+1163	"FaCaiWang.ipa"	1712	"彩票8"	NULL	NULL	NULL	NULL	0	15
+1164	"com.cmge.monv"	1712	"怪兽岛(中文版)"	NULL	NULL	NULL	NULL	0	1
+1165	"com.linggan.xiyou"	1712	"西柚-大姨妈神器(月经	经期	备孕	孕期助手)"	NULL	NULL	NULL	NULL	0	15
+1166	"com.zhuan.huafei"	1712	"免费赚话费_轻松几分钟赚取电话费！支持移动、联通、电信"	NULL	NULL	NULL	NULL	0	15
+1167	"5LDV722ABF.com.meilishuo.meilishuo"	1712	"美丽说"	NULL	NULL	NULL	NULL	0	21
+1168	"com.taofen8.TfClient"	1712	"淘粉吧"	NULL	NULL	NULL	NULL	0	20
+1169	"xingkuanjie.client1786083"	1712	"明星同款服装街"	"网上购物"	"2.13M"	"http://img.wdjimg.com/mms/icon/v1/1/79/14c6e15865e3fcd0fca684d8ad3cd791_256_256.png"	"网上购物 金融理财"	1	17
+1170	"com.54rich.dfhhd.cn"	1712	"大富豪HD"	NULL	NULL	NULL	NULL	0	1
+1171	"com.zynga.livepoker.700"	1712	"Poker by Zynga"	NULL	NULL	NULL	NULL	0	4
+1172	"com.D9.swordsman"	1712	"大侠OL-与传奇掌门组建联盟最终笑傲英雄的幻想江湖"	NULL	NULL	NULL	NULL	0	6
+1173	"kr.co.icomas.LotteStarPhoto"	1712	"明星爱为你"	NULL	NULL	NULL	NULL	0	12
+1174	"com.kongzhong.wmiphonech"	1712	"魔界勇士"	NULL	NULL	NULL	NULL	0	6
+1175	"com.heygam.jiaowomengjiangBreakJail"	1712	"三国点将"	NULL	NULL	NULL	NULL	0	1
+1176	"com.skygame3.yingxiongsanguo"	1712	"英雄三国"	NULL	NULL	NULL	NULL	0	1
+1177	"info.peterding.aiyangcheng"	1712	"爱养成"	NULL	NULL	NULL	NULL	0	3
+1178	"com.game.jzsgiphone"	1712	"决战三国"	NULL	NULL	NULL	NULL	0	1
+1179	"com.morefuntek.kingiiapp"	1712	"君王2 HD"	NULL	NULL	NULL	NULL	0	6
+1180	"com.xunjie.iblox2Ipad"	1712	"软件游戏猎手"	NULL	NULL	NULL	NULL	0	17
+1181	"com.cwbook.yylt"	1712	"烟雨楼图"	NULL	NULL	NULL	NULL	0	10
+1182	"com.tencent.qqxlhd"	1712	"QQ降龙HD"	NULL	NULL	NULL	NULL	0	6
+1183	"com.51wan.daming"	1712	"大明浮生记"	NULL	NULL	NULL	NULL	0	4
+1184	"com.ucweb.iphone"	1712	"UC浏览器"	NULL	NULL	NULL	NULL	0	14
+1185	"cn.zhui.client1009519"	1712	"手机购物"	NULL	NULL	NULL	NULL	0	21
+1186	"com.layne.bri-free"	1712	"公交地铁查询"	NULL	NULL	NULL	NULL	0	15
+1187	"cn.jj.lordhd"	1712	"JJ斗地主 HD"	NULL	NULL	NULL	NULL	0	4
+1188	"com.sgmj.ipaysgmj"	1712	"三国名将"	NULL	NULL	NULL	NULL	0	6
+1189	"cn.zhui.client1740587"	1712	"瞎逛-手机购物助手"	"金融理财"	"1.99M"	"http://img.wdjimg.com/mms/icon/v1/4/8f/d5cc0e57a697055ef6ace1659b1b58f4_256_256.png"	"金融理财 常用工具"	1	18
+1190	"com.bitauto.carquote"	1712	"汽车报价大全"	NULL	NULL	NULL	NULL	0	17
+1191	"cn.gamexx.hog"	1712	"银河英雄传"	"角色扮演"	"84.18M"	"http://img.wdjimg.com/mms/icon/v1/5/59/8fe6328118b2c7b09717a134df9ea595_256_256.png"	"角色扮演"	1	6
+1192	"cn.zhui.client1141197"	1712	"淘宝网"	NULL	NULL	NULL	NULL	0	21
+1193	"jp.ne.d2c.kaizoku.cn"	1712	"海贼幻想"	NULL	NULL	NULL	NULL	0	6
+1194	"com.zqgame.commandTestIpad"	1712	"联盟战争HD"	NULL	NULL	NULL	NULL	0	1
+1195	"com.unitepower.ckj7882"	1712	"马尔夫《邪恶中国神话故事》"	NULL	NULL	NULL	NULL	0	10
+1196	"com.pubukeji.dolphinmarket"	1712	"海豚应用中心"	"软件与演示"	"1.7M"	"https://lh5.ggpht.com/yuk3FZD9k97rkGCqwV58xoQE-jMxjEQqdYi3f9CqBpLjFwM6N61PH9Qj3fp6VuQ9rkE=w300-rw"	"0.0"	2	14
+1197	"com.PierreFabre.Avene"	1712	"雅漾"	NULL	NULL	NULL	NULL	0	15
+1198	"com.dianxing.chujian"	1712	"初见返利神器"	NULL	NULL	NULL	NULL	0	20
+1199	"com.shishike.shishike"	1712	"客如云找位"	NULL	NULL	NULL	NULL	0	15
+1200	"com.dianping.dpscope"	1712	"大众点评—美食	酒店	电影	团购	优惠券"	NULL	NULL	NULL	NULL	0	15
+1201	"com.renren.igames.mjcbfy"	1712	"战魂无双"	NULL	NULL	NULL	NULL	0	1
+1202	"com.mobilenow.zespri"	1712	"奇异农庄"	NULL	NULL	NULL	NULL	0	1
+1203	"com.yuntongbu.xiaoa"	1712	"小A助手"	NULL	NULL	NULL	NULL	0	14
+1204	"com.yintai.iphone.identifier"	1712	"银泰百货"	NULL	NULL	NULL	NULL	0	21
+1205	"com.kuyun.kuyunTV"	1712	"酷云TV-全球首款电视互动产品"	NULL	NULL	NULL	NULL	0	9
+1206	"com.newlandcanadahd.LuanWu"	1712	"乾坤劫HD"	NULL	NULL	NULL	NULL	0	6
+1207	"com.deepseagame.zx"	1712	"战仙"	NULL	NULL	NULL	NULL	0	6
+1208	"com.galeapp.yushufang"	1712	"御书房"	NULL	NULL	NULL	NULL	0	10
+1209	"com.dreamingame.hoh.cn"	1712	"我是英雄"	NULL	NULL	NULL	NULL	0	6
+1210	"com.zhuce.huangjin"	1712	"黄金投资"	NULL	NULL	NULL	NULL	0	18
+1211	"com.elex.sanguows"	1712	"武神关圣ios"	NULL	NULL	NULL	NULL	0	6
+1212	"com.uuzu.ydzschn"	1712	"一代宗师官方版"	NULL	NULL	NULL	NULL	0	6
+1213	"com.360buy.jdmobile"	1712	"京东商城"	NULL	NULL	NULL	NULL	0	21
+1214	"com.timetoplay.4kcardCHS"	1712	"四国战记 - 寒冰之刃"	NULL	NULL	NULL	NULL	0	1
+1215	"com.yurongcorp.yrbaby"	1712	"优谈宝宝"	NULL	NULL	NULL	NULL	0	15
+1216	"cn.d2cchina.sangokushizhCN"	1712	"缭乱三国演义-极致RPG体验天天收集女版名将一统天下"	NULL	NULL	NULL	NULL	0	6
+1217	"com.tuan800.tao800ipad.tao800"	1712	"折800HD - 淘宝折扣精选（原淘800）聚合淘宝	聚划算	天猫9块9包邮	QQ团	京东	当当	凡"	NULL	NULL	NULL	NULL	0	20
+1218	"com.emoney.estock"	1712	"益盟操盘手"	NULL	NULL	NULL	NULL	0	18
+1219	"com.gzyouai.bwzqYeahYoo"	1712	"比武招亲"	NULL	NULL	NULL	NULL	0	5
+1220	"com.youxiduo.Youxiduo"	1712	"游戏多"	NULL	NULL	NULL	NULL	0	14
+1221	"com.eju.mobile.leju"	1712	"口袋乐居-看房、买房、租房、购房优惠一网打尽"	NULL	NULL	NULL	NULL	0	15
+1222	"com.juangua.mogujie"	1712	"蘑菇街"	NULL	NULL	NULL	NULL	0	21
+1223	"com.sohu.iPhoneVideo"	1712	"搜狐视频"	NULL	NULL	NULL	NULL	0	9
+1224	"guangfaday.com"	1712	NULL	NULL	NULL	NULL	NULL	0	6
+1225	"com.yinhan.IGame"	1712	"时空猎人"	NULL	NULL	NULL	NULL	0	5
+1226	"com.redatoms.imojo.wuxia"	1712	"武侠来了™"	NULL	NULL	NULL	NULL	0	6
+1227	"com.gameabc.sgsiphone"	1712	"三国杀"	NULL	NULL	NULL	NULL	0	1
+1228	"com.gx.yichong"	1712	"易充iOS"	NULL	NULL	NULL	NULL	0	15
+1229	"www.cndw.zhy"	1712	"醉红颜: 主公救我"	NULL	NULL	NULL	NULL	0	4
+1230	"com.5tshow.test01"	1712	"省钱聊"	NULL	NULL	NULL	NULL	0	16
+1231	"com.mango.ios.baiduflb"	1712	"伏龙"	NULL	NULL	NULL	NULL	0	6
+1232	"com.google.example.ads.xml"	1712	"测试"	NULL	NULL	NULL	NULL	0	14
+1233	"com.tongcheng.iphone"	1712	"同程旅游-景点门票	酒店	机票"	NULL	NULL	NULL	NULL	0	22
+1234	"cn.edu.nankai"	1712	"随意搜"	"常用工具"	"600K"	"http://img.wdjimg.com/mms/icon/v1/a/af/a4ef3be89bb81e31869bc28536fecafa_256_256.png"	"常用工具 便捷生活 短信 存储"	1	14
+1235	"com.dahuangfeng.taxi"	1712	"大黄蜂打车"	NULL	NULL	NULL	NULL	0	22
+1236	"com.tx.farm"	1712	"天下农场"	NULL	NULL	NULL	NULL	0	4
+1237	"com.zgmf.admobtest"	1712	"墨迹淘"	NULL	NULL	NULL	NULL	0	21
+1238	"com.4399.syyjfyz"	1712	"异界传说"	NULL	NULL	NULL	NULL	0	6
+1239	"com.yanghui.freecall100"	1712	"免费拨电话&mdash;固话手机、市话长途免费拨打"	NULL	NULL	NULL	NULL	0	16
+1240	"com.jiayuan.jiayuaniphone"	1712	"世纪佳缘"	NULL	NULL	NULL	NULL	0	8
+1241	"com.tx.fate"	1712	"天下星座"	NULL	NULL	NULL	NULL	0	15
+1242	"com.d-tong-telecom.breakprison-kc"	1712	"KC网络电话"	NULL	NULL	NULL	NULL	0	16
+1243	"com.feidee.MyCard"	1712	"卡牛 信用卡管家"	NULL	NULL	NULL	NULL	0	18
+1244	"jjx.game.main.ht"	1712	"cba游戏"	NULL	NULL	NULL	NULL	0	7
+1245	"com.appfame.zhsg"	1712	"纵横三国"	NULL	NULL	NULL	NULL	0	1
+1246	"com.digitalcloud.dragonforce"	1712	"龙之力量"	NULL	NULL	NULL	NULL	0	6
+1247	"com.wanmei.mini.condorapp"	1712	"神雕侠侣"	NULL	NULL	NULL	NULL	0	6
+1248	"com.yecaiquan.Mora"	1712	"野猜拳"	NULL	NULL	NULL	NULL	0	4
+1249	"com.cndw.Xia"	1712	"寻侠OL"	NULL	NULL	NULL	NULL	0	6
+1250	"com.wldh.sky"	1712	"SKY电话"	NULL	NULL	NULL	NULL	0	16
+1251	"com.netease.iphonereader"	1712	"网易云阅读"	NULL	NULL	NULL	NULL	0	10
+1252	"com.meilishuo.meilishuo-vivi"	1712	"【测试】昕薇美丽说 "	NULL	NULL	NULL	NULL	0	17
+1253	"com.elong.app"	1712	"艺龙无线-酒店·机票·旅游"	NULL	NULL	NULL	NULL	0	22
+1254	"com.koramgame.xbchs"	1712	"仙变：仙侠的世界"	NULL	NULL	NULL	NULL	0	6
+1255	"com.digitalcloud.otwyy"	1712	"雄霸天下"	NULL	NULL	NULL	NULL	0	5
+1256	"cn.bedo.KaiKai"	1712	"开开"	NULL	NULL	NULL	NULL	0	12
+1257	"com.mango.ios.mangosanguo"	1712	"风云天下"	NULL	NULL	NULL	NULL	0	1
+1258	"com.GuoLing-Telecommunications.UU"	1712	"UU网络电话"	NULL	NULL	NULL	NULL	0	16
+1259	"com.inspireinc.superheroes"	1712	"水浒英雄-3D热血巨献辉煌史诗大作"	NULL	NULL	NULL	NULL	0	6
+1260	"com.gewara.iphone"	1712	"格瓦拉@电影"	NULL	NULL	NULL	NULL	0	15
+1261	"com.tap4fun.galaxyempire2.chinese"	1712	"银河传说:帝国崛起"	NULL	NULL	NULL	NULL	0	1
+1262	"com.cad.vwmagazine"	1712	"大众汽车杂志"	NULL	NULL	NULL	NULL	0	17
+1263	"com.aspire.Vme"	1712	"微me"	NULL	NULL	NULL	NULL	0	8
+1264	"com.wanmei.mini.condorappfl"	1712	"神雕俠侶（國際版）"	NULL	NULL	NULL	NULL	0	6
+1265	"cn.zhui.client1583552"	1712	"掏宝&mdash;淘我喜欢，选我所爱！精选淘宝特价商品！"	NULL	NULL	NULL	NULL	0	20
+1266	"com.game.lstx"	1712	"乱世天下"	NULL	NULL	NULL	NULL	0	1
+1267	"com.morefuntek.starios"	1712	"叮叮堂OL"	NULL	NULL	NULL	NULL	0	5
+1268	"com.gzyouai.biwuzhaoqin"	1712	"比武招亲iPhone免费版-2013必玩武侠&middot;卡牌游戏"	NULL	NULL	NULL	NULL	0	4
+1269	"com.rizhi-network.feiin-break"	1712	"飞音网络电话"	NULL	NULL	NULL	NULL	0	16
+1270	"com.yida365.drivers"	1712	"e达招车"	NULL	NULL	NULL	NULL	0	15
+1271	"com.54rich.RichStory"	1712	"富豪传奇"	NULL	NULL	NULL	NULL	0	4
+1272	"com.netease.CityDate"	1712	"网易同城约会~多多了解，慢慢相爱"	NULL	"2.55M"	"http://img.wdjimg.com/mms/icon/v1/9/61/042d1c7aab3aa3543504cc745d6be619_256_256.png"	""	1	8
+1273	"com.eju.mobile.jiaju.walletwiz"	1666	"口袋装修——让装修省钱，省力，更省心！"	NULL	NULL	NULL	NULL	0	15
+1274	"com.cyou.mrd.tlbbkdtl"	1137	"天龙八部移动版"	"站外应用"	"80.4M"	"http://static.yingyonghui.com/icon/72/1264307.png"	NULL	3	6
+1275	"com.jqbar.app.bwbsddhd"	1093	NULL	NULL	NULL	NULL	NULL	0	1
+1276	"com.jh.jcs.activity"	710	NULL	NULL	NULL	NULL	NULL	0	8
+1277	"com.YLCX.HJCS"	339	NULL	NULL	NULL	NULL	NULL	0	6
+1278	"com.YLCX.HJCSHD"	288	NULL	NULL	NULL	NULL	NULL	0	6
+1279	"com.tencent.qqhouse"	228	"看房"	"便捷生活"	"2.53M"	"http://img.wdjimg.com/mms/icon/v1/6/dd/236214e55752c96d0816683558464dd6_256_256.png"	"便捷生活"	1	17
+1280	"com.mango.sanguo15.cooguo"	227	"撸三国"	NULL	"23.51M"	"http://img.wdjimg.com/mms/icon/v1/2/64/433f0c56dcebb256c6acc14eb62a4642_256_256.png"	""	1	6
+1281	"com.paad.compass"	125	"New Horizons Gyro Compass"	"工具"	"47k"	"https://lh6.ggpht.com/srBQ96K5QHIW_r9tDHhscHoCoyiRtGKNAxwqEodp86CYOHvDiO1qusijlzODz_2iOQ=w300-rw"	"3.7"	2	15
+1282	"com.sohu.newspaper"	10	NULL	NULL	NULL	NULL	NULL	0	17
+1283	"com.sohu.newspaper.sohunewsipad"	10	NULL	NULL	NULL	NULL	NULL	0	17
